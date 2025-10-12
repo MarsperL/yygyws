@@ -771,20 +771,6 @@
       "avatar": "https://bu.dusays.com/2023/08/25/64e8ca25e89c5.jpg"
     },
     {
-      "title": "深入解析 Kubernetes VPA 调优：动态资源分配与压测实战",
-      "created": "2024-12-05 12:37",
-      "link": "https://www.cnsre.cn/posts/241205123704/",
-      "author": "SRE运维",
-      "avatar": "https://www.cnsre.cn/favicon.ico"
-    },
-    {
-      "title": "Kubernetes HPA (Horizontal Pod Autoscaler) 测试与配置",
-      "created": "2024-12-04 12:50",
-      "link": "https://www.cnsre.cn/posts/241204125029/",
-      "author": "SRE运维",
-      "avatar": "https://www.cnsre.cn/favicon.ico"
-    },
-    {
       "title": "Prometheus告警带图完美解决方案",
       "created": "2024-11-26 23:35",
       "link": "http://www.cuiliangblog.cn/detail/article/91",
@@ -841,13 +827,6 @@
       "avatar": "https://cdn.zgq.me/assets/gq-avatar.png"
     },
     {
-      "title": "运维人员必备的 Mac Zsh 配置技巧",
-      "created": "2024-10-22 20:34",
-      "link": "https://www.cnsre.cn/posts/241022203423/",
-      "author": "SRE运维",
-      "avatar": "https://www.cnsre.cn/favicon.ico"
-    },
-    {
       "title": "Butterfly 5.1 更新日誌",
       "created": "2024-10-20 17:27",
       "link": "https://butterfly.js.org/posts/5-1-release-notes/",
@@ -867,20 +846,6 @@
       "link": "https://blog.qjqq.cn/posts/5240.html",
       "author": "青桔气球",
       "avatar": "https://avatar.qjqq.cn/1/6503bb1b7fa1a.webp!avatar"
-    },
-    {
-      "title": "如何使用 AWS Athena 查询用户对资源的创建和修改操作",
-      "created": "2024-10-18 09:13",
-      "link": "https://www.cnsre.cn/posts/241018091258/",
-      "author": "SRE运维",
-      "avatar": "https://www.cnsre.cn/favicon.ico"
-    },
-    {
-      "title": "使用 AWS Lambda 和 SNS 监控 S3 存储桶中的文件夹",
-      "created": "2024-09-20 16:35",
-      "link": "https://www.cnsre.cn/posts/240920163523/",
-      "author": "SRE运维",
-      "avatar": "https://www.cnsre.cn/favicon.ico"
     },
     {
       "title": "Cell-based regenerative therapy 基于细胞的再生疗法",
@@ -1065,11 +1030,46 @@
       "avatar": "https://bu.dusays.com/2023/08/25/64e8ca25e89c5.jpg"
     },
     {
+      "title": "一个六岁开源项目的崩溃与新生",
+      "created": "2024-03-11 03:29",
+      "link": "https://xlog.app/api/redirection?characterId=10&noteId=2532",
+      "author": "Hi，DIYgod",
+      "avatar": "https://ipfs.crossbell.io/ipfs/bafybeibefx2tyow77m2wcnsh5anaaxfy7ypxbcuapb52c4h255onqp72ye?img-quality=75&img-format=auto&img-onerror=redirect&img-width=256"
+    },
+    {
       "title": "XFS文件系统挂载报错",
       "created": "2024-02-20 16:00",
       "link": "https://imszz.com/p/b1f8a123/",
       "author": "Navi",
       "avatar": "https://cdn.jsdelivr.net/gh/weilain/cdn-photo/Photo/avatar.jpg"
+    },
+    {
+      "title": "和帕鲁生活在一起的两周",
+      "created": "2024-02-19 03:20",
+      "link": "https://xlog.app/api/redirection?characterId=10&noteId=2510",
+      "author": "Hi，DIYgod",
+      "avatar": "https://ipfs.crossbell.io/ipfs/bafybeibefx2tyow77m2wcnsh5anaaxfy7ypxbcuapb52c4h255onqp72ye?img-quality=75&img-format=auto&img-onerror=redirect&img-width=256"
+    },
+    {
+      "title": "Twitter 对开源项目发起 DDoS 攻击",
+      "created": "2024-01-28 18:24",
+      "link": "https://xlog.app/api/redirection?characterId=10&noteId=2456",
+      "author": "Hi，DIYgod",
+      "avatar": "https://ipfs.crossbell.io/ipfs/bafybeibefx2tyow77m2wcnsh5anaaxfy7ypxbcuapb52c4h255onqp72ye?img-quality=75&img-format=auto&img-onerror=redirect&img-width=256"
+    },
+    {
+      "title": "如何优雅编译一个 Markdown 文档",
+      "created": "2024-01-18 20:50",
+      "link": "https://xlog.app/api/redirection?characterId=10&noteId=2434",
+      "author": "Hi，DIYgod",
+      "avatar": "https://ipfs.crossbell.io/ipfs/bafybeibefx2tyow77m2wcnsh5anaaxfy7ypxbcuapb52c4h255onqp72ye?img-quality=75&img-format=auto&img-onerror=redirect&img-width=256"
+    },
+    {
+      "title": "2023 平稳过渡",
+      "created": "2024-01-08 22:23",
+      "link": "https://xlog.app/api/redirection?characterId=10&noteId=2358",
+      "author": "Hi，DIYgod",
+      "avatar": "https://ipfs.crossbell.io/ipfs/bafybeibefx2tyow77m2wcnsh5anaaxfy7ypxbcuapb52c4h255onqp72ye?img-quality=75&img-format=auto&img-onerror=redirect&img-width=256"
     },
     {
       "title": "新年倒计时改良&随便说说",
