@@ -1,4 +1,11 @@
 {
+  "statistical_data": {
+    "friends_num": 44,
+    "active_num": 39,
+    "error_num": 5,
+    "article_num": 161,
+    "last_updated_time": "2025-10-14 11:47:37"
+  },
   "article_data": [
     {
       "title": "Kubernetes 存储系统概览",
@@ -1127,9 +1134,5 @@
       "author": "Navi",
       "avatar": "https://cdn.jsdelivr.net/gh/weilain/cdn-photo/Photo/avatar.jpg"
     }
-  ],
-  "statistical_data": {
-    "friend_num": 0,
-    "article_num": 161
-  }
+  ]
 }
