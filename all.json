@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 44,
-    "active_num": 37,
-    "error_num": 7,
+    "active_num": 36,
+    "error_num": 8,
     "article_num": 158,
-    "last_updated_time": "2025-10-20 06:16:10"
+    "last_updated_time": "2025-10-20 09:03:23"
   },
   "article_data": [
     {
@@ -76,20 +76,6 @@
       "link": "https://jimmysong.io/book/kubernetes-handbook/observability/monitoring/",
       "author": "JIMMY SONG",
       "avatar": "https://jimmysong.io/favicon.png"
-    },
-    {
-      "title": "Final Cut Pro 资源库文件过大如何解决？如何清理资源库中的渲染文件和缓存？",
-      "created": "2025-10-17 17:37",
-      "link": "https://blog.zhheo.com/p/zvkkf5jm.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
-      "title": "Final Cut Pro 视频导出参数如何自定义码率？导出参数详细设置",
-      "created": "2025-10-17 17:21",
-      "link": "https://blog.zhheo.com/p/k34vgibs.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
     {
       "title": "构建自己的反思系统",
@@ -281,6 +267,20 @@
       "avatar": "https://limboy.me/assets/favicon.svg"
     },
     {
+      "title": "如何批量下载抖音某一个博主的全部视频，抖音视频批量下载方法",
+      "created": "2025-09-22 10:10",
+      "link": "https://blog.zhheo.com/p/u4t3kbx9.html",
+      "author": "张洪Heo",
+      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
+    },
+    {
+      "title": "在 Mac 的 Drawthings 中使用 Qwen Image Edit 打造个人IP形象衍生图",
+      "created": "2025-09-19 18:11",
+      "link": "https://blog.zhheo.com/p/0zfcxubz.html",
+      "author": "张洪Heo",
+      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
+    },
+    {
       "title": "【真成】第二期 运维必知扫盲之运维岗位细分及工作内容",
       "created": "2025-09-14 23:50",
       "link": "https://www.qiuyl.com/xueyw/ywsmbz/474",
@@ -358,27 +358,6 @@
       "avatar": "https://yeshu.cloud/images/apple-touch-icon.png"
     },
     {
-      "title": "K8s中明明配置了HPA，但是没扩容",
-      "created": "2025-09-04 19:37",
-      "link": "https://www.devopstory.cn/archives/kubernetes/k8s%e4%b8%ad%e6%98%8e%e6%98%8e%e9%85%8d%e7%bd%ae%e4%ba%86hpa%ef%bc%8c%e4%bd%86%e6%98%af%e6%b2%a1%e6%89%a9%e5%ae%b9/",
-      "author": "运维开发故事",
-      "avatar": "https://www.devopstory.cn/wp-content/uploads/2021/11/30971637511228_.pic_.jpg"
-    },
-    {
-      "title": "一文搞定 Linux 与 Windows 双系统修复",
-      "created": "2025-09-04 19:33",
-      "link": "https://www.devopstory.cn/archives/%e6%95%85%e9%9a%9c%e6%81%a2%e5%a4%8d/%e4%b8%80%e6%96%87%e6%90%9e%e5%ae%9a-linux-%e4%b8%8e-windows-%e5%8f%8c%e7%b3%bb%e7%bb%9f%e4%bf%ae%e5%a4%8d/",
-      "author": "运维开发故事",
-      "avatar": "https://www.devopstory.cn/wp-content/uploads/2021/11/30971637511228_.pic_.jpg"
-    },
-    {
-      "title": "开发 Operator 调度 GPU 实例资源池",
-      "created": "2025-09-04 19:30",
-      "link": "https://www.devopstory.cn/archives/kubernetes/%e5%bc%80%e5%8f%91-operator-%e8%b0%83%e5%ba%a6-gpu-%e5%ae%9e%e4%be%8b%e8%b5%84%e6%ba%90%e6%b1%a0/",
-      "author": "运维开发故事",
-      "avatar": "https://www.devopstory.cn/wp-content/uploads/2021/11/30971637511228_.pic_.jpg"
-    },
-    {
       "title": "【真成】阿里云中云防火墙和WAF防火墙区别？",
       "created": "2025-09-03 21:36",
       "link": "https://www.qiuyl.com/xueyw/ywsmbz/472",
@@ -391,20 +370,6 @@
       "link": "https://yeshu.cloud/posts/newsletter-136/",
       "author": "一颗小树",
       "avatar": "https://yeshu.cloud/images/apple-touch-icon.png"
-    },
-    {
-      "title": "山洪灾害后的 Ceph 惨案：PG incomplete 到 RBD 镜像消失",
-      "created": "2025-08-26 17:44",
-      "link": "https://www.devopstory.cn/archives/ceph/%e5%b1%b1%e6%b4%aa%e7%81%be%e5%ae%b3%e5%90%8e%e7%9a%84-ceph-%e6%83%a8%e6%a1%88%ef%bc%9apg-incomplete-%e5%88%b0-rbd-%e9%95%9c%e5%83%8f%e6%b6%88%e5%a4%b1/",
-      "author": "运维开发故事",
-      "avatar": "https://www.devopstory.cn/wp-content/uploads/2021/11/30971637511228_.pic_.jpg"
-    },
-    {
-      "title": "一次CentOS7 glibc灾难的全链路修复",
-      "created": "2025-08-26 17:34",
-      "link": "https://www.devopstory.cn/archives/%e6%95%85%e9%9a%9c%e6%81%a2%e5%a4%8d/%e4%b8%80%e6%ac%a1centos7-glibc%e7%81%be%e9%9a%be%e7%9a%84%e5%85%a8%e9%93%be%e8%b7%af%e4%bf%ae%e5%a4%8d/",
-      "author": "运维开发故事",
-      "avatar": "https://www.devopstory.cn/wp-content/uploads/2021/11/30971637511228_.pic_.jpg"
     },
     {
       "title": "运维排错的通用逻辑与底层逻辑？",
@@ -806,6 +771,20 @@
       "avatar": "https://bu.dusays.com/2023/08/25/64e8ca25e89c5.jpg"
     },
     {
+      "title": "深入解析 Kubernetes VPA 调优：动态资源分配与压测实战",
+      "created": "2024-12-05 12:37",
+      "link": "https://www.cnsre.cn/posts/241205123704/",
+      "author": "SRE运维",
+      "avatar": "https://www.cnsre.cn/favicon.ico"
+    },
+    {
+      "title": "Kubernetes HPA (Horizontal Pod Autoscaler) 测试与配置",
+      "created": "2024-12-04 12:50",
+      "link": "https://www.cnsre.cn/posts/241204125029/",
+      "author": "SRE运维",
+      "avatar": "https://www.cnsre.cn/favicon.ico"
+    },
+    {
       "title": "Prometheus告警带图完美解决方案",
       "created": "2024-11-26 23:35",
       "link": "http://www.cuiliangblog.cn/detail/article/91",
@@ -841,11 +820,32 @@
       "avatar": "https://cdn.zgq.me/assets/gq-avatar.png"
     },
     {
+      "title": "运维人员必备的 Mac Zsh 配置技巧",
+      "created": "2024-10-22 20:34",
+      "link": "https://www.cnsre.cn/posts/241022203423/",
+      "author": "SRE运维",
+      "avatar": "https://www.cnsre.cn/favicon.ico"
+    },
+    {
       "title": "Butterfly 5.1 更新日誌",
       "created": "2024-10-20 17:27",
       "link": "https://butterfly.js.org/posts/5-1-release-notes/",
       "author": "Jerry",
       "avatar": "https://butterfly.js.org/img/avatar.png"
+    },
+    {
+      "title": "如何使用 AWS Athena 查询用户对资源的创建和修改操作",
+      "created": "2024-10-18 09:13",
+      "link": "https://www.cnsre.cn/posts/241018091258/",
+      "author": "SRE运维",
+      "avatar": "https://www.cnsre.cn/favicon.ico"
+    },
+    {
+      "title": "使用 AWS Lambda 和 SNS 监控 S3 存储桶中的文件夹",
+      "created": "2024-09-20 16:35",
+      "link": "https://www.cnsre.cn/posts/240920163523/",
+      "author": "SRE运维",
+      "avatar": "https://www.cnsre.cn/favicon.ico"
     },
     {
       "title": "Cell-based regenerative therapy 基于细胞的再生疗法",
