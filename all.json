@@ -4,7 +4,7 @@
     "active_num": 37,
     "error_num": 7,
     "article_num": 164,
-    "last_updated_time": "2025-10-21 20:27:11"
+    "last_updated_time": "2025-10-22 00:17:35"
   },
   "article_data": [
     {
@@ -34,13 +34,6 @@
       "link": "https://jimmysong.io/book/kubernetes-handbook/ai-native/infrastructure/",
       "author": "JIMMY SONG",
       "avatar": "https://jimmysong.io/favicon.png"
-    },
-    {
-      "title": "将电热毯通过 Homeassistant 接入 Homekit 并支持调节档位",
-      "created": "2025-10-20 12:20",
-      "link": "https://blog.zhheo.com/p/eqc0vrd6.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
     {
       "title": "Kubernetes 开发概述",
@@ -286,6 +279,13 @@
       "link": "https://wiki.eryajf.net/pages/97c5e8/",
       "author": "二丫讲梵",
       "avatar": "https://wiki.eryajf.net/img/logo.png"
+    },
+    {
+      "title": "升级到 macOS Tahoe 26 没有启动台？用 LaunchNext 实现在 macOS26 中使用启动台！",
+      "created": "2025-09-24 09:42",
+      "link": "https://blog.zhheo.com/p/rvl5xpjy.html",
+      "author": "张洪Heo",
+      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
     {
       "title": "避风塘 V2",
