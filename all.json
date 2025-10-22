@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 44,
-    "active_num": 36,
-    "error_num": 8,
-    "article_num": 160,
-    "last_updated_time": "2025-10-22 23:49:45"
+    "active_num": 37,
+    "error_num": 7,
+    "article_num": 165,
+    "last_updated_time": "2025-10-22 23:54:51"
   },
   "article_data": [
     {
@@ -407,11 +407,39 @@
       "avatar": "https://www.qiuyl.com/wp-content/uploads/2024/02/f240b8b22b5d4323c91640-32x32.png"
     },
     {
+      "title": "Mac OS “无法与恢复服务器取得联系”解决方案",
+      "created": "2025-08-18 14:26",
+      "link": "https://blog.ayou.ink/mac-os-%e6%97%a0%e6%b3%95%e4%b8%8e%e6%81%a2%e5%a4%8d%e6%9c%8d%e5%8a%a1%e5%99%a8%e5%8f%96%e5%be%97%e8%81%94%e7%b3%bb%e8%a7%a3%e5%86%b3%e6%96%b9%e6%a1%88/",
+      "author": "废柴阿尤 の 博客",
+      "avatar": "https://blog.ayou.ink/wp-content/themes/zibll/img/favicon.png"
+    },
+    {
       "title": "习惯养成的一点新实践",
       "created": "2025-08-17 16:51",
       "link": "https://yeshu.cloud/posts/newsletter-135/",
       "author": "一颗小树",
       "avatar": "https://yeshu.cloud/images/apple-touch-icon.png"
+    },
+    {
+      "title": "k8s之节点压力驱逐",
+      "created": "2025-08-15 17:44",
+      "link": "https://blog.ayou.ink/k8s%e4%b9%8b%e8%8a%82%e7%82%b9%e5%8e%8b%e5%8a%9b%e9%a9%b1%e9%80%90/",
+      "author": "废柴阿尤 の 博客",
+      "avatar": "https://blog.ayou.ink/wp-content/themes/zibll/img/favicon.png"
+    },
+    {
+      "title": "社消平台NFS内核模块未持久化配置导致客户端挂载失败",
+      "created": "2025-08-15 10:31",
+      "link": "https://blog.ayou.ink/%e7%a4%be%e6%b6%88%e5%b9%b3%e5%8f%b0nfs%e5%86%85%e6%a0%b8%e6%a8%a1%e5%9d%97%e6%9c%aa%e6%8c%81%e4%b9%85%e5%8c%96%e9%85%8d%e7%bd%ae%e5%af%bc%e8%87%b4%e5%ae%a2%e6%88%b7%e7%ab%af%e6%8c%82%e8%bd%bd/",
+      "author": "废柴阿尤 の 博客",
+      "avatar": "https://blog.ayou.ink/wp-content/themes/zibll/img/favicon.png"
+    },
+    {
+      "title": "达梦8临时license更换为正式license",
+      "created": "2025-08-14 17:02",
+      "link": "https://blog.ayou.ink/%e8%be%be%e6%a2%a68%e4%b8%b4%e6%97%b6license%e6%9b%b4%e6%8d%a2%e4%b8%ba%e6%ad%a3%e5%bc%8flicense/",
+      "author": "废柴阿尤 の 博客",
+      "avatar": "https://blog.ayou.ink/wp-content/themes/zibll/img/favicon.png"
     },
     {
       "title": "内蒙婚内强奸案：男人，你在气什么？",
@@ -531,6 +559,13 @@
       "link": "https://feisky.xyz/posts/2025-07-11-claude-code-connect-github-copilot/",
       "author": "Feisky",
       "avatar": null
+    },
+    {
+      "title": "省社消平台因iptables使用新backend导致flannel启动失败",
+      "created": "2025-07-10 15:07",
+      "link": "https://blog.ayou.ink/%e7%9c%81%e7%a4%be%e6%b6%88%e5%b9%b3%e5%8f%b0%e5%9b%a0iptables%e4%bd%bf%e7%94%a8%e6%96%b0backend%e5%af%bc%e8%87%b4flannel%e5%90%af%e5%8a%a8%e5%a4%b1%e8%b4%a5/",
+      "author": "废柴阿尤 の 博客",
+      "avatar": "https://blog.ayou.ink/wp-content/themes/zibll/img/favicon.png"
     },
     {
       "title": "Claude Code 最佳实践和使用技巧",
@@ -743,20 +778,6 @@
       "avatar": "https://bu.dusays.com/2023/08/25/64e8ca25e89c5.jpg"
     },
     {
-      "title": "深入解析 Kubernetes VPA 调优：动态资源分配与压测实战",
-      "created": "2024-12-05 12:37",
-      "link": "https://www.cnsre.cn/posts/241205123704/",
-      "author": "SRE运维",
-      "avatar": "https://www.cnsre.cn/favicon.ico"
-    },
-    {
-      "title": "Kubernetes HPA (Horizontal Pod Autoscaler) 测试与配置",
-      "created": "2024-12-04 12:50",
-      "link": "https://www.cnsre.cn/posts/241204125029/",
-      "author": "SRE运维",
-      "avatar": "https://www.cnsre.cn/favicon.ico"
-    },
-    {
       "title": "Prometheus告警带图完美解决方案",
       "created": "2024-11-26 23:35",
       "link": "http://www.cuiliangblog.cn/detail/article/91",
@@ -813,13 +834,6 @@
       "avatar": "https://cdn.zgq.me/assets/gq-avatar.png"
     },
     {
-      "title": "运维人员必备的 Mac Zsh 配置技巧",
-      "created": "2024-10-22 20:34",
-      "link": "https://www.cnsre.cn/posts/241022203423/",
-      "author": "SRE运维",
-      "avatar": "https://www.cnsre.cn/favicon.ico"
-    },
-    {
       "title": "Butterfly 5.1 更新日誌",
       "created": "2024-10-20 17:27",
       "link": "https://butterfly.js.org/posts/5-1-release-notes/",
@@ -839,20 +853,6 @@
       "link": "https://blog.qjqq.cn/posts/5240.html",
       "author": "青桔气球",
       "avatar": "https://avatar.qjqq.cn/1/6503bb1b7fa1a.webp!avatar"
-    },
-    {
-      "title": "如何使用 AWS Athena 查询用户对资源的创建和修改操作",
-      "created": "2024-10-18 09:13",
-      "link": "https://www.cnsre.cn/posts/241018091258/",
-      "author": "SRE运维",
-      "avatar": "https://www.cnsre.cn/favicon.ico"
-    },
-    {
-      "title": "使用 AWS Lambda 和 SNS 监控 S3 存储桶中的文件夹",
-      "created": "2024-09-20 16:35",
-      "link": "https://www.cnsre.cn/posts/240920163523/",
-      "author": "SRE运维",
-      "avatar": "https://www.cnsre.cn/favicon.ico"
     },
     {
       "title": "Cell-based regenerative therapy 基于细胞的再生疗法",
@@ -1016,6 +1016,20 @@
       "avatar": "https://bu.dusays.com/2023/08/25/64e8ca25e89c5.jpg"
     },
     {
+      "title": "关于群聊更换的紧急通知",
+      "created": "2024-04-24 21:42",
+      "link": "https://akilar.top/posts/c215d440/",
+      "author": "Akilarの糖果屋",
+      "avatar": "https://npm.elemecdn.com/akilar-friends@latest/avatar/akilar.top.jpg"
+    },
+    {
+      "title": "源计划-方舟：友链卡片",
+      "created": "2024-04-09 05:42",
+      "link": "https://akilar.top/posts/fb6a1a78/",
+      "author": "Akilarの糖果屋",
+      "avatar": "https://npm.elemecdn.com/akilar-friends@latest/avatar/akilar.top.jpg"
+    },
+    {
       "title": "Butterfly的魔改教程：右键菜单",
       "created": "2024-04-01 21:00",
       "link": "https://meuicat.com/posts/25b0b30e.html",
@@ -1072,6 +1086,13 @@
       "avatar": "https://q1.qlogo.cn/g?b=qq&nk=990320751&s=5"
     },
     {
+      "title": "找到新工作了，还挺喜欢的",
+      "created": "2023-12-16 00:08",
+      "link": "https://akilar.top/posts/5ad2af31/",
+      "author": "Akilarの糖果屋",
+      "avatar": "https://npm.elemecdn.com/akilar-friends@latest/avatar/akilar.top.jpg"
+    },
+    {
       "title": "幽门螺旋杆菌的治疗",
       "created": "2023-11-12 12:10",
       "link": "https://blog.leonus.cn/2023/Helicobacter-pylori.html",
@@ -1091,6 +1112,20 @@
       "link": "https://blog.leonus.cn/2023/recently.html",
       "author": "Leonus",
       "avatar": "https://q1.qlogo.cn/g?b=qq&nk=990320751&s=5"
+    },
+    {
+      "title": "闪电入职vs光速离职",
+      "created": "2023-09-21 03:08",
+      "link": "https://akilar.top/posts/b5a208a8/",
+      "author": "Akilarの糖果屋",
+      "avatar": "https://npm.elemecdn.com/akilar-friends@latest/avatar/akilar.top.jpg"
+    },
+    {
+      "title": "20230915",
+      "created": "2023-09-15 17:30",
+      "link": "https://akilar.top/posts/eee5afe4/",
+      "author": "Akilarの糖果屋",
+      "avatar": "https://npm.elemecdn.com/akilar-friends@latest/avatar/akilar.top.jpg"
     },
     {
       "title": "杂谈医疗反腐风暴，医改将改向何方？",
