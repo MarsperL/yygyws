@@ -1,12 +1,19 @@
 {
   "statistical_data": {
     "friends_num": 44,
-    "active_num": 36,
-    "error_num": 8,
+    "active_num": 37,
+    "error_num": 7,
     "article_num": 160,
-    "last_updated_time": "2025-10-23 02:17:25"
+    "last_updated_time": "2025-10-23 08:48:55"
   },
   "article_data": [
+    {
+      "title": "第 1 章：绪论",
+      "created": "2025-10-23 02:02",
+      "link": "https://jimmysong.io/book/ml-systems/systems-foundations/introduction/",
+      "author": "JIMMY SONG",
+      "avatar": "https://jimmysong.io/favicon.png"
+    },
     {
       "title": "ChatGPT Atlas 浏览器上手：能颠覆浏览体验吗？能否彻底抛弃 Chrome？",
       "created": "2025-10-22 13:12",
@@ -109,13 +116,6 @@
       "title": "可观测性概览",
       "created": "2025-10-19 00:00",
       "link": "https://jimmysong.io/book/kubernetes-handbook/observability/overview/",
-      "author": "JIMMY SONG",
-      "avatar": "https://jimmysong.io/favicon.png"
-    },
-    {
-      "title": "Kubernetes 网络架构概述",
-      "created": "2025-10-19 00:00",
-      "link": "https://jimmysong.io/book/kubernetes-handbook/networking/overview/",
       "author": "JIMMY SONG",
       "avatar": "https://jimmysong.io/favicon.png"
     },
