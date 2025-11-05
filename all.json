@@ -4,9 +4,16 @@
     "active_num": 32,
     "error_num": 5,
     "article_num": 155,
-    "last_updated_time": "2025-11-05 08:54:53"
+    "last_updated_time": "2025-11-05 12:15:12"
   },
   "article_data": [
+    {
+      "title": "给博客更换主题 Hugo Bear",
+      "created": "2025-11-05 07:35",
+      "link": "https://lawtee.com/article/hugo-bear-theme/",
+      "author": "海若博客",
+      "avatar": "https://hyruo.com/links/avatar.jpg"
+    },
     {
       "title": "HeoAwards2025：年度我喜欢的博主",
       "created": "2025-11-04 14:18",
@@ -160,13 +167,6 @@
       "link": "https://limboy.me/posts/collaborating-with-coding-agent-to-implement-a-feature",
       "author": "Limboy",
       "avatar": "https://limboy.me/assets/favicon.svg"
-    },
-    {
-      "title": "如何使用 GitHub Issue 发布 Hugo 博客",
-      "created": "2025-10-27 08:00",
-      "link": "https://lawtee.com/article/publish-hugo-by-github-issue/",
-      "author": "海若博客",
-      "avatar": "https://hyruo.com/links/avatar.jpg"
     },
     {
       "title": "大运河杭钢公园",
