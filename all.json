@@ -4,7 +4,7 @@
     "active_num": 33,
     "error_num": 4,
     "article_num": 155,
-    "last_updated_time": "2025-11-07 12:14:29"
+    "last_updated_time": "2025-11-07 16:16:22"
   },
   "article_data": [
     {
@@ -20,6 +20,13 @@
       "link": "https://lawtee.com/article/hugo-bear-theme/",
       "author": "海若博客",
       "avatar": "https://hyruo.com/links/avatar.jpg"
+    },
+    {
+      "title": "大梦一场",
+      "created": "2025-11-04 22:38",
+      "link": "https://thiscute.world/posts/job-and-life/?utm_source=atom_feed",
+      "author": "This Cute World",
+      "avatar": "https://thiscute.world/avatar/myself.webp"
     },
     {
       "title": "HeoAwards2025：年度我喜欢的博主",
@@ -263,13 +270,6 @@
       "title": "Linux 桌面系统故障排查指南（三） - 桌面会话与图形渲染",
       "created": "2025-10-19 10:19",
       "link": "https://thiscute.world/posts/linux-desktop-3-session-graphics/?utm_source=atom_feed",
-      "author": "This Cute World",
-      "avatar": "https://thiscute.world/avatar/myself.webp"
-    },
-    {
-      "title": "Linux 桌面系统故障排查指南（二） - systemd 全家桶与服务管理",
-      "created": "2025-10-19 10:18",
-      "link": "https://thiscute.world/posts/linux-desktop-2-systemd-services/?utm_source=atom_feed",
       "author": "This Cute World",
       "avatar": "https://thiscute.world/avatar/myself.webp"
     },
