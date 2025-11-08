@@ -4,9 +4,16 @@
     "active_num": 33,
     "error_num": 4,
     "article_num": 155,
-    "last_updated_time": "2025-11-08 04:12:59"
+    "last_updated_time": "2025-11-08 08:49:38"
   },
   "article_data": [
+    {
+      "title": "影像科医生可以在肺结节诊疗流程中扮演更重要的角色",
+      "created": "2025-11-08 08:00",
+      "link": "https://blog.drpika.com/posts/2025-11-08",
+      "author": "DrPika's Blog",
+      "avatar": "https://blog.drpika.com/img/header.jpg"
+    },
     {
       "title": "广州出名、佛山出钱、肇庆出地建机场？",
       "created": "2025-11-05 17:25",
@@ -1084,13 +1091,6 @@
       "link": "https://johnbanq.github.io/posts/bedrock-ecs-1/",
       "author": "板桥工学",
       "avatar": "工学者，巧心，劳力，造器物"
-    },
-    {
-      "title": "流水账：记一位患肝癌的大叔",
-      "created": "2022-05-07 08:00",
-      "link": "https://blog.drpika.com/posts/2022-05-07",
-      "author": "DrPika's Blog",
-      "avatar": "https://blog.drpika.com/img/header.jpg"
     }
   ]
 }
