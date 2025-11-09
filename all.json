@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 37,
-    "active_num": 29,
-    "error_num": 8,
-    "article_num": 145,
-    "last_updated_time": "2025-11-09 04:10:59"
+    "active_num": 33,
+    "error_num": 4,
+    "article_num": 155,
+    "last_updated_time": "2025-11-09 08:56:30"
   },
   "article_data": [
     {
@@ -246,6 +246,13 @@
       "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
     },
     {
+      "title": "AI 下半场",
+      "created": "2025-10-19 21:19",
+      "link": "https://yeshu.cloud/posts/newsletter-137/",
+      "author": "一颗小树",
+      "avatar": "https://yeshu.cloud/images/apple-touch-icon.png"
+    },
+    {
       "title": "Butterfly主题实现赞赏页面及侧边卡片",
       "created": "2025-10-19 17:10",
       "link": "https://blog.liushen.fun/posts/deffcde0/",
@@ -400,6 +407,13 @@
       "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
     },
     {
+      "title": "基于 LLM 整理 Web 全栈工程师的能力模型与学习 Roadmap",
+      "created": "2025-09-14 14:05",
+      "link": "https://zgq.me/posts/llm-roadmap/",
+      "author": "gq's blog",
+      "avatar": "https://cdn.zgq.me/assets/gq-avatar.png"
+    },
+    {
       "title": "CookLikeHOC：用老乡鸡的方式烹饪美味，轻松上手的JavaScript项目！",
       "created": "2025-09-13 15:08",
       "link": "https://www.dreamlyn.cn/1975778823.html",
@@ -435,11 +449,25 @@
       "avatar": "https://xingbianren.cn/zb_users/upload/2023/05/202305231684818664504571.png"
     },
     {
+      "title": "Butterfly 5.5 更新日誌",
+      "created": "2025-09-09 16:15",
+      "link": "https://butterfly.js.org/posts/5-5-release-notes/",
+      "author": "Jerry",
+      "avatar": "https://butterfly.js.org/img/avatar.png"
+    },
+    {
       "title": "周刊第19期: 一起学习 MCP",
       "created": "2025-09-08 20:35",
       "link": "https://hutusi.com/weeklies/19",
       "author": "胡涂说",
       "avatar": "https://hutusi.com/assets/favicon-32x32.png"
+    },
+    {
+      "title": "MobX 核心机制探究",
+      "created": "2025-09-07 17:46",
+      "link": "https://yeshu.cloud/posts/mobx-memory-learning/",
+      "author": "一颗小树",
+      "avatar": "https://yeshu.cloud/images/apple-touch-icon.png"
     },
     {
       "title": "K8s中明明配置了HPA，但是没扩容",
@@ -468,6 +496,13 @@
       "link": "https://www.qiuyl.com/xueyw/ywsmbz/472",
       "author": "秋意零",
       "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
+    },
+    {
+      "title": "如何快速融入新团队",
+      "created": "2025-08-31 21:10",
+      "link": "https://yeshu.cloud/posts/newsletter-136/",
+      "author": "一颗小树",
+      "avatar": "https://yeshu.cloud/images/apple-touch-icon.png"
     },
     {
       "title": "山洪灾害后的 Ceph 惨案：PG incomplete 到 RBD 镜像消失",
@@ -510,6 +545,13 @@
       "link": "https://blog.ayou.ink/mac-os-%e6%97%a0%e6%b3%95%e4%b8%8e%e6%81%a2%e5%a4%8d%e6%9c%8d%e5%8a%a1%e5%99%a8%e5%8f%96%e5%be%97%e8%81%94%e7%b3%bb%e8%a7%a3%e5%86%b3%e6%96%b9%e6%a1%88/",
       "author": "废柴阿尤 の 博客",
       "avatar": "https://blog.ayou.ink/wp-content/themes/zibll/img/favicon.png"
+    },
+    {
+      "title": "习惯养成的一点新实践",
+      "created": "2025-08-17 16:51",
+      "link": "https://yeshu.cloud/posts/newsletter-135/",
+      "author": "一颗小树",
+      "avatar": "https://yeshu.cloud/images/apple-touch-icon.png"
     },
     {
       "title": "k8s之节点压力驱逐",
@@ -561,6 +603,13 @@
       "avatar": "https://images.boysec.cn/medias/avatar.jpg"
     },
     {
+      "title": "阿里七年，小树毕业了",
+      "created": "2025-07-27 17:46",
+      "link": "https://yeshu.cloud/posts/leave-first-job/",
+      "author": "一颗小树",
+      "avatar": "https://yeshu.cloud/images/apple-touch-icon.png"
+    },
+    {
       "title": "统一日志格式规范与 Filebeat+Logstash 实践落地",
       "created": "2025-07-17 02:16",
       "link": "https://www.ownit.top/p/202507161816/",
@@ -573,6 +622,13 @@
       "link": "https://blog.ayou.ink/%e7%9c%81%e7%a4%be%e6%b6%88%e5%b9%b3%e5%8f%b0%e5%9b%a0iptables%e4%bd%bf%e7%94%a8%e6%96%b0backend%e5%af%bc%e8%87%b4flannel%e5%90%af%e5%8a%a8%e5%a4%b1%e8%b4%a5/",
       "author": "废柴阿尤 の 博客",
       "avatar": "https://blog.ayou.ink/wp-content/themes/zibll/img/favicon.png"
+    },
+    {
+      "title": "Butterfly 5.4 更新日誌",
+      "created": "2025-07-04 22:54",
+      "link": "https://butterfly.js.org/posts/5-4-release-notes/",
+      "author": "Jerry",
+      "avatar": "https://butterfly.js.org/img/avatar.png"
     },
     {
       "title": "利用 Nginx 实现灰度环境的 H5 应用发布策略",
@@ -687,11 +743,25 @@
       "avatar": "https://img.dreamlyn.cn:8443/i/2024/02/22/115030.webp"
     },
     {
+      "title": "2024",
+      "created": "2025-02-16 14:05",
+      "link": "https://zgq.me/posts/2024-summary/",
+      "author": "gq's blog",
+      "avatar": "https://cdn.zgq.me/assets/gq-avatar.png"
+    },
+    {
       "title": "一个实现自动网页剪藏的工作流",
       "created": "2025-01-30 18:31",
       "link": "https://moreality.net/posts/51437/",
       "author": "Moreality's Blog",
       "avatar": "https://youpai.roccoshi.top/avatar.jpg"
+    },
+    {
+      "title": "Butterfly 5.3 更新日誌",
+      "created": "2025-01-10 18:47",
+      "link": "https://butterfly.js.org/posts/5-3-release-notes/",
+      "author": "Jerry",
+      "avatar": "https://butterfly.js.org/img/avatar.png"
     },
     {
       "title": "k8s日志采集与监控方案介绍",
@@ -750,6 +820,20 @@
       "avatar": "https://avatar.qjqq.cn/1/6503bb1b7fa1a.webp!avatar"
     },
     {
+      "title": "Butterfly 5.2 更新日誌",
+      "created": "2024-11-02 18:47",
+      "link": "https://butterfly.js.org/posts/5-2-release-notes/",
+      "author": "Jerry",
+      "avatar": "https://butterfly.js.org/img/avatar.png"
+    },
+    {
+      "title": "同理心：跨过理工科与人文社科艺术的桥梁",
+      "created": "2024-11-01 19:30",
+      "link": "https://zgq.me/posts/empathy-bridging/",
+      "author": "gq's blog",
+      "avatar": "https://cdn.zgq.me/assets/gq-avatar.png"
+    },
+    {
       "title": "献给澄澈理想的花束：深度学习科研方法小结",
       "created": "2024-10-30 08:00",
       "link": "https://johnbanq.github.io/posts/bright-ideals-research/",
@@ -757,11 +841,25 @@
       "avatar": "工学者，巧心，劳力，造器物"
     },
     {
+      "title": "关于 React App 业务逻辑的组织",
+      "created": "2024-10-26 18:35",
+      "link": "https://zgq.me/posts/react-app-dev/",
+      "author": "gq's blog",
+      "avatar": "https://cdn.zgq.me/assets/gq-avatar.png"
+    },
+    {
       "title": "粉瘤割除记",
       "created": "2024-10-22 12:00",
       "link": "https://dongjunke.cn/posts/2024/10/22/20584.html",
       "author": "东评西就",
       "avatar": "https://dongjunke.cn/img/logo.jpeg"
+    },
+    {
+      "title": "Butterfly 5.1 更新日誌",
+      "created": "2024-10-20 17:27",
+      "link": "https://butterfly.js.org/posts/5-1-release-notes/",
+      "author": "Jerry",
+      "avatar": "https://butterfly.js.org/img/avatar.png"
     },
     {
       "title": "给你的博客底部添加一排宠物",
@@ -811,6 +909,13 @@
       "link": "http://www.cuiliangblog.cn/detail/article/89",
       "author": "崔亮的博客",
       "avatar": "https://oss.cuiliangblog.cn/image/logo.png"
+    },
+    {
+      "title": "浅谈 GUI 应用开发",
+      "created": "2024-08-10 17:30",
+      "link": "https://zgq.me/posts/gui-dev/",
+      "author": "gq's blog",
+      "avatar": "https://cdn.zgq.me/assets/gq-avatar.png"
     },
     {
       "title": "人没逝，感谢关心（咬牙切齿）",
@@ -986,41 +1091,6 @@
       "link": "https://johnbanq.github.io/posts/bedrock-ecs-1/",
       "author": "板桥工学",
       "avatar": "工学者，巧心，劳力，造器物"
-    },
-    {
-      "title": "制作你的桌面MMD时钟：MMD-BOX Beta1.0",
-      "created": "2022-08-07 07:19",
-      "link": "https://zfe.space/post/mmd-box-1.0.html",
-      "author": "小冰博客",
-      "avatar": "https://zfe.space/images/headimage.png"
-    },
-    {
-      "title": "小冰的游戏评测",
-      "created": "2021-04-23 05:19",
-      "link": "https://zfe.space/post/game-play.html",
-      "author": "小冰博客",
-      "avatar": "https://zfe.space/images/headimage.png"
-    },
-    {
-      "title": "小冰插件包 butterfly-orchid 1.0",
-      "created": "2021-03-26 05:19",
-      "link": "https://zfe.space/post/hexo-butterfly-orchid.html",
-      "author": "小冰博客",
-      "avatar": "https://zfe.space/images/headimage.png"
-    },
-    {
-      "title": "教程：hexo-electric-clock电子时钟插件",
-      "created": "2021-03-26 02:19",
-      "link": "https://zfe.space/post/hexo-electric-clock.html",
-      "author": "小冰博客",
-      "avatar": "https://zfe.space/images/headimage.png"
-    },
-    {
-      "title": "教程：hexo-history-calendar历史上的今天插件",
-      "created": "2021-03-26 02:18",
-      "link": "https://zfe.space/post/hexo-history-calendar.html",
-      "author": "小冰博客",
-      "avatar": "https://zfe.space/images/headimage.png"
     }
   ]
 }
