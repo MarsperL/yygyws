@@ -4,9 +4,16 @@
     "active_num": 32,
     "error_num": 5,
     "article_num": 155,
-    "last_updated_time": "2025-11-21 16:31:46"
+    "last_updated_time": "2025-11-21 23:55:36"
   },
   "article_data": [
+    {
+      "title": "南宁视角：金茶花低语",
+      "created": "2025-11-21 22:11",
+      "link": "https://bluehe.cn/archives/jin-chahua-park",
+      "author": "云心怀鹤",
+      "avatar": "https://bluehe.cn/usr/uploads/2022/09/3376344061.jpg"
+    },
     {
       "title": "给HUGO添加文章搜索功能",
       "created": "2025-11-21 08:50",
@@ -335,13 +342,6 @@
       "link": "https://4311346.com/post/2025/1012-one-week.html",
       "author": "Andy烧麦",
       "avatar": "https://4311346.com/favicon.ico"
-    },
-    {
-      "title": "于日常处 · 十月记",
-      "created": "2025-10-12 18:22",
-      "link": "https://bluehe.cn/archives/251012-diary",
-      "author": "云心怀鹤",
-      "avatar": "https://bluehe.cn/usr/uploads/2022/09/3376344061.jpg"
     },
     {
       "title": "食草堂",
