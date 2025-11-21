@@ -4,9 +4,16 @@
     "active_num": 32,
     "error_num": 5,
     "article_num": 155,
-    "last_updated_time": "2025-11-21 00:30:00"
+    "last_updated_time": "2025-11-21 09:45:35"
   },
   "article_data": [
+    {
+      "title": "给HUGO添加文章搜索功能",
+      "created": "2025-11-21 08:50",
+      "link": "https://lawtee.com/article/add-search-for-hugo/",
+      "author": "海若博客",
+      "avatar": "https://hyruo.com/links/avatar.jpg"
+    },
     {
       "title": "双离合变速箱的汽车，必须要学会手动换挡吗？",
       "created": "2025-11-20 13:50",
@@ -83,13 +90,6 @@
       "link": "https://blog.zhheo.com/p/a9uudei6.html",
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
-      "title": "AI投资或将把美国拖入另一场反恐战争的泥潭",
-      "created": "2025-11-13 17:05",
-      "link": "https://lawtee.com/article/ai-as-us-second-war-on-terror/",
-      "author": "海若博客",
-      "avatar": "https://hyruo.com/links/avatar.jpg"
     },
     {
       "title": "Windows 下 OpenCV 编译与 GoCV 安装实战",
