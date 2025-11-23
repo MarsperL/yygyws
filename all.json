@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 37,
-    "active_num": 32,
-    "error_num": 5,
-    "article_num": 155,
-    "last_updated_time": "2025-11-22 20:30:35"
+    "active_num": 31,
+    "error_num": 6,
+    "article_num": 150,
+    "last_updated_time": "2025-11-23 09:27:19"
   },
   "article_data": [
     {
@@ -25,13 +25,6 @@
       "title": "双离合变速箱的汽车，必须要学会手动换挡吗？",
       "created": "2025-11-20 13:50",
       "link": "https://lawtee.com/article/dct-manual-mode-necessity/",
-      "author": "海若博客",
-      "avatar": "https://hyruo.com/links/avatar.jpg"
-    },
-    {
-      "title": "搜索",
-      "created": "2025-11-20 00:00",
-      "link": "https://lawtee.com/search/",
       "author": "海若博客",
       "avatar": "https://hyruo.com/links/avatar.jpg"
     },
@@ -64,13 +57,6 @@
       "avatar": "https://hyruo.com/links/avatar.jpg"
     },
     {
-      "title": "不确定性世界的生存策略",
-      "created": "2025-11-16 17:17",
-      "link": "https://hutusi.com/articles/taleb-incerto",
-      "author": "胡涂说",
-      "avatar": "https://hutusi.com/assets/favicon-32x32.png"
-    },
-    {
       "title": "湘湖花海、遇见答案咖啡馆",
       "created": "2025-11-16 16:11",
       "link": "https://www.skyue.com/25111616.html",
@@ -97,6 +83,13 @@
       "link": "https://blog.zhheo.com/p/a9uudei6.html",
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
+    },
+    {
+      "title": "AI投资或将把美国拖入另一场反恐战争的泥潭",
+      "created": "2025-11-13 17:05",
+      "link": "https://lawtee.com/article/ai-as-us-second-war-on-terror/",
+      "author": "海若博客",
+      "avatar": "https://hyruo.com/links/avatar.jpg"
     },
     {
       "title": "Windows 下 OpenCV 编译与 GoCV 安装实战",
@@ -232,13 +225,6 @@
       "avatar": "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"
     },
     {
-      "title": "好奇心周刊第21期: 推理模型的构建与未来",
-      "created": "2025-10-28 21:56",
-      "link": "https://hutusi.com/weeklies/21",
-      "author": "胡涂说",
-      "avatar": "https://hutusi.com/assets/favicon-32x32.png"
-    },
-    {
       "title": "与小米之家撕逼",
       "created": "2025-10-27 22:25",
       "link": "https://xingbianren.cn/post/318.html",
@@ -365,13 +351,6 @@
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
     },
     {
-      "title": "好奇心周刊第20期: 从四个方面了解Palantir",
-      "created": "2025-10-07 01:39",
-      "link": "https://hutusi.com/weeklies/20",
-      "author": "胡涂说",
-      "avatar": "https://hutusi.com/assets/favicon-32x32.png"
-    },
-    {
       "title": "苏自栾城，西宅于眉",
       "created": "2025-10-04 21:35",
       "link": "https://dongjunke.cn/posts/2025/10/04/58899.html",
@@ -477,13 +456,6 @@
       "avatar": "https://butterfly.js.org/img/avatar.png"
     },
     {
-      "title": "周刊第19期: 一起学习 MCP",
-      "created": "2025-09-08 20:35",
-      "link": "https://hutusi.com/weeklies/19",
-      "author": "胡涂说",
-      "avatar": "https://hutusi.com/assets/favicon-32x32.png"
-    },
-    {
       "title": "MobX 核心机制探究",
       "created": "2025-09-07 17:46",
       "link": "https://yeshu.cloud/posts/mobx-memory-learning/",
@@ -552,13 +524,6 @@
       "link": "https://www.qiuyl.com/xueyw/yewuywrcwt/468",
       "author": "秋意零",
       "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
-    },
-    {
-      "title": "周刊第18期: 什么是理工科思维",
-      "created": "2025-08-24 11:56",
-      "link": "https://hutusi.com/weeklies/18",
-      "author": "胡涂说",
-      "avatar": "https://hutusi.com/assets/favicon-32x32.png"
     },
     {
       "title": "Mac OS “无法与恢复服务器取得联系”解决方案",
