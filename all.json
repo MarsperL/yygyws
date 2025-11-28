@@ -4,9 +4,16 @@
     "active_num": 32,
     "error_num": 5,
     "article_num": 155,
-    "last_updated_time": "2025-11-28 16:22:44"
+    "last_updated_time": "2025-11-29 00:20:17"
   },
   "article_data": [
+    {
+      "title": "在警校学习是一种什么样的体验",
+      "created": "2025-11-28 20:30",
+      "link": "https://lawtee.com/article/jing-xiao-xue-xi-ti-yan/",
+      "author": "海若博客",
+      "avatar": "https://hyruo.com/links/avatar.jpg"
+    },
     {
       "title": "在工厂流水线上班是一种什么样的体验",
       "created": "2025-11-25 19:30",
@@ -76,13 +83,6 @@
       "link": "https://www.skyue.com/25111921.html",
       "author": "拾月",
       "avatar": "https://www.skyue.com/favicon.ico"
-    },
-    {
-      "title": "降低带宽，反而能加速？家庭网络的“负优化”实验",
-      "created": "2025-11-18 18:20",
-      "link": "https://lawtee.com/article/optimize-home-network-without-changing-router/",
-      "author": "海若博客",
-      "avatar": "https://hyruo.com/links/avatar.jpg"
     },
     {
       "title": "律师会见九次传递毒品：一场自律缺失与监管缺位的双向奔赴",
