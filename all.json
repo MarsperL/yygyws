@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 37,
-    "active_num": 32,
-    "error_num": 5,
-    "article_num": 155,
-    "last_updated_time": "2025-11-29 09:12:15"
+    "active_num": 31,
+    "error_num": 6,
+    "article_num": 150,
+    "last_updated_time": "2025-11-29 16:20:20"
   },
   "article_data": [
     {
@@ -288,13 +288,6 @@
       "avatar": "https://4311346.com/favicon.ico"
     },
     {
-      "title": "全网最全运维学习路线【🌟收藏级】",
-      "created": "2025-10-20 23:53",
-      "link": "https://www.qiuyl.com/xueyw/479",
-      "author": "秋意零",
-      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
-    },
-    {
       "title": "AI 下半场",
       "created": "2025-10-19 21:19",
       "link": "https://yeshu.cloud/posts/newsletter-137/",
@@ -421,13 +414,6 @@
       "avatar": "https://blognas.hwb0307.com/logo.jpg"
     },
     {
-      "title": "【真成】第二期 运维必知扫盲之运维岗位细分及工作内容",
-      "created": "2025-09-14 23:50",
-      "link": "https://www.qiuyl.com/xueyw/ywsmbz/474",
-      "author": "秋意零",
-      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
-    },
-    {
       "title": "基于 LLM 整理 Web 全栈工程师的能力模型与学习 Roadmap",
       "created": "2025-09-14 14:05",
       "link": "https://zgq.me/posts/llm-roadmap/",
@@ -512,13 +498,6 @@
       "avatar": "https://www.devopstory.cn/wp-content/uploads/2021/11/30971637511228_.pic_.jpg"
     },
     {
-      "title": "【真成】阿里云中云防火墙和WAF防火墙区别？",
-      "created": "2025-09-03 21:36",
-      "link": "https://www.qiuyl.com/xueyw/ywsmbz/472",
-      "author": "秋意零",
-      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
-    },
-    {
       "title": "如何快速融入新团队",
       "created": "2025-08-31 21:10",
       "link": "https://yeshu.cloud/posts/newsletter-136/",
@@ -538,20 +517,6 @@
       "link": "https://www.devopstory.cn/archives/%e6%95%85%e9%9a%9c%e6%81%a2%e5%a4%8d/%e4%b8%80%e6%ac%a1centos7-glibc%e7%81%be%e9%9a%be%e7%9a%84%e5%85%a8%e9%93%be%e8%b7%af%e4%bf%ae%e5%a4%8d/",
       "author": "运维开发故事",
       "avatar": "https://www.devopstory.cn/wp-content/uploads/2021/11/30971637511228_.pic_.jpg"
-    },
-    {
-      "title": "运维排错的通用逻辑与底层逻辑？",
-      "created": "2025-08-26 00:28",
-      "link": "https://www.qiuyl.com/xueyw/469",
-      "author": "秋意零",
-      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
-    },
-    {
-      "title": "第三期 Docker Hub拉取镜像个数限制",
-      "created": "2025-08-25 23:28",
-      "link": "https://www.qiuyl.com/xueyw/yewuywrcwt/468",
-      "author": "秋意零",
-      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
     },
     {
       "title": "周刊第18期: 什么是理工科思维",
