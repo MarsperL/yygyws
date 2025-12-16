@@ -4,16 +4,9 @@
     "active_num": 33,
     "error_num": 4,
     "article_num": 155,
-    "last_updated_time": "2025-12-15 20:58:58"
+    "last_updated_time": "2025-12-16 10:05:00"
   },
   "article_data": [
-    {
-      "title": "自定义Ollama安装路径",
-      "created": "2025-12-15 20:25",
-      "link": "https://blog.ayou.ink/%e8%87%aa%e5%ae%9a%e4%b9%89ollama%e5%ae%89%e8%a3%85%e8%b7%af%e5%be%84/",
-      "author": "废柴阿尤 の 博客",
-      "avatar": "https://blog.ayou.ink/wp-content/themes/zibll/img/favicon.png"
-    },
     {
       "title": "一口气拔了3个智齿，分享一下拔智齿的经历",
       "created": "2025-12-15 16:57",
@@ -293,6 +286,13 @@
       "link": "https://blog.liushen.fun/posts/e0b4d5a/",
       "author": "清羽飞扬",
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
+    },
+    {
+      "title": "自定义Ollama安装路径",
+      "created": "2025-11-02 20:25",
+      "link": "https://blog.ayou.ink/%e8%87%aa%e5%ae%9a%e4%b9%89ollama%e5%ae%89%e8%a3%85%e8%b7%af%e5%be%84/",
+      "author": "废柴阿尤 の 博客",
+      "avatar": "https://blog.ayou.ink/wp-content/themes/zibll/img/favicon.png"
     },
     {
       "title": "两个月的肾结石排石之路",
