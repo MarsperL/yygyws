@@ -1,12 +1,40 @@
 {
   "statistical_data": {
     "friends_num": 37,
-    "active_num": 32,
-    "error_num": 5,
+    "active_num": 33,
+    "error_num": 4,
     "article_num": 155,
-    "last_updated_time": "2025-12-22 20:54:50"
+    "last_updated_time": "2025-12-23 10:05:13"
   },
   "article_data": [
+    {
+      "title": "【真成运维】彻底理解所有运维岗位",
+      "created": "2025-12-22 21:25",
+      "link": "https://www.qiuyl.com/video/497",
+      "author": "秋意零",
+      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
+    },
+    {
+      "title": "【家用服务器 装机选购配置方案】28核56线程 128G内存 1T固态 服务器主板",
+      "created": "2025-12-22 21:18",
+      "link": "https://www.qiuyl.com/video/495",
+      "author": "秋意零",
+      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
+    },
+    {
+      "title": "一个视频让你学会用Kubebuilder开发K8s Operator，细致入微（真不标题党！）",
+      "created": "2025-12-22 21:16",
+      "link": "https://www.qiuyl.com/video/493",
+      "author": "秋意零",
+      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
+    },
+    {
+      "title": "【真成运维】2025年全网最全运维自学学习路线🌟，保姆级运维学习路线，从入门到入岗，完整一条龙",
+      "created": "2025-12-22 21:06",
+      "link": "https://www.qiuyl.com/video/491",
+      "author": "秋意零",
+      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
+    },
     {
       "title": "从iPhone13Pro换到iPhone17，我的iPhone17上手体验",
       "created": "2025-12-22 10:36",
@@ -27,6 +55,13 @@
       "link": "https://hutusi.com/weeklies/23",
       "author": "胡涂说",
       "avatar": "https://hutusi.com/assets/favicon-32x32.png"
+    },
+    {
+      "title": "Kubernetes 1.35：10 项全新 Alpha 功能",
+      "created": "2025-12-21 18:12",
+      "link": "https://blog.ayou.ink/kubernetes-1-35%ef%bc%9a10-%e9%a1%b9%e5%85%a8%e6%96%b0-alpha-%e5%8a%9f%e8%83%bd/",
+      "author": "废柴阿尤 の 博客",
+      "avatar": "https://blog.ayou.ink/wp-content/themes/zibll/img/favicon.png"
     },
     {
       "title": "2025：从草稿箱到收件箱",
@@ -64,6 +99,13 @@
       "avatar": "https://blognas.hwb0307.com/logo.jpg"
     },
     {
+      "title": "Kubernetes 中 cgroup v1 到 v2 的迁移",
+      "created": "2025-12-20 22:59",
+      "link": "https://blog.ayou.ink/kubernetes-%e4%b8%ad-cgroup-v1-%e5%88%b0-v2-%e7%9a%84%e8%bf%81%e7%a7%bb/",
+      "author": "废柴阿尤 の 博客",
+      "avatar": "https://blog.ayou.ink/wp-content/themes/zibll/img/favicon.png"
+    },
+    {
       "title": "在1panel中使用Goaccess取代网站监控和网页统计",
       "created": "2025-12-19 17:35",
       "link": "https://lawtee.com/article/use-goaccess-to-replace-website-monitoring-in-1panel/",
@@ -85,13 +127,6 @@
       "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
     },
     {
-      "title": "K8s二开必须要懂的核心概念-Operator",
-      "created": "2025-12-18 22:45",
-      "link": "https://www.qiuyl.com/devops/489",
-      "author": "秋意零",
-      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
-    },
-    {
       "title": "宝塔安装应用提示：指定日志文件不存在解决方法",
       "created": "2025-12-18 14:18",
       "link": "https://blog.zhheo.com/p/uiddzdni.html",
@@ -99,18 +134,18 @@
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
     {
-      "title": "实现多设备多环境无缝开发-VSCode配置远程开发",
-      "created": "2025-12-16 22:36",
-      "link": "https://www.qiuyl.com/devops/487",
-      "author": "秋意零",
-      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
-    },
-    {
       "title": "2026年，你还会发短信吗？",
       "created": "2025-12-16 18:00",
       "link": "https://lawtee.com/article/will-you-still-send-sms-in-2026/",
       "author": "海若博客",
       "avatar": "https://hyruo.com/links/avatar.jpg"
+    },
+    {
+      "title": "OpenStack部署all in one(一) 基本信息介绍",
+      "created": "2025-12-16 16:53",
+      "link": "https://blog.ayou.ink/openstack%e9%83%a8%e7%bd%b2all-in-one%e4%b8%80-%e5%9f%ba%e6%9c%ac%e4%bf%a1%e6%81%af%e4%bb%8b%e7%bb%8d/",
+      "author": "废柴阿尤 の 博客",
+      "avatar": "https://blog.ayou.ink/wp-content/themes/zibll/img/favicon.png"
     },
     {
       "title": "一口气拔了3个智齿，分享一下拔智齿的经历",
@@ -344,6 +379,13 @@
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
     },
     {
+      "title": "自定义Ollama安装路径",
+      "created": "2025-11-02 20:25",
+      "link": "https://blog.ayou.ink/%e8%87%aa%e5%ae%9a%e4%b9%89ollama%e5%ae%89%e8%a3%85%e8%b7%af%e5%be%84/",
+      "author": "废柴阿尤 の 博客",
+      "avatar": "https://blog.ayou.ink/wp-content/themes/zibll/img/favicon.png"
+    },
+    {
       "title": "两个月的肾结石排石之路",
       "created": "2025-11-02 00:21",
       "link": "https://4311346.com/post/2025/1102-nephrolith.html",
@@ -405,13 +447,6 @@
       "link": "https://4311346.com/post/2025/1022-nanzhao.html",
       "author": "Andy烧麦",
       "avatar": "https://4311346.com/favicon.ico"
-    },
-    {
-      "title": "全网最全运维学习路线【🌟收藏级】",
-      "created": "2025-10-20 23:53",
-      "link": "https://www.qiuyl.com/xueyw/479",
-      "author": "秋意零",
-      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
     },
     {
       "title": "AI 下半场",
@@ -519,13 +554,6 @@
       "avatar": "https://blognas.hwb0307.com/logo.jpg"
     },
     {
-      "title": "【真成】第二期 运维必知扫盲之运维岗位细分及工作内容",
-      "created": "2025-09-14 23:50",
-      "link": "https://www.qiuyl.com/xueyw/ywsmbz/474",
-      "author": "秋意零",
-      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
-    },
-    {
       "title": "基于 LLM 整理 Web 全栈工程师的能力模型与学习 Roadmap",
       "created": "2025-09-14 14:05",
       "link": "https://zgq.me/posts/llm-roadmap/",
@@ -608,6 +636,13 @@
       "link": "https://www.devopstory.cn/archives/%e6%95%85%e9%9a%9c%e6%81%a2%e5%a4%8d/%e4%b8%80%e6%ac%a1centos7-glibc%e7%81%be%e9%9a%be%e7%9a%84%e5%85%a8%e9%93%be%e8%b7%af%e4%bf%ae%e5%a4%8d/",
       "author": "运维开发故事",
       "avatar": "https://www.devopstory.cn/wp-content/uploads/2021/11/30971637511228_.pic_.jpg"
+    },
+    {
+      "title": "Mac OS “无法与恢复服务器取得联系”解决方案",
+      "created": "2025-08-18 14:26",
+      "link": "https://blog.ayou.ink/mac-os-%e6%97%a0%e6%b3%95%e4%b8%8e%e6%81%a2%e5%a4%8d%e6%9c%8d%e5%8a%a1%e5%99%a8%e5%8f%96%e5%be%97%e8%81%94%e7%b3%bb%e8%a7%a3%e5%86%b3%e6%96%b9%e6%a1%88/",
+      "author": "废柴阿尤 の 博客",
+      "avatar": "https://blog.ayou.ink/wp-content/themes/zibll/img/favicon.png"
     },
     {
       "title": "习惯养成的一点新实践",
@@ -1035,41 +1070,6 @@
       "link": "https://blog.drpika.com/posts/2023-09-03",
       "author": "DrPika's Blog",
       "avatar": "https://blog.drpika.com/img/header.jpg"
-    },
-    {
-      "title": "ECharts 帕累托图",
-      "created": "2023-05-30 09:00",
-      "link": "https://blog.eurkon.com/post/b0188c87.html",
-      "author": "Eurkon",
-      "avatar": "https://blog.eurkon.com/images/user/avatar.jpg"
-    },
-    {
-      "title": "ECharts 子弹图",
-      "created": "2023-04-27 09:00",
-      "link": "https://blog.eurkon.com/post/620d6870.html",
-      "author": "Eurkon",
-      "avatar": "https://blog.eurkon.com/images/user/avatar.jpg"
-    },
-    {
-      "title": "ECharts 径向条形图",
-      "created": "2023-04-26 09:00",
-      "link": "https://blog.eurkon.com/post/22774ddc.html",
-      "author": "Eurkon",
-      "avatar": "https://blog.eurkon.com/images/user/avatar.jpg"
-    },
-    {
-      "title": "ECharts 渐变折线图",
-      "created": "2023-03-12 09:00",
-      "link": "https://blog.eurkon.com/post/68739172.html",
-      "author": "Eurkon",
-      "avatar": "https://blog.eurkon.com/images/user/avatar.jpg"
-    },
-    {
-      "title": "数仓设计与 ETL 规范",
-      "created": "2022-12-31 10:00",
-      "link": "https://blog.eurkon.com/post/1c85bfc3.html",
-      "author": "Eurkon",
-      "avatar": "https://blog.eurkon.com/images/user/avatar.jpg"
     },
     {
       "title": "关于我写了个Minecraft基岩版服务端这件事（三）：回望与尾声",
