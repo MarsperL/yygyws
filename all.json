@@ -4,9 +4,16 @@
     "active_num": 33,
     "error_num": 4,
     "article_num": 155,
-    "last_updated_time": "2026-01-23 10:09:22"
+    "last_updated_time": "2026-01-23 21:00:21"
   },
   "article_data": [
+    {
+      "title": "为什么律师不认为 AI 会冲击法律行业",
+      "created": "2026-01-23 11:00",
+      "link": "https://lawtee.com/article/why-lawyers-doubt-ai-will-change-the-legal-profession/",
+      "author": "海若博客",
+      "avatar": "https://hyruo.com/links/avatar.jpg"
+    },
     {
       "title": "LibreOffice将Word转换为PDF乱码问题",
       "created": "2026-01-22 21:20",
@@ -97,13 +104,6 @@
       "link": "https://blog.zhheo.com/p/tw9uwtki.html",
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
-      "title": "西医的制度与价值，并不适用于所有社会",
-      "created": "2026-01-14 12:39",
-      "link": "https://lawtee.com/article/xi-yi-zhi-du-bi-jiao/",
-      "author": "海若博客",
-      "avatar": "https://hyruo.com/links/avatar.jpg"
     },
     {
       "title": "黑白厨师",
