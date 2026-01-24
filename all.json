@@ -4,9 +4,16 @@
     "active_num": 33,
     "error_num": 4,
     "article_num": 155,
-    "last_updated_time": "2026-01-24 10:05:25"
+    "last_updated_time": "2026-01-24 20:53:17"
   },
   "article_data": [
+    {
+      "title": "AI入门系列 介绍大语言模型",
+      "created": "2026-01-24 13:40",
+      "link": "https://blognas.hwb0307.com/other/6965",
+      "author": "Bensz",
+      "avatar": "https://blognas.hwb0307.com/logo.jpg"
+    },
     {
       "title": "为什么律师不认为 AI 会冲击法律行业",
       "created": "2026-01-23 11:00",
@@ -202,13 +209,6 @@
       "link": "https://bluehe.cn/archives/one-day-nanning-itinerary",
       "author": "云心怀鹤",
       "avatar": "https://bluehe.cn/usr/uploads/2022/09/3376344061.jpg"
-    },
-    {
-      "title": "OpenCode能否作为Claude Code和Codex的平替？",
-      "created": "2026-01-10 17:01",
-      "link": "https://blognas.hwb0307.com/ai-application/6925",
-      "author": "Bensz",
-      "avatar": "https://blognas.hwb0307.com/logo.jpg"
     },
     {
       "title": "小律师某音商城购物遭遇刷单商家假发货，职业病犯投诉追查后感叹套路太深",
