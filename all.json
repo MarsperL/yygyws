@@ -4,13 +4,20 @@
     "active_num": 33,
     "error_num": 4,
     "article_num": 155,
-    "last_updated_time": "2026-01-24 20:53:17"
+    "last_updated_time": "2026-01-25 10:26:31"
   },
   "article_data": [
     {
+      "title": "AI入门系列 如何使用大语言模型？",
+      "created": "2026-01-24 21:46",
+      "link": "https://blognas.hwb0307.com/ai/6970",
+      "author": "Bensz",
+      "avatar": "https://blognas.hwb0307.com/logo.jpg"
+    },
+    {
       "title": "AI入门系列 介绍大语言模型",
       "created": "2026-01-24 13:40",
-      "link": "https://blognas.hwb0307.com/other/6965",
+      "link": "https://blognas.hwb0307.com/ai/6965",
       "author": "Bensz",
       "avatar": "https://blognas.hwb0307.com/logo.jpg"
     },
@@ -137,13 +144,6 @@
       "title": "在Windows里通过VSCode使用Claude Code和Codex",
       "created": "2026-01-13 17:22",
       "link": "https://blognas.hwb0307.com/ai/6934",
-      "author": "Bensz",
-      "avatar": "https://blognas.hwb0307.com/logo.jpg"
-    },
-    {
-      "title": "国家自然科学基金的LaTeX模板 第2期",
-      "created": "2026-01-13 16:11",
-      "link": "https://blognas.hwb0307.com/skill/6930",
       "author": "Bensz",
       "avatar": "https://blognas.hwb0307.com/logo.jpg"
     },
