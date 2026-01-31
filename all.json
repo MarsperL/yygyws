@@ -4,9 +4,16 @@
     "active_num": 33,
     "error_num": 4,
     "article_num": 155,
-    "last_updated_time": "2026-01-31 10:29:35"
+    "last_updated_time": "2026-01-31 21:00:44"
   },
   "article_data": [
+    {
+      "title": "冷水澡是一座小金矿",
+      "created": "2026-01-31 08:00",
+      "link": "https://limboy.me/posts/taking-cold-showers-is-a-hidden-treasure",
+      "author": "Limboy",
+      "avatar": "https://limboy.me/assets/favicon.svg"
+    },
     {
       "title": "普通人提升生活品质的第一步：认清虚幻债务",
       "created": "2026-01-30 11:00",
@@ -230,13 +237,6 @@
       "link": "https://blog.ayou.ink/pve%e7%a7%bb%e9%99%a4%e8%87%aa%e5%bb%balvm%e5%ad%98%e5%82%a8%e5%8d%b7%e5%90%8e%ef%bc%8c%e5%9c%a8wei-ui%e5%ad%98%e5%82%a8%e5%88%97%e8%a1%a8%e4%b8%ad%e4%bb%8d%e5%ad%98%e5%9c%a8lvm%e5%8d%b7%e7%bb%84/",
       "author": "废柴阿尤 の 博客",
       "avatar": "https://blog.ayou.ink/wp-content/themes/zibll/img/favicon.png"
-    },
-    {
-      "title": "「共」型人才：AI 时代的个体进化论",
-      "created": "2026-01-11 08:00",
-      "link": "https://limboy.me/posts/gong-type-of-talent",
-      "author": "Limboy",
-      "avatar": "https://limboy.me/assets/favicon.svg"
     },
     {
       "title": "竖图风景：从闲逛到成片",
