@@ -4,9 +4,16 @@
     "active_num": 32,
     "error_num": 5,
     "article_num": 155,
-    "last_updated_time": "2026-02-06 10:37:21"
+    "last_updated_time": "2026-02-06 21:13:34"
   },
   "article_data": [
+    {
+      "title": "为什么我们生活中看到的颜色越来越少",
+      "created": "2026-02-06 16:00",
+      "link": "https://lawtee.com/article/why-are-colors-disappearing/",
+      "author": "海若博客",
+      "avatar": "https://hyruo.com/links/avatar.jpg"
+    },
     {
       "title": "网站性能如何排查和优化！我把我近2年的工作经验给你，看完你就懂了~",
       "created": "2026-02-05 23:30",
@@ -139,13 +146,6 @@
       "link": "https://blognas.hwb0307.com/ai/6965",
       "author": "Bensz",
       "avatar": "https://blognas.hwb0307.com/logo.jpg"
-    },
-    {
-      "title": "为什么律师不认为 AI 会冲击法律行业",
-      "created": "2026-01-23 11:00",
-      "link": "https://lawtee.com/article/why-lawyers-doubt-ai-will-change-the-legal-profession/",
-      "author": "海若博客",
-      "avatar": "https://hyruo.com/links/avatar.jpg"
     },
     {
       "title": "LibreOffice将Word转换为PDF乱码问题",
