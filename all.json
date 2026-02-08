@@ -4,7 +4,7 @@
     "active_num": 32,
     "error_num": 5,
     "article_num": 155,
-    "last_updated_time": "2026-02-07 21:02:31"
+    "last_updated_time": "2026-02-08 11:16:22"
   },
   "article_data": [
     {
@@ -167,13 +167,6 @@
       "link": "https://www.qiuyl.com/xueyw/520",
       "author": "秋意零",
       "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
-    },
-    {
-      "title": "Kubernetes运维-Ceph分布式存储CSI对接实战指南",
-      "created": "2026-01-22 15:18",
-      "link": "https://www.boysec.cn/boy/411bb493.html",
-      "author": "王先森",
-      "avatar": "https://images.boysec.cn/medias/avatar.jpg"
     },
     {
       "title": "如何将 FinalcutPro的fcpxml文件转换为srt字幕？导出srt字幕方法",
@@ -636,6 +629,13 @@
       "link": "https://yeshu.cloud/posts/newsletter-135/",
       "author": "一颗小树",
       "avatar": "https://yeshu.cloud/images/apple-touch-icon.png"
+    },
+    {
+      "title": "Kubernetes开发运维-使用 kind 搭建K8S多节点集群",
+      "created": "2025-07-29 21:28",
+      "link": "https://www.boysec.cn/boy/30d79320.html",
+      "author": "王先森",
+      "avatar": "https://images.boysec.cn/medias/avatar.jpg"
     },
     {
       "title": "统一日志格式规范与 Filebeat+Logstash 实践落地",
