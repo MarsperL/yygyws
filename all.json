@@ -4,9 +4,16 @@
     "active_num": 33,
     "error_num": 4,
     "article_num": 155,
-    "last_updated_time": "2026-02-08 21:03:13"
+    "last_updated_time": "2026-02-09 10:45:05"
   },
   "article_data": [
+    {
+      "title": "AI入门系列 配置vibe coding工具： VSCode+Claude Code+Codex",
+      "created": "2026-02-09 10:34",
+      "link": "https://blognas.hwb0307.com/ai/7003",
+      "author": "Bensz",
+      "avatar": "https://blognas.hwb0307.com/logo.jpg"
+    },
     {
       "title": "乌托邦咖啡",
       "created": "2026-02-08 13:27",
@@ -172,13 +179,6 @@
       "title": "AI入门系列 如何使用大语言模型？",
       "created": "2026-01-24 21:46",
       "link": "https://blognas.hwb0307.com/ai/6970",
-      "author": "Bensz",
-      "avatar": "https://blognas.hwb0307.com/logo.jpg"
-    },
-    {
-      "title": "AI入门系列 介绍大语言模型",
-      "created": "2026-01-24 13:40",
-      "link": "https://blognas.hwb0307.com/ai/6965",
       "author": "Bensz",
       "avatar": "https://blognas.hwb0307.com/logo.jpg"
     },
@@ -743,6 +743,13 @@
       "avatar": "https://img.dreamlyn.cn:8443/i/2024/02/22/115030.webp"
     },
     {
+      "title": "信任的链条",
+      "created": "2025-05-05 16:05",
+      "link": "https://zgq.me/posts/chain-of-trust/",
+      "author": "gq's blog",
+      "avatar": "https://cdn.zgq.me/assets/gq-avatar.png"
+    },
+    {
       "title": "MySQL慢SQL处理",
       "created": "2025-05-05 10:05",
       "link": "https://www.dreamlyn.cn/1129065587.html",
@@ -930,13 +937,6 @@
       "link": "http://www.cuiliangblog.cn/detail/article/89",
       "author": "崔亮的博客",
       "avatar": "https://oss.cuiliangblog.cn/image/logo.png"
-    },
-    {
-      "title": "浅谈 GUI 应用开发",
-      "created": "2024-08-10 17:30",
-      "link": "https://zgq.me/posts/gui-dev/",
-      "author": "gq's blog",
-      "avatar": "https://cdn.zgq.me/assets/gq-avatar.png"
     },
     {
       "title": "人没逝，感谢关心（咬牙切齿）",
