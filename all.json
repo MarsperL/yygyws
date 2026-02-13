@@ -4,9 +4,23 @@
     "active_num": 32,
     "error_num": 5,
     "article_num": 155,
-    "last_updated_time": "2026-02-13 10:47:35"
+    "last_updated_time": "2026-02-13 21:14:21"
   },
   "article_data": [
+    {
+      "title": "AI入门系列 如何获得vibe coding相关的AI算力",
+      "created": "2026-02-13 19:56",
+      "link": "https://blognas.hwb0307.com/ai/7008",
+      "author": "Bensz",
+      "avatar": "https://blognas.hwb0307.com/logo.jpg"
+    },
+    {
+      "title": "法律行业Ai拐点是否已经到来？",
+      "created": "2026-02-13 15:00",
+      "link": "https://lawtee.com/article/legal-ai-inflection-point-2026/",
+      "author": "海若博客",
+      "avatar": "https://hyruo.com/links/avatar.jpg"
+    },
     {
       "title": "Ingress-Nginx退休，竟然还有31种可替代的方案？你都知道几种？",
       "created": "2026-02-12 21:28",
@@ -141,13 +155,6 @@
       "avatar": "https://limboy.me/assets/favicon.svg"
     },
     {
-      "title": "普通人提升生活品质的第一步：认清虚幻债务",
-      "created": "2026-01-30 11:00",
-      "link": "https://lawtee.com/article/phantom-obligation-and-ordinary-life/",
-      "author": "海若博客",
-      "avatar": "https://hyruo.com/links/avatar.jpg"
-    },
-    {
       "title": "Routine 就是人生的复利",
       "created": "2026-01-30 08:00",
       "link": "https://limboy.me/posts/routine-compound-interest",
@@ -181,13 +188,6 @@
       "link": "https://hutusi.com/weeklies/24",
       "author": "胡涂说",
       "avatar": "https://hutusi.com/assets/favicon-32x32.png"
-    },
-    {
-      "title": "AI入门系列 如何使用大语言模型？",
-      "created": "2026-01-24 21:46",
-      "link": "https://blognas.hwb0307.com/ai/6970",
-      "author": "Bensz",
-      "avatar": "https://blognas.hwb0307.com/logo.jpg"
     },
     {
       "title": "LibreOffice将Word转换为PDF乱码问题",
