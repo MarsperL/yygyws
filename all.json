@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 37,
-    "active_num": 32,
-    "error_num": 5,
-    "article_num": 155,
-    "last_updated_time": "2026-02-15 21:04:12"
+    "active_num": 31,
+    "error_num": 6,
+    "article_num": 150,
+    "last_updated_time": "2026-02-16 10:43:49"
   },
   "article_data": [
     {
@@ -568,20 +568,6 @@
       "avatar": "https://thiscute.world/avatar/myself.webp"
     },
     {
-      "title": "食草堂",
-      "created": "2025-10-11 21:08",
-      "link": "https://dongjunke.cn/posts/2025/10/11/33842.html",
-      "author": "东评西就",
-      "avatar": "https://dongjunke.cn/img/logo.jpeg"
-    },
-    {
-      "title": "苏自栾城，西宅于眉",
-      "created": "2025-10-04 21:35",
-      "link": "https://dongjunke.cn/posts/2025/10/04/58899.html",
-      "author": "东评西就",
-      "avatar": "https://dongjunke.cn/img/logo.jpeg"
-    },
-    {
       "title": "CookLikeHOC：用老乡鸡的方式烹饪美味，轻松上手的JavaScript项目！",
       "created": "2025-09-13 15:08",
       "link": "https://www.dreamlyn.cn/1975778823.html",
@@ -750,13 +736,6 @@
       "avatar": "https://youpai.roccoshi.top/avatar.jpg"
     },
     {
-      "title": "拿到Manus邀请码后，我肝了一个博客站点，耗尽了所有免费积分",
-      "created": "2025-04-11 23:53",
-      "link": "https://dongjunke.cn/posts/2025/04/11/23745.html",
-      "author": "东评西就",
-      "avatar": "https://dongjunke.cn/img/logo.jpeg"
-    },
-    {
       "title": "vllm 的 cpu offload 参数卸载逻辑代码简析",
       "created": "2025-03-02 17:08",
       "link": "https://moreality.net/posts/28374/",
@@ -813,13 +792,6 @@
       "avatar": "https://avatar.qjqq.cn/1/6503bb1b7fa1a.webp!avatar"
     },
     {
-      "title": "谷歌的珍珠港时刻",
-      "created": "2024-11-13 00:08",
-      "link": "https://dongjunke.cn/posts/2024/11/13/23745.html",
-      "author": "东评西就",
-      "avatar": "https://dongjunke.cn/img/logo.jpeg"
-    },
-    {
       "title": "Solitude如何引用自定义字体",
       "created": "2024-11-05 20:28",
       "link": "https://blog.qjqq.cn/posts/e8a9.html",
@@ -839,13 +811,6 @@
       "link": "https://johnbanq.github.io/posts/bright-ideals-research/",
       "author": "板桥工学",
       "avatar": "工学者，巧心，劳力，造器物"
-    },
-    {
-      "title": "粉瘤割除记",
-      "created": "2024-10-22 12:00",
-      "link": "https://dongjunke.cn/posts/2024/10/22/20584.html",
-      "author": "东评西就",
-      "avatar": "https://dongjunke.cn/img/logo.jpeg"
     },
     {
       "title": "Butterfly 5.1 更新日誌",
