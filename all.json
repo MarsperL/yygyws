@@ -4,9 +4,16 @@
     "active_num": 31,
     "error_num": 6,
     "article_num": 150,
-    "last_updated_time": "2026-02-16 10:43:49"
+    "last_updated_time": "2026-02-16 21:17:28"
   },
   "article_data": [
+    {
+      "title": "AI入门系列 一种实用的Prompt工程： Agent Skill",
+      "created": "2026-02-16 16:53",
+      "link": "https://blognas.hwb0307.com/ai/7028",
+      "author": "Bensz",
+      "avatar": "https://blognas.hwb0307.com/logo.jpg"
+    },
     {
       "title": "AI入门系列 如何获得vibe coding相关的AI算力",
       "created": "2026-02-13 19:56",
@@ -160,13 +167,6 @@
       "link": "https://limboy.me/posts/routine-compound-interest",
       "author": "Limboy",
       "avatar": "https://limboy.me/assets/favicon.svg"
-    },
-    {
-      "title": "Vibe Coding CLI评测：MoltBot的优劣",
-      "created": "2026-01-29 21:51",
-      "link": "https://blognas.hwb0307.com/other/6985",
-      "author": "Bensz",
-      "avatar": "https://blognas.hwb0307.com/logo.jpg"
     },
     {
       "title": "【智能运维】AI 在运维中的核心应用场景",
