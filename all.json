@@ -4,9 +4,16 @@
     "active_num": 31,
     "error_num": 6,
     "article_num": 150,
-    "last_updated_time": "2026-02-18 10:43:31"
+    "last_updated_time": "2026-02-18 21:19:19"
   },
   "article_data": [
+    {
+      "title": "AI入门系列 Vibe Coding实战",
+      "created": "2026-02-18 20:13",
+      "link": "https://blognas.hwb0307.com/ai/7035",
+      "author": "Bensz",
+      "avatar": "https://blognas.hwb0307.com/logo.jpg"
+    },
     {
       "title": "草莓满月仪式和生产纪实短片",
       "created": "2026-02-17 20:04",
@@ -139,13 +146,6 @@
       "link": "https://limboy.me/posts/bad-habit-good-subject",
       "author": "Limboy",
       "avatar": "https://limboy.me/assets/favicon.svg"
-    },
-    {
-      "title": "开源项目与平台应用之争：OpenAI Prism vs. ChineseResearchLaTeX",
-      "created": "2026-02-02 21:24",
-      "link": "https://blognas.hwb0307.com/other/6990",
-      "author": "Bensz",
-      "avatar": "https://blognas.hwb0307.com/logo.jpg"
     },
     {
       "title": "草莓第一次写真",
