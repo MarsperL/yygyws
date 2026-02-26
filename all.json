@@ -4,9 +4,16 @@
     "active_num": 29,
     "error_num": 8,
     "article_num": 145,
-    "last_updated_time": "2026-02-26 10:37:07"
+    "last_updated_time": "2026-02-26 21:20:56"
   },
   "article_data": [
+    {
+      "title": "好奇心周刊第25期: 如何让AI写好代码",
+      "created": "2026-02-26 19:55",
+      "link": "https://hutusi.com/weeklies/25",
+      "author": "胡涂说",
+      "avatar": "https://hutusi.com/assets/favicon-32x32.png"
+    },
     {
       "title": "湖南农村见闻：同样人口流出，为何活出不同样子？",
       "created": "2026-02-25 14:00",
@@ -391,13 +398,6 @@
       "link": "https://www.boysec.cn/boy/254ab692.html",
       "author": "王先森",
       "avatar": "https://images.boysec.cn/medias/avatar.jpg"
-    },
-    {
-      "title": "不确定性世界的生存策略",
-      "created": "2025-11-16 17:17",
-      "link": "https://hutusi.com/articles/taleb-incerto",
-      "author": "胡涂说",
-      "avatar": "https://hutusi.com/assets/favicon-32x32.png"
     },
     {
       "title": "Windows 下 OpenCV 编译与 GoCV 安装实战",
