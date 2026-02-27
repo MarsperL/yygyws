@@ -5,11 +5,6 @@
     "https://npm.elemecdn.com/akilar-friends@latest/avatar/akilar.top.jpg"
   ],
   [
-    "安知鱼",
-    "https://blog.anheyu.com/",
-    "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"
-  ],
-  [
     "青桔气球",
     "https://blog.qjqq.cn/",
     "https://avatar.qjqq.cn/1/6503bb1b7fa1a.webp!avatar"
@@ -23,6 +18,11 @@
     "gq's blog",
     "https://zgq.me/",
     "https://cdn.zgq.me/assets/gq-avatar.png"
+  ],
+  [
+    "安知鱼",
+    "https://blog.anheyu.com/",
+    "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"
   ],
   [
     "刑辩人在路上",
