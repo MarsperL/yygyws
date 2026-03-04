@@ -4,9 +4,16 @@
     "active_num": 30,
     "error_num": 7,
     "article_num": 150,
-    "last_updated_time": "2026-03-04 10:33:34"
+    "last_updated_time": "2026-03-04 21:10:12"
   },
   "article_data": [
+    {
+      "title": "为什么美国选择“史诗狂怒”这个名称发动对伊朗的战争？",
+      "created": "2026-03-04 09:00",
+      "link": "https://lawtee.com/article/epic-fury-us-iran-2026/",
+      "author": "海若博客",
+      "avatar": "https://hyruo.com/links/avatar.jpg"
+    },
     {
       "title": "如何创作AI歌曲？从生成歌词、歌曲创作、专辑封面到音乐发行",
       "created": "2026-03-03 10:22",
@@ -153,13 +160,6 @@
       "link": "https://www.qiuyl.com/xueyw/529",
       "author": "秋意零",
       "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
-    },
-    {
-      "title": "唯楚有材的湖南人，怎么都管不住儿子？",
-      "created": "2026-02-11 09:00",
-      "link": "https://lawtee.com/article/hunan-family-power-and-sons/",
-      "author": "海若博客",
-      "avatar": "https://hyruo.com/links/avatar.jpg"
     },
     {
       "title": "AI入门系列 配置vibe coding工具： VSCode+Claude Code+Codex",
