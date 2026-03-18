@@ -5,6 +5,11 @@
     "https://npm.elemecdn.com/akilar-friends@latest/avatar/akilar.top.jpg"
   ],
   [
+    "安知鱼",
+    "https://blog.anheyu.com/",
+    "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"
+  ],
+  [
     "运维开发故事",
     "https://www.devopstory.cn",
     "https://www.devopstory.cn/wp-content/uploads/2021/11/30971637511228_.pic_.jpg"
@@ -13,16 +18,6 @@
     "gq's blog",
     "https://zgq.me/",
     "https://cdn.zgq.me/assets/gq-avatar.png"
-  ],
-  [
-    "安知鱼",
-    "https://blog.anheyu.com/",
-    "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"
-  ],
-  [
-    "Young Kbt Blog",
-    "https://notes.youngkbt.cn/",
-    "https://cdn.jsdelivr.net/gh/Kele-Bingtang/static/user/avatar2.png"
   ],
   [
     "张恒华",
@@ -35,8 +30,8 @@
     "https://blog.qianyios.top/img/fluid.png"
   ],
   [
-    "2Cweekly",
-    "https://blog.2cweekly.com",
-    "https://2cweekly.com/siteface.png"
+    "Young Kbt Blog",
+    "https://notes.youngkbt.cn/",
+    "https://cdn.jsdelivr.net/gh/Kele-Bingtang/static/user/avatar2.png"
   ]
 ]
