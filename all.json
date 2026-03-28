@@ -4,9 +4,16 @@
     "active_num": 30,
     "error_num": 7,
     "article_num": 150,
-    "last_updated_time": "2026-03-27 21:19:48"
+    "last_updated_time": "2026-03-28 10:42:58"
   },
   "article_data": [
+    {
+      "title": "Typecho优化： Mysql添加索引提高查询速度",
+      "created": "2026-03-27 22:50",
+      "link": "https://bluehe.cn/archives/mysql-typecho",
+      "author": "云心怀鹤",
+      "avatar": "https://bluehe.cn/usr/uploads/2022/09/3376344061.jpg"
+    },
     {
       "title": "三句话400万tokens，难怪这么多厂商都去搞OpenClaw",
       "created": "2026-03-26 11:02",
@@ -258,13 +265,6 @@
       "link": "https://blognas.hwb0307.com/ai/7003",
       "author": "Bensz",
       "avatar": "https://blognas.hwb0307.com/logo.jpg"
-    },
-    {
-      "title": "乌托邦咖啡",
-      "created": "2026-02-08 13:27",
-      "link": "https://bluehe.cn/archives/utopia-cafe",
-      "author": "云心怀鹤",
-      "avatar": "https://bluehe.cn/usr/uploads/2022/09/3376344061.jpg"
     },
     {
       "title": "Chrome Extension 是 Vibe Coding 的绝佳载体",
