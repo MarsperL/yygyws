@@ -1,12 +1,26 @@
 {
   "statistical_data": {
     "friends_num": 37,
-    "active_num": 31,
-    "error_num": 6,
-    "article_num": 150,
-    "last_updated_time": "2026-04-09 10:49:55"
+    "active_num": 32,
+    "error_num": 5,
+    "article_num": 155,
+    "last_updated_time": "2026-04-09 21:57:33"
   },
   "article_data": [
+    {
+      "title": "视频压缩软件 CompressO 3.0 MacOS 免费汉化版下载",
+      "created": "2026-04-09 17:33",
+      "link": "https://blog.zhheo.com/p/9ekjlgs4.html",
+      "author": "张洪Heo",
+      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
+    },
+    {
+      "title": "我将我最初接触 Vibe Coding 的飞机大战重写了，飞机大战2.0登场",
+      "created": "2026-04-09 10:38",
+      "link": "https://blog.zhheo.com/p/ulmdpqpw.html",
+      "author": "张洪Heo",
+      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
+    },
     {
       "title": "OpenStack部署all in one(三) 安装配置Glance",
       "created": "2026-04-08 23:29",
@@ -57,25 +71,11 @@
       "avatar": "https://youpai.roccoshi.top/avatar.jpg"
     },
     {
-      "title": "使用 Magsafe 磁吸保护壳，但是磁力比较低，怎么办",
-      "created": "2026-04-05 08:41",
-      "link": "https://blog.zhheo.com/p/idp0qt15.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
       "title": "ChronoFrame - 一款优雅的瀑布流相册系统",
       "created": "2026-04-05 00:00",
       "link": "https://blog.liushen.fun/posts/381a41ac/",
       "author": "清羽飞扬",
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
-    },
-    {
-      "title": "OpenClaw喧嚣过后，我最终选择了QClaw",
-      "created": "2026-04-02 15:13",
-      "link": "https://blog.zhheo.com/p/bublpdof.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
     {
       "title": "小型纯 CPU 环境的中文命名实体识别模型选择",
@@ -925,6 +925,20 @@
       "avatar": "https://bu.dusays.com/2023/08/25/64e8ca25e89c5.jpg"
     },
     {
+      "title": "关于群聊更换的紧急通知",
+      "created": "2024-04-24 21:42",
+      "link": "https://akilar.top/posts/c215d440/",
+      "author": "Akilarの糖果屋",
+      "avatar": "https://npm.elemecdn.com/akilar-friends@latest/avatar/akilar.top.jpg"
+    },
+    {
+      "title": "源计划-方舟：友链卡片",
+      "created": "2024-04-09 05:42",
+      "link": "https://akilar.top/posts/fb6a1a78/",
+      "author": "Akilarの糖果屋",
+      "avatar": "https://npm.elemecdn.com/akilar-friends@latest/avatar/akilar.top.jpg"
+    },
+    {
       "title": "Butterfly的魔改教程：右键菜单",
       "created": "2024-04-01 21:00",
       "link": "https://meuicat.com/posts/25b0b30e.html",
@@ -937,6 +951,13 @@
       "link": "https://blog.leonus.cn/2023/newYearCard2.html",
       "author": "Leonus",
       "avatar": "https://q1.qlogo.cn/g?b=qq&nk=990320751&s=5"
+    },
+    {
+      "title": "找到新工作了，还挺喜欢的",
+      "created": "2023-12-16 00:08",
+      "link": "https://akilar.top/posts/5ad2af31/",
+      "author": "Akilarの糖果屋",
+      "avatar": "https://npm.elemecdn.com/akilar-friends@latest/avatar/akilar.top.jpg"
     },
     {
       "title": "线下购物的乐趣是什么时候失去的？-2Cweekly#036",
@@ -993,6 +1014,20 @@
       "link": "https://blog.leonus.cn/2023/recently.html",
       "author": "Leonus",
       "avatar": "https://q1.qlogo.cn/g?b=qq&nk=990320751&s=5"
+    },
+    {
+      "title": "闪电入职vs光速离职",
+      "created": "2023-09-21 03:08",
+      "link": "https://akilar.top/posts/b5a208a8/",
+      "author": "Akilarの糖果屋",
+      "avatar": "https://npm.elemecdn.com/akilar-friends@latest/avatar/akilar.top.jpg"
+    },
+    {
+      "title": "20230915",
+      "created": "2023-09-15 17:30",
+      "link": "https://akilar.top/posts/eee5afe4/",
+      "author": "Akilarの糖果屋",
+      "avatar": "https://npm.elemecdn.com/akilar-friends@latest/avatar/akilar.top.jpg"
     },
     {
       "title": "杂谈医疗反腐风暴，医改将改向何方？",
