@@ -4,9 +4,16 @@
     "active_num": 29,
     "error_num": 8,
     "article_num": 145,
-    "last_updated_time": "2026-05-08 11:35:30"
+    "last_updated_time": "2026-05-08 22:03:36"
   },
   "article_data": [
+    {
+      "title": "为什么要写作",
+      "created": "2026-05-08 08:00",
+      "link": "https://limboy.me/posts/why-write",
+      "author": "Limboy",
+      "avatar": "https://limboy.me/assets/favicon.svg"
+    },
     {
       "title": "如果医生知道你看病时带了摄像头，会发生什么？",
       "created": "2026-05-07 03:14",
@@ -382,13 +389,6 @@
       "title": "冷水澡是一座小金矿",
       "created": "2026-01-31 08:00",
       "link": "https://limboy.me/posts/taking-cold-showers-is-a-hidden-treasure",
-      "author": "Limboy",
-      "avatar": "https://limboy.me/assets/favicon.svg"
-    },
-    {
-      "title": "Routine 就是人生的复利",
-      "created": "2026-01-30 08:00",
-      "link": "https://limboy.me/posts/routine-compound-interest",
       "author": "Limboy",
       "avatar": "https://limboy.me/assets/favicon.svg"
     },
