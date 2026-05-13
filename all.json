@@ -4,9 +4,16 @@
     "active_num": 29,
     "error_num": 8,
     "article_num": 145,
-    "last_updated_time": "2026-05-13 11:54:45"
+    "last_updated_time": "2026-05-13 22:47:43"
   },
   "article_data": [
+    {
+      "title": "为什么要写周记",
+      "created": "2026-05-13 08:00",
+      "link": "https://limboy.me/posts/why-write-weekly",
+      "author": "Limboy",
+      "avatar": "https://limboy.me/assets/favicon.svg"
+    },
     {
       "title": "什么是真成运维导航？",
       "created": "2026-05-12 16:59",
@@ -389,13 +396,6 @@
       "title": "坏习惯是道好题目",
       "created": "2026-02-03 08:00",
       "link": "https://limboy.me/posts/bad-habit-good-subject",
-      "author": "Limboy",
-      "avatar": "https://limboy.me/assets/favicon.svg"
-    },
-    {
-      "title": "呼吸能改变很多事",
-      "created": "2026-02-01 08:00",
-      "link": "https://limboy.me/posts/breathe",
       "author": "Limboy",
       "avatar": "https://limboy.me/assets/favicon.svg"
     },
