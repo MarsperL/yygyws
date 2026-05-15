@@ -4,9 +4,16 @@
     "active_num": 29,
     "error_num": 8,
     "article_num": 145,
-    "last_updated_time": "2026-05-15 11:58:20"
+    "last_updated_time": "2026-05-15 22:20:51"
   },
   "article_data": [
+    {
+      "title": "部署博客系统（3）",
+      "created": "2026-05-15 15:09",
+      "link": "https://www.qiuyl.com/video/blog/579",
+      "author": "秋意零",
+      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
+    },
     {
       "title": "Rime鼠须管五笔输入法的快捷词库管理方案",
       "created": "2026-05-14 23:04",
@@ -17,14 +24,14 @@
     {
       "title": "为什么你需要搭建一个博客？（2）",
       "created": "2026-05-14 15:36",
-      "link": "https://www.qiuyl.com/xueyw/578",
+      "link": "https://www.qiuyl.com/video/blog/578",
       "author": "秋意零",
       "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
     },
     {
       "title": "为什么你需要写技术博客文章？（1）",
       "created": "2026-05-14 15:35",
-      "link": "https://www.qiuyl.com/xueyw/577",
+      "link": "https://www.qiuyl.com/video/blog/577",
       "author": "秋意零",
       "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
     },
@@ -67,13 +74,6 @@
       "title": "为了一键部署K8s集群，我决定使用它…",
       "created": "2026-05-11 16:38",
       "link": "https://www.qiuyl.com/xueyw/574",
-      "author": "秋意零",
-      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
-    },
-    {
-      "title": "为了不被网络攻击，我的网站接入了这个…",
-      "created": "2026-05-11 16:32",
-      "link": "https://www.qiuyl.com/xueyw/573",
       "author": "秋意零",
       "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
     },
