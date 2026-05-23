@@ -1,12 +1,19 @@
 {
   "statistical_data": {
     "friends_num": 37,
-    "active_num": 29,
-    "error_num": 8,
-    "article_num": 145,
-    "last_updated_time": "2026-05-23 11:49:08"
+    "active_num": 30,
+    "error_num": 7,
+    "article_num": 150,
+    "last_updated_time": "2026-05-23 21:48:52"
   },
   "article_data": [
+    {
+      "title": "五一游记：走理小路，逛三星堆",
+      "created": "2026-05-23 18:44",
+      "link": "https://bluehe.cn/archives/sanxingdui-guide",
+      "author": "云心怀鹤",
+      "avatar": "https://bluehe.cn/usr/uploads/2022/09/3376344061.jpg"
+    },
     {
       "title": "为OpenClaw搭建一个免费的搜索引擎，如何让OpenClaw搜索网页内容",
       "created": "2026-05-22 11:11",
@@ -302,13 +309,6 @@
       "avatar": "https://img.dreamlyn.cn:8443/i/2024/02/22/115030.webp"
     },
     {
-      "title": "盛世修典：广西美术馆特展",
-      "created": "2026-03-23 22:50",
-      "link": "https://bluehe.cn/archives/shengshi-xiudian-guangxi",
-      "author": "云心怀鹤",
-      "avatar": "https://bluehe.cn/usr/uploads/2022/09/3376344061.jpg"
-    },
-    {
       "title": "AI现阶段常见新词汇出现背景（一）",
       "created": "2026-03-20 13:10",
       "link": "https://www.dreamlyn.cn/2436918478.html",
@@ -335,6 +335,13 @@
       "link": "https://www.boysec.cn/boy/openclaw.html",
       "author": "王先森",
       "avatar": "https://images.boysec.cn/medias/avatar.jpg"
+    },
+    {
+      "title": "好奇心周刊第25期: 如何让AI写好代码",
+      "created": "2026-02-26 08:00",
+      "link": "https://hutusi.com/weeklies/25",
+      "author": "胡涂说",
+      "avatar": "https://hutusi.com/assets/favicon-32x32.png"
     },
     {
       "title": "年味",
@@ -400,11 +407,25 @@
       "avatar": "https://limboy.me/assets/favicon.svg"
     },
     {
+      "title": "好奇心周刊第24期: 关于AI编程的一些体会和设想",
+      "created": "2026-01-25 08:00",
+      "link": "https://hutusi.com/weeklies/24",
+      "author": "胡涂说",
+      "avatar": "https://hutusi.com/assets/favicon-32x32.png"
+    },
+    {
       "title": "Kubernetes运维-Ceph分布式存储CSI对接实战指南",
       "created": "2026-01-22 15:18",
       "link": "https://www.boysec.cn/boy/411bb493.html",
       "author": "王先森",
       "avatar": "https://images.boysec.cn/medias/avatar.jpg"
+    },
+    {
+      "title": "云何降伏其心",
+      "created": "2026-01-11 08:00",
+      "link": "https://hutusi.com/articles/2025-review",
+      "author": "胡涂说",
+      "avatar": "https://hutusi.com/assets/favicon-32x32.png"
     },
     {
       "title": "小律师某音商城购物遭遇刷单商家假发货，职业病犯投诉追查后感叹套路太深",
@@ -440,6 +461,20 @@
       "link": "https://thiscute.world/posts/2025-summary/?utm_source=atom_feed",
       "author": "This Cute World",
       "avatar": "https://thiscute.world/avatar/myself.webp"
+    },
+    {
+      "title": "好奇心周刊第23期: Claude Code 氛围编程初体验",
+      "created": "2025-12-21 08:00",
+      "link": "https://hutusi.com/weeklies/23",
+      "author": "胡涂说",
+      "avatar": "https://hutusi.com/assets/favicon-32x32.png"
+    },
+    {
+      "title": "好奇心周刊第22期: 纳瓦尔谈人生",
+      "created": "2025-12-14 08:00",
+      "link": "https://hutusi.com/weeklies/22",
+      "author": "胡涂说",
+      "avatar": "https://hutusi.com/assets/favicon-32x32.png"
     },
     {
       "title": "要求花果山法院立即勘误，并向孙悟空公开赔礼道歉的告知书",
