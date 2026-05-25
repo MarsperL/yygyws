@@ -4,9 +4,23 @@
     "active_num": 30,
     "error_num": 7,
     "article_num": 150,
-    "last_updated_time": "2026-05-25 12:20:24"
+    "last_updated_time": "2026-05-25 23:19:46"
   },
   "article_data": [
+    {
+      "title": "安装 Claude Code + DeepSeek V4 免费搭建 AI 编程环境，新手也能跟上~（国内也能用，无坑版+快速安装）",
+      "created": "2026-05-25 21:03",
+      "link": "https://www.qiuyl.com/ai/601",
+      "author": "秋意零",
+      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
+    },
+    {
+      "title": "一个月Vibe Coding：我写了什么，又学到了什么",
+      "created": "2026-05-25 20:58",
+      "link": "https://www.skyue.com/26052520.html",
+      "author": "拾月",
+      "avatar": "https://www.skyue.com/favicon.ico"
+    },
     {
       "title": "五一游记：走理小路，逛三星堆",
       "created": "2026-05-23 18:44",
@@ -118,13 +132,6 @@
       "link": "https://www.skyue.com/26051423.html",
       "author": "拾月",
       "avatar": "https://www.skyue.com/favicon.ico"
-    },
-    {
-      "title": "为什么你需要搭建一个博客？（2）",
-      "created": "2026-05-14 15:36",
-      "link": "https://www.qiuyl.com/video/blog/578",
-      "author": "秋意零",
-      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
     },
     {
       "title": "运行一年后，我将飞牛NAS主机降级为全闪存方案",
@@ -251,13 +258,6 @@
       "link": "https://bluehe.cn/archives/spring-festival-2026",
       "author": "云心怀鹤",
       "avatar": "https://bluehe.cn/usr/uploads/2022/09/3376344061.jpg"
-    },
-    {
-      "title": "春天",
-      "created": "2026-04-12 16:39",
-      "link": "https://www.skyue.com/26041216.html",
-      "author": "拾月",
-      "avatar": "https://www.skyue.com/favicon.ico"
     },
     {
       "title": "大模型到底在干嘛",
