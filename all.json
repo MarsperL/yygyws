@@ -4,9 +4,16 @@
     "active_num": 30,
     "error_num": 7,
     "article_num": 150,
-    "last_updated_time": "2026-05-27 12:19:32"
+    "last_updated_time": "2026-05-27 23:58:38"
   },
   "article_data": [
+    {
+      "title": "PVE升级崩了，我换到了ESXi虚拟化… ESXi 8.0U3e永久免费版本安装全流程，保姆级教程（精简置备+永久免费许可证）",
+      "created": "2026-05-27 19:13",
+      "link": "https://www.qiuyl.com/xueyw/610",
+      "author": "秋意零",
+      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
+    },
     {
       "title": "分享一下我现在都在使用哪些AI工具，以及我的的AI生产力状况",
       "created": "2026-05-26 13:18",
@@ -125,13 +132,6 @@
       "link": "https://www.skyue.com/26051522.html",
       "author": "拾月",
       "avatar": "https://www.skyue.com/favicon.ico"
-    },
-    {
-      "title": "部署博客系统（3）",
-      "created": "2026-05-15 15:09",
-      "link": "https://www.qiuyl.com/video/blog/579",
-      "author": "秋意零",
-      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
     },
     {
       "title": "Rime鼠须管五笔输入法的快捷词库管理方案",
