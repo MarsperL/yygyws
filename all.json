@@ -4,9 +4,23 @@
     "active_num": 28,
     "error_num": 9,
     "article_num": 140,
-    "last_updated_time": "2026-05-31 12:21:47"
+    "last_updated_time": "2026-05-31 21:57:51"
   },
   "article_data": [
+    {
+      "title": "科研造假风盛行背后的冷知识",
+      "created": "2026-05-31 20:09",
+      "link": "https://blognas.hwb0307.com/other/7075",
+      "author": "Bensz",
+      "avatar": "https://blognas.hwb0307.com/logo.jpg"
+    },
+    {
+      "title": "AI入门系列 关于科研AI写作边界的讨论",
+      "created": "2026-05-31 17:05",
+      "link": "https://blognas.hwb0307.com/ai/7070",
+      "author": "Bensz",
+      "avatar": "https://blognas.hwb0307.com/logo.jpg"
+    },
     {
       "title": "耿同学被限流之后，我开源了他的打假思维",
       "created": "2026-05-30 00:02",
@@ -347,20 +361,6 @@
       "title": "AI入门系列 一种实用的Prompt工程： Agent Skill",
       "created": "2026-02-16 16:53",
       "link": "https://blognas.hwb0307.com/ai/7028",
-      "author": "Bensz",
-      "avatar": "https://blognas.hwb0307.com/logo.jpg"
-    },
-    {
-      "title": "AI入门系列 如何获得vibe coding相关的AI算力",
-      "created": "2026-02-13 19:56",
-      "link": "https://blognas.hwb0307.com/ai/7008",
-      "author": "Bensz",
-      "avatar": "https://blognas.hwb0307.com/logo.jpg"
-    },
-    {
-      "title": "AI入门系列 配置vibe coding工具： VSCode+Claude Code+Codex",
-      "created": "2026-02-09 10:34",
-      "link": "https://blognas.hwb0307.com/ai/7003",
       "author": "Bensz",
       "avatar": "https://blognas.hwb0307.com/logo.jpg"
     },
