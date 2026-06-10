@@ -4,9 +4,16 @@
     "active_num": 28,
     "error_num": 9,
     "article_num": 140,
-    "last_updated_time": "2026-06-09 23:17:03"
+    "last_updated_time": "2026-06-10 12:14:44"
   },
   "article_data": [
+    {
+      "title": "这才是我心目中AI博客的样子",
+      "created": "2026-06-09 18:51",
+      "link": "https://blog.zhheo.com/p/vp4ate1j.html",
+      "author": "张洪Heo",
+      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
+    },
     {
       "title": "洪绘历史记录大更新：支持根据历史记录的AI对话",
       "created": "2026-06-09 10:22",
@@ -174,13 +181,6 @@
       "link": "https://bluehe.cn/archives/sanxingdui-guide",
       "author": "云心怀鹤",
       "avatar": "https://bluehe.cn/usr/uploads/2022/09/3376344061.jpg"
-    },
-    {
-      "title": "为OpenClaw搭建一个免费的搜索引擎，如何让OpenClaw搜索网页内容",
-      "created": "2026-05-22 11:11",
-      "link": "https://blog.zhheo.com/p/9p755adr.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
     {
       "title": "湖南也应该拍一部自己的《太平年》",
