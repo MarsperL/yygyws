@@ -1,12 +1,33 @@
 {
   "statistical_data": {
     "friends_num": 37,
-    "active_num": 26,
-    "error_num": 11,
-    "article_num": 130,
-    "last_updated_time": "2026-06-26 22:36:00"
+    "active_num": 27,
+    "error_num": 10,
+    "article_num": 135,
+    "last_updated_time": "2026-06-27 11:57:43"
   },
   "article_data": [
+    {
+      "title": "用 Cursor+Harvester MCP做智能运维：在编辑器里“聊天看集群”",
+      "created": "2026-06-27 11:55",
+      "link": "https://www.devopstory.cn/archives/aiops/%e7%94%a8-cursorharvester-mcp%e5%81%9a%e6%99%ba%e8%83%bd%e8%bf%90%e7%bb%b4%ef%bc%9a%e5%9c%a8%e7%bc%96%e8%be%91%e5%99%a8%e9%87%8c%e8%81%8a%e5%a4%a9%e7%9c%8b%e9%9b%86%e7%be%a4/",
+      "author": "运维开发故事",
+      "avatar": "https://www.devopstory.cn/wp-content/uploads/2021/11/30971637511228_.pic_.jpg"
+    },
+    {
+      "title": "如何防止在K8s中进行误删除操作",
+      "created": "2026-06-27 11:49",
+      "link": "https://www.devopstory.cn/archives/kubernetes/%e5%a6%82%e4%bd%95%e9%98%b2%e6%ad%a2%e5%9c%a8k8s%e4%b8%ad%e8%bf%9b%e8%a1%8c%e8%af%af%e5%88%a0%e9%99%a4%e6%93%8d%e4%bd%9c/",
+      "author": "运维开发故事",
+      "avatar": "https://www.devopstory.cn/wp-content/uploads/2021/11/30971637511228_.pic_.jpg"
+    },
+    {
+      "title": "Jenkins授权卡？试试我的方法",
+      "created": "2026-06-27 11:42",
+      "link": "https://www.devopstory.cn/archives/%e6%9d%82%e8%b0%88/jenkins%e6%8e%88%e6%9d%83%e5%8d%a1%ef%bc%9f%e8%af%95%e8%af%95%e6%88%91%e7%9a%84%e6%96%b9%e6%b3%95/",
+      "author": "运维开发故事",
+      "avatar": "https://www.devopstory.cn/wp-content/uploads/2021/11/30971637511228_.pic_.jpg"
+    },
     {
       "title": "洪绘动图发布：将视频转换为帧图或者GIF并且限制只有5MB，APNG、WEBP动图生成工具",
       "created": "2026-06-25 13:43",
@@ -153,6 +174,20 @@
       "link": "https://www.skyue.com/26060714.html",
       "author": "拾月",
       "avatar": "https://www.skyue.com/favicon.ico"
+    },
+    {
+      "title": "鱼鱼API 激活与使用指导",
+      "created": "2026-06-07 10:50",
+      "link": "https://blog.anheyu.com/posts/gJHa",
+      "author": "安知鱼",
+      "avatar": "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"
+    },
+    {
+      "title": "Codex使用指南",
+      "created": "2026-06-07 10:49",
+      "link": "https://blog.anheyu.com/posts/Xtbx",
+      "author": "安知鱼",
+      "avatar": "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"
     },
     {
       "title": "当心流量别被 Agent 都吃了",
@@ -428,6 +463,27 @@
       "avatar": "https://images.boysec.cn/medias/avatar.jpg"
     },
     {
+      "title": "鱼高高 - 一个无广告的微信小程序二维码生成器",
+      "created": "2026-01-21 15:27",
+      "link": "https://blog.anheyu.com/posts/MrnO",
+      "author": "安知鱼",
+      "avatar": "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"
+    },
+    {
+      "title": "2026年度AI工具大分享 | 五大方向深度对比解析",
+      "created": "2026-01-19 11:57",
+      "link": "https://blog.anheyu.com/posts/ifDZ",
+      "author": "安知鱼",
+      "avatar": "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"
+    },
+    {
+      "title": "Vue 3.6 Alien Signals 深度解析：信号驱动的响应式革命",
+      "created": "2026-01-17 16:14",
+      "link": "https://blog.anheyu.com/posts/P9N3",
+      "author": "安知鱼",
+      "avatar": "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"
+    },
+    {
       "title": "小树的 2025 年终总结",
       "created": "2025-12-31 20:00",
       "link": "https://yeshu.cloud/posts/annual-summary-2025/",
@@ -547,32 +603,11 @@
       "avatar": "https://www.devopstory.cn/wp-content/uploads/2021/11/30971637511228_.pic_.jpg"
     },
     {
-      "title": "开发 Operator 调度 GPU 实例资源池",
-      "created": "2025-09-04 19:30",
-      "link": "https://www.devopstory.cn/archives/kubernetes/%e5%bc%80%e5%8f%91-operator-%e8%b0%83%e5%ba%a6-gpu-%e5%ae%9e%e4%be%8b%e8%b5%84%e6%ba%90%e6%b1%a0/",
-      "author": "运维开发故事",
-      "avatar": "https://www.devopstory.cn/wp-content/uploads/2021/11/30971637511228_.pic_.jpg"
-    },
-    {
       "title": "如何快速融入新团队",
       "created": "2025-08-31 21:10",
       "link": "https://yeshu.cloud/posts/newsletter-136/",
       "author": "一颗小树",
       "avatar": "https://yeshu.cloud/images/apple-touch-icon.png"
-    },
-    {
-      "title": "山洪灾害后的 Ceph 惨案：PG incomplete 到 RBD 镜像消失",
-      "created": "2025-08-26 17:44",
-      "link": "https://www.devopstory.cn/archives/ceph/%e5%b1%b1%e6%b4%aa%e7%81%be%e5%ae%b3%e5%90%8e%e7%9a%84-ceph-%e6%83%a8%e6%a1%88%ef%bc%9apg-incomplete-%e5%88%b0-rbd-%e9%95%9c%e5%83%8f%e6%b6%88%e5%a4%b1/",
-      "author": "运维开发故事",
-      "avatar": "https://www.devopstory.cn/wp-content/uploads/2021/11/30971637511228_.pic_.jpg"
-    },
-    {
-      "title": "一次CentOS7 glibc灾难的全链路修复",
-      "created": "2025-08-26 17:34",
-      "link": "https://www.devopstory.cn/archives/%e6%95%85%e9%9a%9c%e6%81%a2%e5%a4%8d/%e4%b8%80%e6%ac%a1centos7-glibc%e7%81%be%e9%9a%be%e7%9a%84%e5%85%a8%e9%93%be%e8%b7%af%e4%bf%ae%e5%a4%8d/",
-      "author": "运维开发故事",
-      "avatar": "https://www.devopstory.cn/wp-content/uploads/2021/11/30971637511228_.pic_.jpg"
     },
     {
       "title": "习惯养成的一点新实践",
