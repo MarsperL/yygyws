@@ -4,9 +4,16 @@
     "active_num": 29,
     "error_num": 8,
     "article_num": 145,
-    "last_updated_time": "2026-06-30 12:06:50"
+    "last_updated_time": "2026-06-30 22:30:44"
   },
   "article_data": [
+    {
+      "title": "香港銀行開戶推薦 （附邀請碼）",
+      "created": "2026-06-30 15:54",
+      "link": "https://butterfly.js.org/posts/bank/",
+      "author": "Jerry",
+      "avatar": "https://butterfly.js.org/img/avatar.png"
+    },
     {
       "title": "从2022年建站至今，一次莫名其妙的CC攻击",
       "created": "2026-06-29 18:28",
@@ -755,13 +762,6 @@
       "link": "https://johnbanq.github.io/posts/bright-ideals-research/",
       "author": "板桥工学",
       "avatar": "工学者，巧心，劳力，造器物"
-    },
-    {
-      "title": "Butterfly 5.1 更新日誌",
-      "created": "2024-10-20 17:27",
-      "link": "https://butterfly.js.org/posts/5-1-release-notes/",
-      "author": "Jerry",
-      "avatar": "https://butterfly.js.org/img/avatar.png"
     },
     {
       "title": "赠予机械灵魂的挽歌：谈谈深度学习科研中的工程实践",
