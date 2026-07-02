@@ -1,12 +1,26 @@
 {
   "statistical_data": {
     "friends_num": 37,
-    "active_num": 29,
-    "error_num": 8,
-    "article_num": 145,
-    "last_updated_time": "2026-07-02 12:02:09"
+    "active_num": 28,
+    "error_num": 9,
+    "article_num": 140,
+    "last_updated_time": "2026-07-02 22:14:10"
   },
   "article_data": [
+    {
+      "title": "豆言豆语Skill发布：让AI学会豆包的毒舌说话风格",
+      "created": "2026-07-02 19:04",
+      "link": "https://blog.zhheo.com/p/ojxzvqar.html",
+      "author": "张洪Heo",
+      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
+    },
+    {
+      "title": "美团longcat上手：缓存免费，主打便宜，就是速度太慢，思考时间looooong",
+      "created": "2026-07-02 10:10",
+      "link": "https://blog.zhheo.com/p/e1l2qom9.html",
+      "author": "张洪Heo",
+      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
+    },
     {
       "title": "OpenClaw Workboard 功能上手：让 Agent 自己干活，你只管盯进度",
       "created": "2026-07-01 13:20",
@@ -127,25 +141,11 @@
       "avatar": "https://www.skyue.com/favicon.ico"
     },
     {
-      "title": "AI支付宝上手：内容全靠编，出问题甩锅给商家，付款快退款难",
-      "created": "2026-06-18 10:27",
-      "link": "https://blog.zhheo.com/p/sir4kfs9.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
       "title": "哪吒探针风波之后，如何用 AI 自建服务器探针避免服务器被一锅端",
       "created": "2026-06-18 08:50",
       "link": "https://lawtee.com/article/simple-server-monitor/",
       "author": "海若博客",
       "avatar": "https://hyruo.com/links/avatar.jpg"
-    },
-    {
-      "title": "重要照片一定要备份，手机养成照片备份的好习惯",
-      "created": "2026-06-17 11:11",
-      "link": "https://blog.zhheo.com/p/cyw9sqnh.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
     {
       "title": "vibe-coding个人实践",
@@ -827,32 +827,11 @@
       "avatar": "https://shoka.lostyu.me/images/avatar.jpg"
     },
     {
-      "title": "关于群聊更换的紧急通知",
-      "created": "2024-04-24 21:42",
-      "link": "https://akilar.top/posts/c215d440/",
-      "author": "Akilarの糖果屋",
-      "avatar": "https://npm.elemecdn.com/akilar-friends@latest/avatar/akilar.top.jpg"
-    },
-    {
-      "title": "源计划-方舟：友链卡片",
-      "created": "2024-04-09 05:42",
-      "link": "https://akilar.top/posts/fb6a1a78/",
-      "author": "Akilarの糖果屋",
-      "avatar": "https://npm.elemecdn.com/akilar-friends@latest/avatar/akilar.top.jpg"
-    },
-    {
       "title": "新年倒计时改良&随便说说",
       "created": "2023-12-25 20:24",
       "link": "https://blog.leonus.cn/2023/newYearCard2.html",
       "author": "Leonus",
       "avatar": "https://q1.qlogo.cn/g?b=qq&nk=990320751&s=5"
-    },
-    {
-      "title": "找到新工作了，还挺喜欢的",
-      "created": "2023-12-16 00:08",
-      "link": "https://akilar.top/posts/5ad2af31/",
-      "author": "Akilarの糖果屋",
-      "avatar": "https://npm.elemecdn.com/akilar-friends@latest/avatar/akilar.top.jpg"
     },
     {
       "title": "线下购物的乐趣是什么时候失去的？-2Cweekly#036",
@@ -909,20 +888,6 @@
       "link": "https://blog.leonus.cn/2023/recently.html",
       "author": "Leonus",
       "avatar": "https://q1.qlogo.cn/g?b=qq&nk=990320751&s=5"
-    },
-    {
-      "title": "闪电入职vs光速离职",
-      "created": "2023-09-21 03:08",
-      "link": "https://akilar.top/posts/b5a208a8/",
-      "author": "Akilarの糖果屋",
-      "avatar": "https://npm.elemecdn.com/akilar-friends@latest/avatar/akilar.top.jpg"
-    },
-    {
-      "title": "20230915",
-      "created": "2023-09-15 17:30",
-      "link": "https://akilar.top/posts/eee5afe4/",
-      "author": "Akilarの糖果屋",
-      "avatar": "https://npm.elemecdn.com/akilar-friends@latest/avatar/akilar.top.jpg"
     },
     {
       "title": "杂谈医疗反腐风暴，医改将改向何方？",
