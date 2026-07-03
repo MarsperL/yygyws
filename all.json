@@ -4,7 +4,7 @@
     "active_num": 28,
     "error_num": 9,
     "article_num": 140,
-    "last_updated_time": "2026-07-02 22:14:10"
+    "last_updated_time": "2026-07-03 11:47:32"
   },
   "article_data": [
     {
@@ -20,6 +20,13 @@
       "link": "https://blog.zhheo.com/p/e1l2qom9.html",
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
+    },
+    {
+      "title": "Fable 5 回归，但是用不起……",
+      "created": "2026-07-02 08:00",
+      "link": "https://hutusi.com/flows/2026/07/02",
+      "author": "胡涂说",
+      "avatar": "https://hutusi.com/assets/favicon-32x32.png"
     },
     {
       "title": "OpenClaw Workboard 功能上手：让 Agent 自己干活，你只管盯进度",
@@ -391,13 +398,6 @@
       "link": "https://limboy.me/posts/why-write",
       "author": "Limboy",
       "avatar": "https://limboy.me/assets/favicon.svg"
-    },
-    {
-      "title": "Bun 要从 Zig 迁移到 Rust ？",
-      "created": "2026-05-06 08:00",
-      "link": "https://hutusi.com/flows/2026/05/06",
-      "author": "胡涂说",
-      "avatar": "https://hutusi.com/assets/favicon-32x32.png"
     },
     {
       "title": "黔山赴夏，清风入怀",
