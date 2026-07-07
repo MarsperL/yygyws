@@ -4,9 +4,16 @@
     "active_num": 28,
     "error_num": 9,
     "article_num": 140,
-    "last_updated_time": "2026-07-07 11:55:41"
+    "last_updated_time": "2026-07-07 22:49:33"
   },
   "article_data": [
+    {
+      "title": "给OpenClaw加上rm删除保护：防止AI误删你的整个电脑",
+      "created": "2026-07-07 19:06",
+      "link": "https://blog.zhheo.com/p/owiixgnk.html",
+      "author": "张洪Heo",
+      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
+    },
     {
       "title": "只要快递还在路上，这日子就有盼头",
       "created": "2026-07-05 22:11",
@@ -153,13 +160,6 @@
       "link": "https://www.devopstory.cn/archives/aiops/%e7%94%a8-cursorharvester-mcp%e5%81%9a%e6%99%ba%e8%83%bd%e8%bf%90%e7%bb%b4%ef%bc%9a%e5%9c%a8%e7%bc%96%e8%be%91%e5%99%a8%e9%87%8c%e8%81%8a%e5%a4%a9%e7%9c%8b%e9%9b%86%e7%be%a4/",
       "author": "运维开发故事",
       "avatar": "https://www.devopstory.cn/wp-content/uploads/2021/11/30971637511228_.pic_.jpg"
-    },
-    {
-      "title": "洪绘动图发布：将视频转换为帧图或者GIF并且限制只有5MB，APNG、WEBP动图生成工具",
-      "created": "2026-06-25 13:43",
-      "link": "https://blog.zhheo.com/p/9yuhxjpl.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
     {
       "title": "端午节第三弹：Typecho Newsletter插件；及Claude Code + DeepSeek的使用体验",
