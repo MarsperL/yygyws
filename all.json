@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 37,
-    "active_num": 29,
-    "error_num": 8,
-    "article_num": 145,
-    "last_updated_time": "2026-07-11 11:17:04"
+    "active_num": 28,
+    "error_num": 9,
+    "article_num": 140,
+    "last_updated_time": "2026-07-11 21:38:53"
   },
   "article_data": [
     {
@@ -589,13 +589,6 @@
       "avatar": "https://img.dreamlyn.cn:8443/i/2024/02/22/115030.webp"
     },
     {
-      "title": "影像科医生可以在肺结节诊疗流程中扮演更重要的角色",
-      "created": "2025-11-08 08:00",
-      "link": "https://blog.drpika.com/posts/2025-11-08",
-      "author": "DrPika's Blog",
-      "avatar": "https://blog.drpika.com/img/header.jpg"
-    },
-    {
       "title": "大梦一场",
       "created": "2025-11-04 22:38",
       "link": "https://thiscute.world/posts/job-and-life/?utm_source=atom_feed",
@@ -622,20 +615,6 @@
       "link": "https://thiscute.world/posts/linux-desktop-5-network/?utm_source=atom_feed",
       "author": "This Cute World",
       "avatar": "https://thiscute.world/avatar/myself.webp"
-    },
-    {
-      "title": "技术大爆炸的今天，医疗与 AI 的发展将走向何处？",
-      "created": "2025-09-30 08:00",
-      "link": "https://blog.drpika.com/posts/2025-09-30",
-      "author": "DrPika's Blog",
-      "avatar": "https://blog.drpika.com/img/header.jpg"
-    },
-    {
-      "title": "静态博客的更优解法：CNB 云原生开发 + EdgeOne Pages",
-      "created": "2025-09-10 08:00",
-      "link": "https://blog.drpika.com/posts/2025-09-10",
-      "author": "DrPika's Blog",
-      "avatar": "https://blog.drpika.com/img/header.jpg"
     },
     {
       "title": "Butterfly 5.5 更新日誌",
@@ -820,13 +799,6 @@
       "avatar": "https://bu.dusays.com/2023/08/25/64e8ca25e89c5.jpg"
     },
     {
-      "title": "昼事夜思劳形骸，常有拨云散雾",
-      "created": "2024-06-04 08:00",
-      "link": "https://blog.drpika.com/posts/2024-06-04",
-      "author": "DrPika's Blog",
-      "avatar": "https://blog.drpika.com/img/header.jpg"
-    },
-    {
       "title": "Word of the day 5",
       "created": "2024-05-21 15:11",
       "link": "https://shoka.lostyu.me/foreign-language/english/ci/youglish/day-5/",
@@ -923,13 +895,6 @@
       "link": "https://blog.leonus.cn/2023/recently.html",
       "author": "Leonus",
       "avatar": "https://q1.qlogo.cn/g?b=qq&nk=990320751&s=5"
-    },
-    {
-      "title": "杂谈医疗反腐风暴，医改将改向何方？",
-      "created": "2023-09-03 08:00",
-      "link": "https://blog.drpika.com/posts/2023-09-03",
-      "author": "DrPika's Blog",
-      "avatar": "https://blog.drpika.com/img/header.jpg"
     },
     {
       "title": "ECharts 帕累托图",
