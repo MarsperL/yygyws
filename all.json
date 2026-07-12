@@ -1,12 +1,26 @@
 {
   "statistical_data": {
     "friends_num": 37,
-    "active_num": 28,
-    "error_num": 9,
-    "article_num": 140,
-    "last_updated_time": "2026-07-11 21:38:53"
+    "active_num": 29,
+    "error_num": 8,
+    "article_num": 145,
+    "last_updated_time": "2026-07-12 11:28:49"
   },
   "article_data": [
+    {
+      "title": "最近的一些碎片",
+      "created": "2026-07-11 21:39",
+      "link": "https://dongjunke.cn/posts/2026/07/11/57824.html",
+      "author": "东评西就",
+      "avatar": "https://dongjunke.cn/img/logo.jpeg"
+    },
+    {
+      "title": "《认知觉醒》",
+      "created": "2026-07-11 08:00",
+      "link": "https://hutusi.com/flows/2026/07/11",
+      "author": "胡涂说",
+      "avatar": "https://hutusi.com/assets/favicon-32x32.png"
+    },
     {
       "title": "纸笔、AI，和学习那点事",
       "created": "2026-07-10 13:23",
@@ -372,25 +386,11 @@
       "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
     },
     {
-      "title": "阿嬷 ā mó",
-      "created": "2026-05-24 08:00",
-      "link": "https://hutusi.com/flows/2026/05/24",
-      "author": "胡涂说",
-      "avatar": "https://hutusi.com/assets/favicon-32x32.png"
-    },
-    {
       "title": "五一游记：走理小路，逛三星堆",
       "created": "2026-05-23 18:44",
       "link": "https://bluehe.cn/archives/sanxingdui-guide",
       "author": "云心怀鹤",
       "avatar": "https://bluehe.cn/usr/uploads/2022/09/3376344061.jpg"
-    },
-    {
-      "title": "我们免费写的字，平台拿去卖给了谁",
-      "created": "2026-05-20 22:40",
-      "link": "https://dongjunke.cn/posts/2026/05/20/48180.html",
-      "author": "东评西就",
-      "avatar": "https://dongjunke.cn/img/logo.jpeg"
     },
     {
       "title": "武汉小龙虾是什么时候火遍全国的？",
@@ -589,6 +589,13 @@
       "avatar": "https://img.dreamlyn.cn:8443/i/2024/02/22/115030.webp"
     },
     {
+      "title": "影像科医生可以在肺结节诊疗流程中扮演更重要的角色",
+      "created": "2025-11-08 08:00",
+      "link": "https://blog.drpika.com/posts/2025-11-08",
+      "author": "DrPika's Blog",
+      "avatar": "https://blog.drpika.com/img/header.jpg"
+    },
+    {
       "title": "大梦一场",
       "created": "2025-11-04 22:38",
       "link": "https://thiscute.world/posts/job-and-life/?utm_source=atom_feed",
@@ -615,6 +622,20 @@
       "link": "https://thiscute.world/posts/linux-desktop-5-network/?utm_source=atom_feed",
       "author": "This Cute World",
       "avatar": "https://thiscute.world/avatar/myself.webp"
+    },
+    {
+      "title": "技术大爆炸的今天，医疗与 AI 的发展将走向何处？",
+      "created": "2025-09-30 08:00",
+      "link": "https://blog.drpika.com/posts/2025-09-30",
+      "author": "DrPika's Blog",
+      "avatar": "https://blog.drpika.com/img/header.jpg"
+    },
+    {
+      "title": "静态博客的更优解法：CNB 云原生开发 + EdgeOne Pages",
+      "created": "2025-09-10 08:00",
+      "link": "https://blog.drpika.com/posts/2025-09-10",
+      "author": "DrPika's Blog",
+      "avatar": "https://blog.drpika.com/img/header.jpg"
     },
     {
       "title": "Butterfly 5.5 更新日誌",
@@ -799,6 +820,13 @@
       "avatar": "https://bu.dusays.com/2023/08/25/64e8ca25e89c5.jpg"
     },
     {
+      "title": "昼事夜思劳形骸，常有拨云散雾",
+      "created": "2024-06-04 08:00",
+      "link": "https://blog.drpika.com/posts/2024-06-04",
+      "author": "DrPika's Blog",
+      "avatar": "https://blog.drpika.com/img/header.jpg"
+    },
+    {
       "title": "Word of the day 5",
       "created": "2024-05-21 15:11",
       "link": "https://shoka.lostyu.me/foreign-language/english/ci/youglish/day-5/",
@@ -895,6 +923,13 @@
       "link": "https://blog.leonus.cn/2023/recently.html",
       "author": "Leonus",
       "avatar": "https://q1.qlogo.cn/g?b=qq&nk=990320751&s=5"
+    },
+    {
+      "title": "杂谈医疗反腐风暴，医改将改向何方？",
+      "created": "2023-09-03 08:00",
+      "link": "https://blog.drpika.com/posts/2023-09-03",
+      "author": "DrPika's Blog",
+      "avatar": "https://blog.drpika.com/img/header.jpg"
     },
     {
       "title": "ECharts 帕累托图",
