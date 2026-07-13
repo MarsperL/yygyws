@@ -4,22 +4,22 @@
     "active_num": 29,
     "error_num": 8,
     "article_num": 145,
-    "last_updated_time": "2026-07-13 11:31:36"
+    "last_updated_time": "2026-07-13 22:46:40"
   },
   "article_data": [
+    {
+      "title": "三十年，一所地方大学的改名记",
+      "created": "2026-07-13 08:28",
+      "link": "https://lawtee.com/article/foshan-university/",
+      "author": "海若博客",
+      "avatar": "https://hyruo.com/links/avatar.jpg"
+    },
     {
       "title": "Cloudflare/Vercel项目推荐(6)",
       "created": "2026-07-13 00:12",
       "link": "https://blog.liushen.fun/posts/e4a369fc/",
       "author": "清羽飞扬",
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
-    },
-    {
-      "title": "validate-md-ref-report",
-      "created": "2026-07-12 19:42",
-      "link": "https://blognas.hwb0307.com/other/7087",
-      "author": "Bensz",
-      "avatar": "https://blognas.hwb0307.com/logo.jpg"
     },
     {
       "title": "GPT-5.6系列模型的社区反馈、基准表现和使用建议",
@@ -295,13 +295,6 @@
       "avatar": "https://limboy.me/assets/favicon.svg"
     },
     {
-      "title": "什么是“穷尽法律程序”？",
-      "created": "2026-06-08 09:43",
-      "link": "https://lawtee.com/article/end-of-legal-proceedings/",
-      "author": "海若博客",
-      "avatar": "https://hyruo.com/links/avatar.jpg"
-    },
-    {
       "title": "面试官皱眉：“实习时有负责服务的线上发布？” 我：“怎么可能没有发布？公司就我一个运维啊”，他愣了…",
       "created": "2026-06-07 17:11",
       "link": "https://www.qiuyl.com/xueyw/629",
@@ -517,6 +510,13 @@
       "link": "https://www.boysec.cn/boy/openclaw.html",
       "author": "王先森",
       "avatar": "https://images.boysec.cn/medias/avatar.jpg"
+    },
+    {
+      "title": "AI入门系列 Vibe Coding实战",
+      "created": "2026-02-18 20:13",
+      "link": "https://blognas.hwb0307.com/ai/7035",
+      "author": "Bensz",
+      "avatar": "https://blognas.hwb0307.com/logo.jpg"
     },
     {
       "title": "Kubernetes运维-Ceph分布式存储CSI对接实战指南",
