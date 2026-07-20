@@ -4,9 +4,16 @@
     "active_num": 29,
     "error_num": 8,
     "article_num": 145,
-    "last_updated_time": "2026-07-20 11:38:50"
+    "last_updated_time": "2026-07-20 22:19:39"
   },
   "article_data": [
+    {
+      "title": "如何用 OpenClaw 配置早报晚报，科技新闻信源、微博热搜获取",
+      "created": "2026-07-20 13:15",
+      "link": "https://blog.zhheo.com/p/u61vslr3.html",
+      "author": "张洪Heo",
+      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
+    },
     {
       "title": "给 SearXNG 接入豆包搜索，解决 OpenClaw 信源难题",
       "created": "2026-07-17 13:08",
@@ -102,13 +109,6 @@
       "title": "混元hy3模型上手：腾讯送了云函数个人版6个月，怎么才能用上",
       "created": "2026-07-08 11:08",
       "link": "https://blog.zhheo.com/p/2orxjo9r.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
-      "title": "给OpenClaw加上rm删除保护：防止AI误删你的整个电脑",
-      "created": "2026-07-07 19:06",
-      "link": "https://blog.zhheo.com/p/owiixgnk.html",
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
