@@ -4,9 +4,16 @@
     "active_num": 28,
     "error_num": 9,
     "article_num": 140,
-    "last_updated_time": "2026-07-31 11:29:38"
+    "last_updated_time": "2026-07-31 22:20:42"
   },
   "article_data": [
+    {
+      "title": "那些被AI公司吃掉的书",
+      "created": "2026-07-31 07:08",
+      "link": "https://lawtee.com/article/ai-eat-books/",
+      "author": "海若博客",
+      "avatar": "https://hyruo.com/links/avatar.jpg"
+    },
     {
       "title": "彻底解决 Nacos 双写问题并理解",
       "created": "2026-07-29 15:33",
@@ -111,13 +118,6 @@
       "link": "https://butterfly.js.org/posts/5-6-release-notes/",
       "author": "Jerry",
       "avatar": "https://butterfly.js.org/img/avatar.png"
-    },
-    {
-      "title": "2026年上半年说说：历史的追问",
-      "created": "2026-07-15 10:55",
-      "link": "https://lawtee.com/article/2026-half-year/",
-      "author": "海若博客",
-      "avatar": "https://hyruo.com/links/avatar.jpg"
     },
     {
       "title": "Cloudflare/Vercel项目推荐(6)",
