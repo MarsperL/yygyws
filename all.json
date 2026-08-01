@@ -4,9 +4,16 @@
     "active_num": 28,
     "error_num": 9,
     "article_num": 140,
-    "last_updated_time": "2026-08-01 11:28:42"
+    "last_updated_time": "2026-08-01 21:39:33"
   },
   "article_data": [
+    {
+      "title": "Google’s AI Problem Is Bigger Than You Think",
+      "created": "2026-08-01 08:00",
+      "link": "https://limboy.me/posts/google-ai-problem-is-bigger-than-you-think",
+      "author": "Limboy",
+      "avatar": "https://limboy.me/assets/favicon.svg"
+    },
     {
       "title": "那些被AI公司吃掉的书",
       "created": "2026-07-31 07:08",
@@ -398,13 +405,6 @@
       "link": "https://bluehe.cn/archives/chuanxi-selfdrive-route",
       "author": "云心怀鹤",
       "avatar": "https://bluehe.cn/usr/uploads/2022/09/3376344061.jpg"
-    },
-    {
-      "title": "为什么要写作",
-      "created": "2026-05-08 08:00",
-      "link": "https://limboy.me/posts/why-write",
-      "author": "Limboy",
-      "avatar": "https://limboy.me/assets/favicon.svg"
     },
     {
       "title": "黔山赴夏，清风入怀",
