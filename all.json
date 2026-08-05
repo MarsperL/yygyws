@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 37,
-    "active_num": 28,
-    "error_num": 9,
-    "article_num": 140,
-    "last_updated_time": "2026-08-04 22:28:13"
+    "active_num": 29,
+    "error_num": 8,
+    "article_num": 145,
+    "last_updated_time": "2026-08-05 10:54:48"
   },
   "article_data": [
     {
@@ -27,6 +27,13 @@
       "link": "https://hutusi.com/flows/2026/08/02",
       "author": "胡涂说",
       "avatar": "https://hutusi.com/assets/favicon-32x32.png"
+    },
+    {
+      "title": "Butterfly 移除內建 APlayer / Meting 後的替代方法",
+      "created": "2026-08-02 00:00",
+      "link": "https://butterfly.js.org/posts/butterfly-remove-built-in-aplayer-meting-alternative-methods/",
+      "author": "Jerry",
+      "avatar": "https://butterfly.js.org/img/avatar.png"
     },
     {
       "title": "Google’s AI Problem Is Bigger Than You Think",
@@ -174,6 +181,20 @@
       "link": "https://hutusi.com/flows/2026/07/11",
       "author": "胡涂说",
       "avatar": "https://hutusi.com/assets/favicon-32x32.png"
+    },
+    {
+      "title": "只要快递还在路上，这日子就有盼头",
+      "created": "2026-07-05 22:11",
+      "link": "https://4311346.com/post/2026/0705-niu.html",
+      "author": "Andy烧麦",
+      "avatar": "https://4311346.com/favicon.ico"
+    },
+    {
+      "title": "加班加点的尽头，是看得见的成果",
+      "created": "2026-07-04 23:20",
+      "link": "https://4311346.com/post/2026/0704-overtime.html",
+      "author": "Andy烧麦",
+      "avatar": "https://4311346.com/favicon.ico"
     },
     {
       "title": "于日常处 · 七月记",
@@ -372,6 +393,20 @@
       "avatar": "https://hutusi.com/assets/favicon-32x32.png"
     },
     {
+      "title": "我们改不了命，但是可以改运",
+      "created": "2026-06-06 21:36",
+      "link": "https://4311346.com/post/2026/0606-destiny.html",
+      "author": "Andy烧麦",
+      "avatar": "https://4311346.com/favicon.ico"
+    },
+    {
+      "title": "气味是通往过去的虫洞",
+      "created": "2026-06-01 19:22",
+      "link": "https://4311346.com/post/2026/0601-memory.html",
+      "author": "Andy烧麦",
+      "avatar": "https://4311346.com/favicon.ico"
+    },
+    {
       "title": "建站四年，从Hexo换到Astro",
       "created": "2026-06-01 02:10",
       "link": "https://blog.liushen.fun/posts/acf06c11/",
@@ -398,6 +433,13 @@
       "link": "https://bluehe.cn/archives/sanxingdui-guide",
       "author": "云心怀鹤",
       "avatar": "https://bluehe.cn/usr/uploads/2022/09/3376344061.jpg"
+    },
+    {
+      "title": "武汉小龙虾是什么时候火遍全国的？",
+      "created": "2026-05-19 00:03",
+      "link": "https://4311346.com/post/2026/0519-crayfish.html",
+      "author": "Andy烧麦",
+      "avatar": "https://4311346.com/favicon.ico"
     },
     {
       "title": "五一去川西：逛了四姑娘山双桥沟",
@@ -692,13 +734,6 @@
       "link": "https://www.ownit.top/p/202505221840/",
       "author": "南宫乘风",
       "avatar": "https://ownit.top/img/avatar_hu227367ba8544f2fc7811ed9508937bec_102665_300x0_resize_box_3.png"
-    },
-    {
-      "title": "Butterfly 5.3 更新日誌",
-      "created": "2025-01-10 18:47",
-      "link": "https://butterfly.js.org/posts/5-3-release-notes/",
-      "author": "Jerry",
-      "avatar": "https://butterfly.js.org/img/avatar.png"
     },
     {
       "title": "k8s日志采集与监控方案介绍",
