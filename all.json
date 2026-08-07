@@ -1,12 +1,19 @@
 {
   "statistical_data": {
     "friends_num": 37,
-    "active_num": 27,
-    "error_num": 10,
-    "article_num": 135,
-    "last_updated_time": "2026-08-07 10:54:41"
+    "active_num": 29,
+    "error_num": 8,
+    "article_num": 145,
+    "last_updated_time": "2026-08-07 21:15:23"
   },
   "article_data": [
+    {
+      "title": "洪绘敲木鱼支持“竹知了”模式了，可以自定义音效的电子竹知了App",
+      "created": "2026-08-07 16:58",
+      "link": "https://blog.zhheo.com/p/0zlnja8m.html",
+      "author": "张洪Heo",
+      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
+    },
     {
       "title": "AxonHub - 多模型API智能路由网关",
       "created": "2026-08-07 01:12",
@@ -92,6 +99,13 @@
       "avatar": "https://hyruo.com/links/avatar.jpg"
     },
     {
+      "title": "彻底解决 Nacos 双写问题并理解",
+      "created": "2026-07-29 15:33",
+      "link": "https://www.qiuyl.com/xueyw/637",
+      "author": "秋意零",
+      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
+    },
+    {
       "title": "报错回顾：给OpenClaw添加错误行为记忆机制，让自己写的skill不断成长",
       "created": "2026-07-29 10:20",
       "link": "https://blog.zhheo.com/p/0x4n7juy.html",
@@ -106,11 +120,25 @@
       "avatar": "https://hyruo.com/links/avatar.jpg"
     },
     {
+      "title": "微服务架构核心组件，Nacos 集群完整部署实践",
+      "created": "2026-07-28 16:13",
+      "link": "https://www.qiuyl.com/xueyw/635",
+      "author": "秋意零",
+      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
+    },
+    {
       "title": "湖南经济发展的药方早就开好了，关键是“把药吃下去”",
       "created": "2026-07-28 09:52",
       "link": "https://lawtee.com/article/hunan-economy/",
       "author": "海若博客",
       "avatar": "https://hyruo.com/links/avatar.jpg"
+    },
+    {
+      "title": "耗时两月，完成了两个云原生企业级项目教程，40723 字！！",
+      "created": "2026-07-27 21:44",
+      "link": "https://www.qiuyl.com/xueyw/634",
+      "author": "秋意零",
+      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
     },
     {
       "title": "chatgpt太夯了！终于手搓出属于自己的博客主题",
@@ -127,11 +155,11 @@
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
     {
-      "title": "Mac 合盖不休眠：用 pmset 彻底禁止系统睡眠",
-      "created": "2026-07-23 10:48",
-      "link": "https://blog.zhheo.com/p/xvupxvv6.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
+      "title": "星球入门手册",
+      "created": "2026-07-22 00:06",
+      "link": "https://www.qiuyl.com/zsxq/633",
+      "author": "秋意零",
+      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
     },
     {
       "title": "Butterfly 5.6 更新日誌",
@@ -351,6 +379,27 @@
       "avatar": "https://limboy.me/assets/favicon.svg"
     },
     {
+      "title": "面试官皱眉：“实习时有负责服务的线上发布？” 我：“怎么可能没有发布？公司就我一个运维啊”，他愣了…",
+      "created": "2026-06-07 17:11",
+      "link": "https://www.qiuyl.com/xueyw/629",
+      "author": "秋意零",
+      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
+    },
+    {
+      "title": "鱼鱼API 激活与使用指导",
+      "created": "2026-06-07 10:50",
+      "link": "https://blog.anheyu.com/posts/gJHa",
+      "author": "安知鱼",
+      "avatar": "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"
+    },
+    {
+      "title": "Codex使用指南",
+      "created": "2026-06-07 10:49",
+      "link": "https://blog.anheyu.com/posts/Xtbx",
+      "author": "安知鱼",
+      "avatar": "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"
+    },
+    {
       "title": "当心流量别被 Agent 都吃了",
       "created": "2026-06-07 08:00",
       "link": "https://hutusi.com/flows/2026/06/07",
@@ -489,6 +538,27 @@
       "link": "https://www.boysec.cn/boy/411bb493.html",
       "author": "王先森",
       "avatar": "https://images.boysec.cn/medias/avatar.jpg"
+    },
+    {
+      "title": "鱼高高 - 一个无广告的微信小程序二维码生成器",
+      "created": "2026-01-21 15:27",
+      "link": "https://blog.anheyu.com/posts/MrnO",
+      "author": "安知鱼",
+      "avatar": "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"
+    },
+    {
+      "title": "2026年度AI工具大分享 | 五大方向深度对比解析",
+      "created": "2026-01-19 11:57",
+      "link": "https://blog.anheyu.com/posts/ifDZ",
+      "author": "安知鱼",
+      "avatar": "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"
+    },
+    {
+      "title": "Vue 3.6 Alien Signals 深度解析：信号驱动的响应式革命",
+      "created": "2026-01-17 16:14",
+      "link": "https://blog.anheyu.com/posts/P9N3",
+      "author": "安知鱼",
+      "avatar": "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"
     },
     {
       "title": "小树的 2025 年终总结",
