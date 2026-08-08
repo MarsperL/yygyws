@@ -4,9 +4,23 @@
     "active_num": 28,
     "error_num": 9,
     "article_num": 140,
-    "last_updated_time": "2026-08-08 09:59:27"
+    "last_updated_time": "2026-08-08 20:58:38"
   },
   "article_data": [
+    {
+      "title": "注意力",
+      "created": "2026-08-08 08:00",
+      "link": "https://limboy.me/posts/attention",
+      "author": "Limboy",
+      "avatar": "https://limboy.me/assets/favicon.svg"
+    },
+    {
+      "title": "价值观",
+      "created": "2026-08-08 08:00",
+      "link": "https://limboy.me/posts/values",
+      "author": "Limboy",
+      "avatar": "https://limboy.me/assets/favicon.svg"
+    },
     {
       "title": "洪绘敲木鱼支持“竹知了”模式了，可以自定义音效的电子竹知了App",
       "created": "2026-08-07 16:58",
@@ -71,13 +85,6 @@
       "avatar": "https://limboy.me/assets/favicon.svg"
     },
     {
-      "title": "Master of Puppets",
-      "created": "2026-08-02 08:00",
-      "link": "https://hutusi.com/flows/2026/08/02",
-      "author": "胡涂说",
-      "avatar": "https://hutusi.com/assets/favicon-32x32.png"
-    },
-    {
       "title": "Butterfly 移除內建 APlayer / Meting 後的替代方法",
       "created": "2026-08-02 00:00",
       "link": "https://butterfly.js.org/posts/butterfly-remove-built-in-aplayer-meting-alternative-methods/",
@@ -99,6 +106,13 @@
       "avatar": "https://hyruo.com/links/avatar.jpg"
     },
     {
+      "title": "彻底解决 Nacos 双写问题并理解",
+      "created": "2026-07-29 15:33",
+      "link": "https://www.qiuyl.com/xueyw/637",
+      "author": "秋意零",
+      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
+    },
+    {
       "title": "报错回顾：给OpenClaw添加错误行为记忆机制，让自己写的skill不断成长",
       "created": "2026-07-29 10:20",
       "link": "https://blog.zhheo.com/p/0x4n7juy.html",
@@ -113,11 +127,25 @@
       "avatar": "https://hyruo.com/links/avatar.jpg"
     },
     {
+      "title": "微服务架构核心组件，Nacos 集群完整部署实践",
+      "created": "2026-07-28 16:13",
+      "link": "https://www.qiuyl.com/xueyw/635",
+      "author": "秋意零",
+      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
+    },
+    {
       "title": "湖南经济发展的药方早就开好了，关键是“把药吃下去”",
       "created": "2026-07-28 09:52",
       "link": "https://lawtee.com/article/hunan-economy/",
       "author": "海若博客",
       "avatar": "https://hyruo.com/links/avatar.jpg"
+    },
+    {
+      "title": "耗时两月，完成了两个云原生企业级项目教程，40723 字！！",
+      "created": "2026-07-27 21:44",
+      "link": "https://www.qiuyl.com/xueyw/634",
+      "author": "秋意零",
+      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
     },
     {
       "title": "chatgpt太夯了！终于手搓出属于自己的博客主题",
@@ -132,6 +160,13 @@
       "link": "https://blog.zhheo.com/p/lw65vj43.html",
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
+    },
+    {
+      "title": "星球入门手册",
+      "created": "2026-07-22 00:06",
+      "link": "https://www.qiuyl.com/zsxq/633",
+      "author": "秋意零",
+      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
     },
     {
       "title": "Butterfly 5.6 更新日誌",
@@ -169,13 +204,6 @@
       "avatar": "https://dongjunke.cn/img/logo.jpeg"
     },
     {
-      "title": "《认知觉醒》",
-      "created": "2026-07-11 08:00",
-      "link": "https://hutusi.com/flows/2026/07/11",
-      "author": "胡涂说",
-      "avatar": "https://hutusi.com/assets/favicon-32x32.png"
-    },
-    {
       "title": "只要快递还在路上，这日子就有盼头",
       "created": "2026-07-05 22:11",
       "link": "https://4311346.com/post/2026/0705-niu.html",
@@ -209,13 +237,6 @@
       "link": "https://dongjunke.cn/posts/2026/07/03/6858.html",
       "author": "东评西就",
       "avatar": "https://dongjunke.cn/img/logo.jpeg"
-    },
-    {
-      "title": "Fable 5 回归，但是用不起……",
-      "created": "2026-07-02 08:00",
-      "link": "https://hutusi.com/flows/2026/07/02",
-      "author": "胡涂说",
-      "avatar": "https://hutusi.com/assets/favicon-32x32.png"
     },
     {
       "title": "香港銀行開戶推薦 （附邀請碼）",
@@ -330,25 +351,11 @@
       "avatar": "https://limboy.me/assets/favicon.svg"
     },
     {
-      "title": "Claude Fable 5: 短暂的寓言",
-      "created": "2026-06-13 08:00",
-      "link": "https://hutusi.com/flows/2026/06/13",
-      "author": "胡涂说",
-      "avatar": "https://hutusi.com/assets/favicon-32x32.png"
-    },
-    {
-      "title": "Claude Code 带给我的改变",
-      "created": "2026-06-11 08:00",
-      "link": "https://limboy.me/posts/the-changes-claude-code-brought-me",
-      "author": "Limboy",
-      "avatar": "https://limboy.me/assets/favicon.svg"
-    },
-    {
-      "title": "微信是一个奇葩",
-      "created": "2026-06-11 08:00",
-      "link": "https://limboy.me/posts/wechat-is-abnormal",
-      "author": "Limboy",
-      "avatar": "https://limboy.me/assets/favicon.svg"
+      "title": "面试官皱眉：“实习时有负责服务的线上发布？” 我：“怎么可能没有发布？公司就我一个运维啊”，他愣了…",
+      "created": "2026-06-07 17:11",
+      "link": "https://www.qiuyl.com/xueyw/629",
+      "author": "秋意零",
+      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
     },
     {
       "title": "鱼鱼API 激活与使用指导",
@@ -363,13 +370,6 @@
       "link": "https://blog.anheyu.com/posts/Xtbx",
       "author": "安知鱼",
       "avatar": "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"
-    },
-    {
-      "title": "当心流量别被 Agent 都吃了",
-      "created": "2026-06-07 08:00",
-      "link": "https://hutusi.com/flows/2026/06/07",
-      "author": "胡涂说",
-      "avatar": "https://hutusi.com/assets/favicon-32x32.png"
     },
     {
       "title": "我们改不了命，但是可以改运",
