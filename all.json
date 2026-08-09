@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 37,
-    "active_num": 28,
-    "error_num": 9,
-    "article_num": 140,
-    "last_updated_time": "2026-08-08 20:58:38"
+    "active_num": 29,
+    "error_num": 8,
+    "article_num": 145,
+    "last_updated_time": "2026-08-09 10:06:07"
   },
   "article_data": [
     {
@@ -20,6 +20,13 @@
       "link": "https://limboy.me/posts/values",
       "author": "Limboy",
       "avatar": "https://limboy.me/assets/favicon.svg"
+    },
+    {
+      "title": "Jeff Dean 离开 Google，以及关于他的传说",
+      "created": "2026-08-08 08:00",
+      "link": "https://hutusi.com/flows/2026/08/08",
+      "author": "胡涂说",
+      "avatar": "https://hutusi.com/assets/favicon-32x32.png"
     },
     {
       "title": "洪绘敲木鱼支持“竹知了”模式了，可以自定义音效的电子竹知了App",
@@ -83,6 +90,13 @@
       "link": "https://limboy.me/posts/social-media-and-cigarettes-technology",
       "author": "Limboy",
       "avatar": "https://limboy.me/assets/favicon.svg"
+    },
+    {
+      "title": "Master of Puppets",
+      "created": "2026-08-02 08:00",
+      "link": "https://hutusi.com/flows/2026/08/02",
+      "author": "胡涂说",
+      "avatar": "https://hutusi.com/assets/favicon-32x32.png"
     },
     {
       "title": "Butterfly 移除內建 APlayer / Meting 後的替代方法",
@@ -204,6 +218,13 @@
       "avatar": "https://dongjunke.cn/img/logo.jpeg"
     },
     {
+      "title": "《认知觉醒》",
+      "created": "2026-07-11 08:00",
+      "link": "https://hutusi.com/flows/2026/07/11",
+      "author": "胡涂说",
+      "avatar": "https://hutusi.com/assets/favicon-32x32.png"
+    },
+    {
       "title": "只要快递还在路上，这日子就有盼头",
       "created": "2026-07-05 22:11",
       "link": "https://4311346.com/post/2026/0705-niu.html",
@@ -237,6 +258,13 @@
       "link": "https://dongjunke.cn/posts/2026/07/03/6858.html",
       "author": "东评西就",
       "avatar": "https://dongjunke.cn/img/logo.jpeg"
+    },
+    {
+      "title": "Fable 5 回归，但是用不起……",
+      "created": "2026-07-02 08:00",
+      "link": "https://hutusi.com/flows/2026/07/02",
+      "author": "胡涂说",
+      "avatar": "https://hutusi.com/assets/favicon-32x32.png"
     },
     {
       "title": "香港銀行開戶推薦 （附邀請碼）",
@@ -349,6 +377,13 @@
       "link": "https://limboy.me/posts/pinned-inside-dingtalk",
       "author": "Limboy",
       "avatar": "https://limboy.me/assets/favicon.svg"
+    },
+    {
+      "title": "Claude Fable 5: 短暂的寓言",
+      "created": "2026-06-13 08:00",
+      "link": "https://hutusi.com/flows/2026/06/13",
+      "author": "胡涂说",
+      "avatar": "https://hutusi.com/assets/favicon-32x32.png"
     },
     {
       "title": "面试官皱眉：“实习时有负责服务的线上发布？” 我：“怎么可能没有发布？公司就我一个运维啊”，他愣了…",
