@@ -4,9 +4,23 @@
     "active_num": 29,
     "error_num": 8,
     "article_num": 145,
-    "last_updated_time": "2026-08-12 10:22:46"
+    "last_updated_time": "2026-08-12 21:20:49"
   },
   "article_data": [
+    {
+      "title": "Agentation 油猴脚本：让AI指哪改哪,配合 Claude Code 的开发神器",
+      "created": "2026-08-12 10:31",
+      "link": "https://blog.zhheo.com/p/wh8h2uop.html",
+      "author": "张洪Heo",
+      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
+    },
+    {
+      "title": "捷径",
+      "created": "2026-08-12 08:00",
+      "link": "https://limboy.me/posts/shortcut",
+      "author": "Limboy",
+      "avatar": "https://limboy.me/assets/favicon.svg"
+    },
     {
       "title": "洪绘压图网页版上线，这下可以随时随地在线压缩图片了",
       "created": "2026-08-10 14:40",
@@ -81,13 +95,6 @@
       "title": "洪绘烧纸：一个网页在线电子烧纸，电子祭祀工具",
       "created": "2026-08-06 16:44",
       "link": "https://blog.zhheo.com/p/kiazx47a.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
-      "title": "WebMCP适配教程：为浏览器AI预备好，让网页向 AI 提供工具，本博客已支持",
-      "created": "2026-08-06 11:56",
-      "link": "https://blog.zhheo.com/p/z1fmm8ee.html",
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
@@ -370,13 +377,6 @@
       "link": "https://blog.liushen.fun/posts/67261b47/",
       "author": "清羽飞扬",
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
-    },
-    {
-      "title": "读《置身钉内》后的一些感受",
-      "created": "2026-06-13 08:00",
-      "link": "https://limboy.me/posts/pinned-inside-dingtalk",
-      "author": "Limboy",
-      "avatar": "https://limboy.me/assets/favicon.svg"
     },
     {
       "title": "Claude Fable 5: 短暂的寓言",
