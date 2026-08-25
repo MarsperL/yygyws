@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 37,
-    "active_num": 28,
-    "error_num": 9,
-    "article_num": 136,
-    "last_updated_time": "2026-08-25 09:37:24"
+    "active_num": 29,
+    "error_num": 8,
+    "article_num": 141,
+    "last_updated_time": "2026-08-25 20:56:07"
   },
   "article_data": [
     {
@@ -34,6 +34,13 @@
       "link": "https://lawtee.com/article/fake-article-in-shangshu/",
       "author": "海若博客",
       "avatar": "https://hyruo.com/links/avatar.jpg"
+    },
+    {
+      "title": "AI 开发，使用 Codex+DeepSeek‑V4 完整实操（附带成果展示）",
+      "created": "2026-08-20 21:29",
+      "link": "https://www.qiuyl.com/ai/639",
+      "author": "秋意零",
+      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
     },
     {
       "title": "个人小项目vibecoding方案推荐：opencode spark 1.2 和 zcode",
@@ -176,11 +183,39 @@
       "avatar": "https://limboy.me/assets/favicon.svg"
     },
     {
+      "title": "彻底解决 Nacos 双写问题并理解",
+      "created": "2026-07-29 15:33",
+      "link": "https://www.qiuyl.com/xueyw/637",
+      "author": "秋意零",
+      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
+    },
+    {
+      "title": "微服务架构核心组件，Nacos 集群完整部署实践",
+      "created": "2026-07-28 16:13",
+      "link": "https://www.qiuyl.com/xueyw/635",
+      "author": "秋意零",
+      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
+    },
+    {
+      "title": "耗时两月，完成了两个云原生企业级项目教程，40723 字！！",
+      "created": "2026-07-27 21:44",
+      "link": "https://www.qiuyl.com/xueyw/634",
+      "author": "秋意零",
+      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
+    },
+    {
       "title": "chatgpt太夯了！终于手搓出属于自己的博客主题",
       "created": "2026-07-23 13:15",
       "link": "https://dongjunke.cn/posts/2026/07/23/14600.html",
       "author": "东评西就",
       "avatar": "https://dongjunke.cn/img/logo.jpeg"
+    },
+    {
+      "title": "星球入门手册",
+      "created": "2026-07-22 00:06",
+      "link": "https://www.qiuyl.com/zsxq/633",
+      "author": "秋意零",
+      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
     },
     {
       "title": "Butterfly 5.6 更新日誌",
