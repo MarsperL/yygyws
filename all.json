@@ -4,9 +4,16 @@
     "active_num": 27,
     "error_num": 10,
     "article_num": 132,
-    "last_updated_time": "2026-09-07 11:57:16"
+    "last_updated_time": "2026-09-08 01:36:49"
   },
   "article_data": [
+    {
+      "title": "招聘啦，加入真成运维，一起探索 AI~",
+      "created": "2026-09-07 16:20",
+      "link": "https://www.qiuyl.com/life/zhanzhang-dongtai/643",
+      "author": "秋意零",
+      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
+    },
     {
       "title": "当全世界都不喜欢英文专业",
       "created": "2026-09-06 00:55",
@@ -223,13 +230,6 @@
       "link": "https://dongjunke.cn/posts/2026/07/23/14600.html",
       "author": "东评西就",
       "avatar": "https://dongjunke.cn/img/logo.jpeg"
-    },
-    {
-      "title": "星球入门手册",
-      "created": "2026-07-22 00:06",
-      "link": "https://www.qiuyl.com/zsxq/633",
-      "author": "秋意零",
-      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
     },
     {
       "title": "Butterfly 5.6 更新日誌",
