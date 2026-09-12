@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 37,
-    "active_num": 23,
-    "error_num": 14,
-    "article_num": 115,
-    "last_updated_time": "2026-09-12 12:03:36"
+    "active_num": 26,
+    "error_num": 11,
+    "article_num": 130,
+    "last_updated_time": "2026-09-12 23:20:25"
   },
   "article_data": [
     {
@@ -43,6 +43,13 @@
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
     },
     {
+      "title": "招聘啦，加入真成运维，一起探索 AI~",
+      "created": "2026-09-07 16:20",
+      "link": "https://www.qiuyl.com/life/zhanzhang-dongtai/643",
+      "author": "秋意零",
+      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
+    },
+    {
       "title": "当全世界都不喜欢英文专业",
       "created": "2026-09-06 00:55",
       "link": "https://lawtee.com/article/english-major-decline/",
@@ -71,6 +78,13 @@
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
     {
+      "title": "AI Naive: 用 AI 做“无用之用”的独立软件作品集",
+      "created": "2026-08-30 08:00",
+      "link": "https://hutusi.com/flows/2026/08/30",
+      "author": "胡涂说",
+      "avatar": "https://hutusi.com/assets/favicon-32x32.png"
+    },
+    {
       "title": "越南拟将死刑罪名砍到只剩4个，到底发生了什么",
       "created": "2026-08-28 06:22",
       "link": "https://lawtee.com/article/vietnam-crime-law/",
@@ -92,6 +106,20 @@
       "avatar": "https://4311346.com/favicon.ico"
     },
     {
+      "title": "AI 开发，使用 Codex+DeepSeek‑V4 完整实操（附带成果展示）",
+      "created": "2026-08-20 21:29",
+      "link": "https://www.qiuyl.com/ai/639",
+      "author": "秋意零",
+      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
+    },
+    {
+      "title": "与牛牛的碎碎念之趁机荐书《平面国》",
+      "created": "2026-08-20 09:38",
+      "link": "https://xingbianren.cn/post/326.html",
+      "author": "刑辩人在路上",
+      "avatar": "https://xingbianren.cn/zb_users/upload/2023/05/202305231684818664504571.png"
+    },
+    {
       "title": "捷径",
       "created": "2026-08-12 08:00",
       "link": "https://limboy.me/posts/shortcut",
@@ -111,6 +139,13 @@
       "link": "https://limboy.me/posts/values",
       "author": "Limboy",
       "avatar": "https://limboy.me/assets/favicon.svg"
+    },
+    {
+      "title": "Jeff Dean 离开 Google，以及关于他的传说",
+      "created": "2026-08-08 08:00",
+      "link": "https://hutusi.com/flows/2026/08/08",
+      "author": "胡涂说",
+      "avatar": "https://hutusi.com/assets/favicon-32x32.png"
     },
     {
       "title": "AxonHub - 多模型API智能路由网关",
@@ -141,6 +176,13 @@
       "avatar": "https://limboy.me/assets/favicon.svg"
     },
     {
+      "title": "Master of Puppets",
+      "created": "2026-08-02 08:00",
+      "link": "https://hutusi.com/flows/2026/08/02",
+      "author": "胡涂说",
+      "avatar": "https://hutusi.com/assets/favicon-32x32.png"
+    },
+    {
       "title": "Butterfly 移除內建 APlayer / Meting 後的替代方法",
       "created": "2026-08-02 00:00",
       "link": "https://butterfly.js.org/posts/butterfly-remove-built-in-aplayer-meting-alternative-methods/",
@@ -153,6 +195,27 @@
       "link": "https://limboy.me/posts/google-ai-problem-is-bigger-than-you-think",
       "author": "Limboy",
       "avatar": "https://limboy.me/assets/favicon.svg"
+    },
+    {
+      "title": "彻底解决 Nacos 双写问题并理解",
+      "created": "2026-07-29 15:33",
+      "link": "https://www.qiuyl.com/xueyw/637",
+      "author": "秋意零",
+      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
+    },
+    {
+      "title": "微服务架构核心组件，Nacos 集群完整部署实践",
+      "created": "2026-07-28 16:13",
+      "link": "https://www.qiuyl.com/xueyw/635",
+      "author": "秋意零",
+      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
+    },
+    {
+      "title": "耗时两月，完成了两个云原生企业级项目教程，40723 字！！",
+      "created": "2026-07-27 21:44",
+      "link": "https://www.qiuyl.com/xueyw/634",
+      "author": "秋意零",
+      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
     },
     {
       "title": "chatgpt太夯了！终于手搓出属于自己的博客主题",
@@ -190,6 +253,13 @@
       "avatar": "https://dongjunke.cn/img/logo.jpeg"
     },
     {
+      "title": "《认知觉醒》",
+      "created": "2026-07-11 08:00",
+      "link": "https://hutusi.com/flows/2026/07/11",
+      "author": "胡涂说",
+      "avatar": "https://hutusi.com/assets/favicon-32x32.png"
+    },
+    {
       "title": "只要快递还在路上，这日子就有盼头",
       "created": "2026-07-05 22:11",
       "link": "https://4311346.com/post/2026/0705-niu.html",
@@ -223,6 +293,13 @@
       "link": "https://dongjunke.cn/posts/2026/07/03/6858.html",
       "author": "东评西就",
       "avatar": "https://dongjunke.cn/img/logo.jpeg"
+    },
+    {
+      "title": "Fable 5 回归，但是用不起……",
+      "created": "2026-07-02 08:00",
+      "link": "https://hutusi.com/flows/2026/07/02",
+      "author": "胡涂说",
+      "avatar": "https://hutusi.com/assets/favicon-32x32.png"
     },
     {
       "title": "香港銀行開戶推薦 （附邀請碼）",
@@ -386,6 +463,13 @@
       "avatar": "https://images.boysec.cn/medias/avatar.jpg"
     },
     {
+      "title": "我也曾为避让电动车而摔个狗啃屎，但我还是觉得自己享福了",
+      "created": "2026-02-21 23:36",
+      "link": "https://xingbianren.cn/post/325.html",
+      "author": "刑辩人在路上",
+      "avatar": "https://xingbianren.cn/zb_users/upload/2023/05/202305231684818664504571.png"
+    },
+    {
       "title": "AI入门系列 Vibe Coding实战",
       "created": "2026-02-18 20:13",
       "link": "https://blognas.hwb0307.com/ai/7035",
@@ -421,6 +505,13 @@
       "avatar": "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"
     },
     {
+      "title": "小律师某音商城购物遭遇刷单商家假发货，职业病犯投诉追查后感叹套路太深",
+      "created": "2026-01-10 01:30",
+      "link": "https://xingbianren.cn/post/324.html",
+      "author": "刑辩人在路上",
+      "avatar": "https://xingbianren.cn/zb_users/upload/2023/05/202305231684818664504571.png"
+    },
+    {
       "title": "小树的 2025 年终总结",
       "created": "2025-12-31 20:00",
       "link": "https://yeshu.cloud/posts/annual-summary-2025/",
@@ -428,11 +519,25 @@
       "avatar": "https://yeshu.cloud/images/apple-touch-icon.png"
     },
     {
+      "title": "豆包输入法屌爆了！",
+      "created": "2025-12-28 10:09",
+      "link": "https://xingbianren.cn/post/323.html",
+      "author": "刑辩人在路上",
+      "avatar": "https://xingbianren.cn/zb_users/upload/2023/05/202305231684818664504571.png"
+    },
+    {
       "title": "我的 2025 - 步履不停",
       "created": "2025-12-27 01:01",
       "link": "https://thiscute.world/posts/2025-summary/?utm_source=atom_feed",
       "author": "This Cute World",
       "avatar": "https://thiscute.world/avatar/myself.webp"
+    },
+    {
+      "title": "要求花果山法院立即勘误，并向孙悟空公开赔礼道歉的告知书",
+      "created": "2025-12-05 10:43",
+      "link": "https://xingbianren.cn/post/322.html",
+      "author": "刑辩人在路上",
+      "avatar": "https://xingbianren.cn/zb_users/upload/2023/05/202305231684818664504571.png"
     },
     {
       "title": "Kubernetes运维-SkyWalking实现微服务日志与链路追踪可观测实战",
