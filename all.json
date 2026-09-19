@@ -1,19 +1,12 @@
 {
   "statistical_data": {
     "friends_num": 37,
-    "active_num": 27,
-    "error_num": 10,
-    "article_num": 135,
-    "last_updated_time": "2026-09-19 00:10:41"
+    "active_num": 26,
+    "error_num": 11,
+    "article_num": 130,
+    "last_updated_time": "2026-09-19 12:04:37"
   },
   "article_data": [
-    {
-      "title": "新功能上线，快来看看吧，有惊喜呀~",
-      "created": "2026-09-18 19:59",
-      "link": "https://www.qiuyl.com/xueyw/645",
-      "author": "秋意零",
-      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
-    },
     {
       "title": "印度哲学的最高境界：如何证明你是你？",
       "created": "2026-09-16 10:00",
@@ -64,13 +57,6 @@
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
     },
     {
-      "title": "招聘啦，加入真成运维，一起探索 AI~",
-      "created": "2026-09-07 16:20",
-      "link": "https://www.qiuyl.com/life/zhanzhang-dongtai/643",
-      "author": "秋意零",
-      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
-    },
-    {
       "title": "当全世界都不喜欢英文专业",
       "created": "2026-09-06 00:55",
       "link": "https://lawtee.com/article/english-major-decline/",
@@ -111,13 +97,6 @@
       "link": "https://4311346.com/post/2026/0823-weight-loss.html",
       "author": "Andy烧麦",
       "avatar": "https://4311346.com/favicon.ico"
-    },
-    {
-      "title": "AI 开发，使用 Codex+DeepSeek‑V4 完整实操（附带成果展示）",
-      "created": "2026-08-20 21:29",
-      "link": "https://www.qiuyl.com/ai/639",
-      "author": "秋意零",
-      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
     },
     {
       "title": "与牛牛的碎碎念之趁机荐书《平面国》",
@@ -202,20 +181,6 @@
       "link": "https://limboy.me/posts/google-ai-problem-is-bigger-than-you-think",
       "author": "Limboy",
       "avatar": "https://limboy.me/assets/favicon.svg"
-    },
-    {
-      "title": "彻底解决 Nacos 双写问题并理解",
-      "created": "2026-07-29 15:33",
-      "link": "https://www.qiuyl.com/xueyw/637",
-      "author": "秋意零",
-      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
-    },
-    {
-      "title": "微服务架构核心组件，Nacos 集群完整部署实践",
-      "created": "2026-07-28 16:13",
-      "link": "https://www.qiuyl.com/xueyw/635",
-      "author": "秋意零",
-      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
     },
     {
       "title": "chatgpt太夯了！终于手搓出属于自己的博客主题",
