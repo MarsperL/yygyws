@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 37,
-    "active_num": 27,
-    "error_num": 10,
-    "article_num": 133,
-    "last_updated_time": "2026-09-26 00:57:06"
+    "active_num": 25,
+    "error_num": 12,
+    "article_num": 123,
+    "last_updated_time": "2026-09-26 12:27:18"
   },
   "article_data": [
     {
@@ -20,13 +20,6 @@
       "link": "https://www.skyue.com/26092422.html",
       "author": "拾月",
       "avatar": "https://www.skyue.com/favicon.ico"
-    },
-    {
-      "title": "新功能上线，快来看看吧，有惊喜呀~",
-      "created": "2026-09-18 19:59",
-      "link": "https://www.qiuyl.com/xueyw/645",
-      "author": "秋意零",
-      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
     },
     {
       "title": "印度哲学的最高境界：如何证明你是你？",
@@ -78,13 +71,6 @@
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
     },
     {
-      "title": "招聘啦，加入真成运维，一起探索 AI~",
-      "created": "2026-09-07 16:20",
-      "link": "https://www.qiuyl.com/life/zhanzhang-dongtai/643",
-      "author": "秋意零",
-      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
-    },
-    {
       "title": "当全世界都不喜欢英文专业",
       "created": "2026-09-06 00:55",
       "link": "https://lawtee.com/article/english-major-decline/",
@@ -104,13 +90,6 @@
       "link": "https://blog.zhheo.com/p/8p5a0k56.html",
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
-      "title": "AI Naive: 用 AI 做“无用之用”的独立软件作品集",
-      "created": "2026-08-30 08:00",
-      "link": "https://hutusi.com/flows/2026/08/30",
-      "author": "胡涂说",
-      "avatar": "https://hutusi.com/assets/favicon-32x32.png"
     },
     {
       "title": "越南拟将死刑罪名砍到只剩4个，到底发生了什么",
@@ -141,13 +120,6 @@
       "avatar": "https://www.skyue.com/favicon.ico"
     },
     {
-      "title": "AI 开发，使用 Codex+DeepSeek‑V4 完整实操（附带成果展示）",
-      "created": "2026-08-20 21:29",
-      "link": "https://www.qiuyl.com/ai/639",
-      "author": "秋意零",
-      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
-    },
-    {
       "title": "与牛牛的碎碎念之趁机荐书《平面国》",
       "created": "2026-08-20 09:38",
       "link": "https://xingbianren.cn/post/326.html",
@@ -174,13 +146,6 @@
       "link": "https://limboy.me/posts/values",
       "author": "Limboy",
       "avatar": "https://limboy.me/assets/favicon.svg"
-    },
-    {
-      "title": "Jeff Dean 离开 Google，以及关于他的传说",
-      "created": "2026-08-08 08:00",
-      "link": "https://hutusi.com/flows/2026/08/08",
-      "author": "胡涂说",
-      "avatar": "https://hutusi.com/assets/favicon-32x32.png"
     },
     {
       "title": "AxonHub - 多模型API智能路由网关",
@@ -211,13 +176,6 @@
       "avatar": "https://limboy.me/assets/favicon.svg"
     },
     {
-      "title": "Master of Puppets",
-      "created": "2026-08-02 08:00",
-      "link": "https://hutusi.com/flows/2026/08/02",
-      "author": "胡涂说",
-      "avatar": "https://hutusi.com/assets/favicon-32x32.png"
-    },
-    {
       "title": "Butterfly 移除內建 APlayer / Meting 後的替代方法",
       "created": "2026-08-02 00:00",
       "link": "https://butterfly.js.org/posts/butterfly-remove-built-in-aplayer-meting-alternative-methods/",
@@ -230,20 +188,6 @@
       "link": "https://limboy.me/posts/google-ai-problem-is-bigger-than-you-think",
       "author": "Limboy",
       "avatar": "https://limboy.me/assets/favicon.svg"
-    },
-    {
-      "title": "彻底解决 Nacos 双写问题并理解",
-      "created": "2026-07-29 15:33",
-      "link": "https://www.qiuyl.com/xueyw/637",
-      "author": "秋意零",
-      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
-    },
-    {
-      "title": "微服务架构核心组件，Nacos 集群完整部署实践",
-      "created": "2026-07-28 16:13",
-      "link": "https://www.qiuyl.com/xueyw/635",
-      "author": "秋意零",
-      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
     },
     {
       "title": "chatgpt太夯了！终于手搓出属于自己的博客主题",
@@ -281,13 +225,6 @@
       "avatar": "https://dongjunke.cn/img/logo.jpeg"
     },
     {
-      "title": "《认知觉醒》",
-      "created": "2026-07-11 08:00",
-      "link": "https://hutusi.com/flows/2026/07/11",
-      "author": "胡涂说",
-      "avatar": "https://hutusi.com/assets/favicon-32x32.png"
-    },
-    {
       "title": "只要快递还在路上，这日子就有盼头",
       "created": "2026-07-05 22:11",
       "link": "https://4311346.com/post/2026/0705-niu.html",
@@ -321,13 +258,6 @@
       "link": "https://dongjunke.cn/posts/2026/07/03/6858.html",
       "author": "东评西就",
       "avatar": "https://dongjunke.cn/img/logo.jpeg"
-    },
-    {
-      "title": "Fable 5 回归，但是用不起……",
-      "created": "2026-07-02 08:00",
-      "link": "https://hutusi.com/flows/2026/07/02",
-      "author": "胡涂说",
-      "avatar": "https://hutusi.com/assets/favicon-32x32.png"
     },
     {
       "title": "香港銀行開戶推薦 （附邀請碼）",
