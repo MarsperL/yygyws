@@ -4,7 +4,7 @@
     "active_num": 26,
     "error_num": 11,
     "article_num": 128,
-    "last_updated_time": "2026-09-28 12:47:06"
+    "last_updated_time": "2026-09-29 03:29:35"
   },
   "article_data": [
     {
@@ -27,6 +27,13 @@
       "link": "https://www.skyue.com/26092422.html",
       "author": "拾月",
       "avatar": "https://www.skyue.com/favicon.ico"
+    },
+    {
+      "title": "新功能上线，快来看看吧，有惊喜呀~",
+      "created": "2026-09-18 19:59",
+      "link": "https://www.qiuyl.com/xueyw/645",
+      "author": "秋意零",
+      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
     },
     {
       "title": "印度哲学的最高境界：如何证明你是你？",
@@ -78,6 +85,13 @@
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
     },
     {
+      "title": "招聘啦，加入真成运维，一起探索 AI~",
+      "created": "2026-09-07 16:20",
+      "link": "https://www.qiuyl.com/life/zhanzhang-dongtai/643",
+      "author": "秋意零",
+      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
+    },
+    {
       "title": "当全世界都不喜欢英文专业",
       "created": "2026-09-06 00:55",
       "link": "https://lawtee.com/article/english-major-decline/",
@@ -125,6 +139,13 @@
       "link": "https://www.skyue.com/26082214.html",
       "author": "拾月",
       "avatar": "https://www.skyue.com/favicon.ico"
+    },
+    {
+      "title": "AI 开发，使用 Codex+DeepSeek‑V4 完整实操（附带成果展示）",
+      "created": "2026-08-20 21:29",
+      "link": "https://www.qiuyl.com/ai/639",
+      "author": "秋意零",
+      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
     },
     {
       "title": "与牛牛的碎碎念之趁机荐书《平面国》",
@@ -211,6 +232,20 @@
       "avatar": "https://limboy.me/assets/favicon.svg"
     },
     {
+      "title": "彻底解决 Nacos 双写问题并理解",
+      "created": "2026-07-29 15:33",
+      "link": "https://www.qiuyl.com/xueyw/637",
+      "author": "秋意零",
+      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
+    },
+    {
+      "title": "微服务架构核心组件，Nacos 集群完整部署实践",
+      "created": "2026-07-28 16:13",
+      "link": "https://www.qiuyl.com/xueyw/635",
+      "author": "秋意零",
+      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
+    },
+    {
       "title": "chatgpt太夯了！终于手搓出属于自己的博客主题",
       "created": "2026-07-23 13:15",
       "link": "https://dongjunke.cn/posts/2026/07/23/14600.html",
@@ -230,13 +265,6 @@
       "link": "https://blog.liushen.fun/posts/e4a369fc/",
       "author": "清羽飞扬",
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
-    },
-    {
-      "title": "GPT-5.6系列模型的社区反馈、基准表现和使用建议",
-      "created": "2026-07-12 19:42",
-      "link": "https://blognas.hwb0307.com/other/7085",
-      "author": "Bensz",
-      "avatar": "https://blognas.hwb0307.com/logo.jpg"
     },
     {
       "title": "最近的一些碎片",
@@ -400,20 +428,6 @@
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
     },
     {
-      "title": "科研造假风盛行背后的冷知识",
-      "created": "2026-05-31 20:09",
-      "link": "https://blognas.hwb0307.com/other/7075",
-      "author": "Bensz",
-      "avatar": "https://blognas.hwb0307.com/logo.jpg"
-    },
-    {
-      "title": "AI入门系列 关于科研AI写作边界的讨论",
-      "created": "2026-05-31 17:05",
-      "link": "https://blognas.hwb0307.com/ai/7070",
-      "author": "Bensz",
-      "avatar": "https://blognas.hwb0307.com/logo.jpg"
-    },
-    {
       "title": "五一游记：走理小路，逛三星堆",
       "created": "2026-05-23 18:44",
       "link": "https://bluehe.cn/archives/sanxingdui-guide",
@@ -470,13 +484,6 @@
       "avatar": "https://img.dreamlyn.cn:8443/i/2024/02/22/115030.webp"
     },
     {
-      "title": "Docker系列 Bensz Channel：构建AI时代Up主和粉丝互动的高效平台",
-      "created": "2026-03-11 13:04",
-      "link": "https://blognas.hwb0307.com/linux/docker/7053",
-      "author": "Bensz",
-      "avatar": "https://blognas.hwb0307.com/logo.jpg"
-    },
-    {
       "title": "OpenClaw 极简部署教程：从安装到飞书 / 企业微信集成一步到位",
       "created": "2026-02-26 12:26",
       "link": "https://www.boysec.cn/boy/openclaw.html",
@@ -489,13 +496,6 @@
       "link": "https://xingbianren.cn/post/325.html",
       "author": "刑辩人在路上",
       "avatar": "https://xingbianren.cn/zb_users/upload/2023/05/202305231684818664504571.png"
-    },
-    {
-      "title": "AI入门系列 Vibe Coding实战",
-      "created": "2026-02-18 20:13",
-      "link": "https://blognas.hwb0307.com/ai/7035",
-      "author": "Bensz",
-      "avatar": "https://blognas.hwb0307.com/logo.jpg"
     },
     {
       "title": "Kubernetes运维-Ceph分布式存储CSI对接实战指南",
