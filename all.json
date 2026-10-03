@@ -1,12 +1,19 @@
 {
   "statistical_data": {
     "friends_num": 37,
-    "active_num": 27,
-    "error_num": 10,
-    "article_num": 133,
-    "last_updated_time": "2026-10-03 12:44:57"
+    "active_num": 28,
+    "error_num": 9,
+    "article_num": 138,
+    "last_updated_time": "2026-10-04 00:02:46"
   },
   "article_data": [
+    {
+      "title": "中秋国庆双节快乐",
+      "created": "2026-10-03 13:35",
+      "link": "https://bluehe.cn/archives/zhongqiu-guoqing",
+      "author": "云心怀鹤",
+      "avatar": "https://bluehe.cn/usr/uploads/2022/09/3376344061.jpg"
+    },
     {
       "title": "绿水青山里边的“山”到底应该是哪些树构成？",
       "created": "2026-09-29 06:33",
@@ -253,6 +260,13 @@
       "avatar": "https://dongjunke.cn/img/logo.jpeg"
     },
     {
+      "title": "从知识管理到个人数字基建",
+      "created": "2026-07-21 11:49",
+      "link": "https://zgq.me/posts/personal-digital-infrastructure/",
+      "author": "gq's blog",
+      "avatar": "https://cdn.zgq.me/assets/gq-avatar.png"
+    },
+    {
       "title": "Butterfly 5.6 更新日誌",
       "created": "2026-07-16 17:05",
       "link": "https://butterfly.js.org/posts/5-6-release-notes/",
@@ -447,13 +461,6 @@
       "link": "https://blognas.hwb0307.com/ai/7070",
       "author": "Bensz",
       "avatar": "https://blognas.hwb0307.com/logo.jpg"
-    },
-    {
-      "title": "五一游记：走理小路，逛三星堆",
-      "created": "2026-05-23 18:44",
-      "link": "https://bluehe.cn/archives/sanxingdui-guide",
-      "author": "云心怀鹤",
-      "avatar": "https://bluehe.cn/usr/uploads/2022/09/3376344061.jpg"
     },
     {
       "title": "我看见的世界",
@@ -652,6 +659,13 @@
       "avatar": "https://blog.drpika.com/img/header.jpg"
     },
     {
+      "title": "基于 LLM 整理 Web 全栈工程师的能力模型与学习 Roadmap",
+      "created": "2025-09-14 14:05",
+      "link": "https://zgq.me/posts/llm-roadmap/",
+      "author": "gq's blog",
+      "avatar": "https://cdn.zgq.me/assets/gq-avatar.png"
+    },
+    {
       "title": "静态博客的更优解法：CNB 云原生开发 + EdgeOne Pages",
       "created": "2025-09-10 08:00",
       "link": "https://blog.drpika.com/posts/2025-09-10",
@@ -750,6 +764,20 @@
       "avatar": "https://ownit.top/img/avatar_hu227367ba8544f2fc7811ed9508937bec_102665_300x0_resize_box_3.png"
     },
     {
+      "title": "信任的锚点与链条：从“证书信任”到“人际协作”",
+      "created": "2025-05-05 16:05",
+      "link": "https://zgq.me/posts/chain-of-trust/",
+      "author": "gq's blog",
+      "avatar": "https://cdn.zgq.me/assets/gq-avatar.png"
+    },
+    {
+      "title": "2024",
+      "created": "2025-02-16 14:05",
+      "link": "https://zgq.me/posts/2024-summary/",
+      "author": "gq's blog",
+      "avatar": "https://cdn.zgq.me/assets/gq-avatar.png"
+    },
+    {
       "title": "我的 2024 - 稳中求进、热爱生活",
       "created": "2025-01-07 17:43",
       "link": "https://thiscute.world/posts/2024-summary/?utm_source=atom_feed",
@@ -769,6 +797,13 @@
       "link": "http://www.cuiliangblog.cn/detail/article/91",
       "author": "崔亮的博客",
       "avatar": "https://oss.cuiliangblog.cn/image/logo.png"
+    },
+    {
+      "title": "同理心：跨过理工科与人文社科艺术的桥梁",
+      "created": "2024-11-01 19:30",
+      "link": "https://zgq.me/posts/empathy-bridging/",
+      "author": "gq's blog",
+      "avatar": "https://cdn.zgq.me/assets/gq-avatar.png"
     },
     {
       "title": "献给澄澈理想的花束：深度学习科研方法小结",
