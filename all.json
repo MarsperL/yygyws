@@ -4,7 +4,7 @@
     "active_num": 28,
     "error_num": 9,
     "article_num": 140,
-    "last_updated_time": "2026-10-19 12:07:12"
+    "last_updated_time": "2026-10-20 02:34:58"
   },
   "article_data": [
     {
@@ -34,6 +34,20 @@
       "link": "https://bluehe.cn/archives/xiamen-business-trip-4",
       "author": "云心怀鹤",
       "avatar": "https://bluehe.cn/usr/uploads/2022/09/3376344061.jpg"
+    },
+    {
+      "title": "DeepSeek 崩上热搜：当 AI 暂时不可用，你的工作还能继续吗？",
+      "created": "2026-10-15 13:23",
+      "link": "https://www.qiuyl.com/itzixun/648",
+      "author": "秋意零",
+      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
+    },
+    {
+      "title": "新增一员猛将！！",
+      "created": "2026-10-14 22:57",
+      "link": "https://www.qiuyl.com/xueyw/647",
+      "author": "秋意零",
+      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
     },
     {
       "title": "com 域名 11 月 1 日要涨价，我把续费直接拉满到了 2036 年",
@@ -148,6 +162,13 @@
       "avatar": "https://www.skyue.com/favicon.ico"
     },
     {
+      "title": "新功能上线，快来看看吧，有惊喜呀~",
+      "created": "2026-09-18 19:59",
+      "link": "https://www.qiuyl.com/xueyw/645",
+      "author": "秋意零",
+      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
+    },
+    {
       "title": "OpenClaw 接管你的油猴脚本：让 AI 直接读改网页脚本，不用再复制粘贴",
       "created": "2026-09-14 12:30",
       "link": "https://blog.zhheo.com/p/kp6o6mwu.html",
@@ -160,6 +181,13 @@
       "link": "https://blog.liushen.fun/posts/6a6de263/",
       "author": "清羽飞扬",
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
+    },
+    {
+      "title": "招聘啦，加入真成运维，一起探索 AI~",
+      "created": "2026-09-07 16:20",
+      "link": "https://www.qiuyl.com/life/zhanzhang-dongtai/643",
+      "author": "秋意零",
+      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
     },
     {
       "title": "AI Naive: 用 AI 做“无用之用”的独立软件作品集",
@@ -181,6 +209,13 @@
       "link": "https://4311346.com/post/2026/0823-weight-loss.html",
       "author": "Andy烧麦",
       "avatar": "https://4311346.com/favicon.ico"
+    },
+    {
+      "title": "AI 开发，使用 Codex+DeepSeek‑V4 完整实操（附带成果展示）",
+      "created": "2026-08-20 21:29",
+      "link": "https://www.qiuyl.com/ai/639",
+      "author": "秋意零",
+      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
     },
     {
       "title": "与牛牛的碎碎念之趁机荐书《平面国》",
@@ -645,13 +680,6 @@
       "avatar": "https://yeshu.cloud/images/apple-touch-icon.png"
     },
     {
-      "title": "统一日志格式规范与 Filebeat+Logstash 实践落地",
-      "created": "2025-07-17 02:16",
-      "link": "https://www.ownit.top/p/202507161816/",
-      "author": "南宫乘风",
-      "avatar": "https://ownit.top/img/avatar_hu227367ba8544f2fc7811ed9508937bec_102665_300x0_resize_box_3.png"
-    },
-    {
       "title": "Butterfly 5.4 更新日誌",
       "created": "2025-07-04 22:54",
       "link": "https://butterfly.js.org/posts/5-4-release-notes/",
@@ -659,32 +687,11 @@
       "avatar": "https://butterfly.js.org/img/avatar.png"
     },
     {
-      "title": "利用 Nginx 实现灰度环境的 H5 应用发布策略",
-      "created": "2025-06-19 02:15",
-      "link": "https://www.ownit.top/p/202506181815/",
-      "author": "南宫乘风",
-      "avatar": "https://ownit.top/img/avatar_hu227367ba8544f2fc7811ed9508937bec_102665_300x0_resize_box_3.png"
-    },
-    {
       "title": "KubeCon China 2025 见闻",
       "created": "2025-06-15 17:43",
       "link": "https://thiscute.world/posts/kubecon-china-2025/?utm_source=atom_feed",
       "author": "This Cute World",
       "avatar": "https://thiscute.world/avatar/myself.webp"
-    },
-    {
-      "title": "基于Nginx的微信支付回调跨网络环境解决方案",
-      "created": "2025-06-13 20:14",
-      "link": "https://www.ownit.top/p/202506131214/",
-      "author": "南宫乘风",
-      "avatar": "https://ownit.top/img/avatar_hu227367ba8544f2fc7811ed9508937bec_102665_300x0_resize_box_3.png"
-    },
-    {
-      "title": "为MySQL社区版实现审计功能：从插件配置到日志监控全解析",
-      "created": "2025-06-10 19:12",
-      "link": "https://www.ownit.top/p/202506101112/",
-      "author": "南宫乘风",
-      "avatar": "https://ownit.top/img/avatar_hu227367ba8544f2fc7811ed9508937bec_102665_300x0_resize_box_3.png"
     },
     {
       "title": "旅行日记·大连",
@@ -699,13 +706,6 @@
       "link": "http://www.cuiliangblog.cn/detail/article/93",
       "author": "崔亮的博客",
       "avatar": "https://oss.cuiliangblog.cn/image/logo.png"
-    },
-    {
-      "title": "基于阿里云DashScope API构建智能对话指南",
-      "created": "2025-05-23 02:40",
-      "link": "https://www.ownit.top/p/202505221840/",
-      "author": "南宫乘风",
-      "avatar": "https://ownit.top/img/avatar_hu227367ba8544f2fc7811ed9508937bec_102665_300x0_resize_box_3.png"
     },
     {
       "title": "信任的锚点与链条：从“证书信任”到“人际协作”",
