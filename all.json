@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 37,
-    "active_num": 27,
-    "error_num": 10,
-    "article_num": 135,
-    "last_updated_time": "2026-10-24 12:05:07"
+    "active_num": 28,
+    "error_num": 9,
+    "article_num": 140,
+    "last_updated_time": "2026-10-24 23:41:50"
   },
   "article_data": [
     {
@@ -76,6 +76,20 @@
       "link": "https://bluehe.cn/archives/xiamen-business-trip-4",
       "author": "云心怀鹤",
       "avatar": "https://bluehe.cn/usr/uploads/2022/09/3376344061.jpg"
+    },
+    {
+      "title": "DeepSeek 崩上热搜：当 AI 暂时不可用，你的工作还能继续吗？",
+      "created": "2026-10-15 13:23",
+      "link": "https://www.qiuyl.com/itzixun/648",
+      "author": "秋意零",
+      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
+    },
+    {
+      "title": "新增一员猛将！！",
+      "created": "2026-10-14 22:57",
+      "link": "https://www.qiuyl.com/xueyw/647",
+      "author": "秋意零",
+      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
     },
     {
       "title": "com 域名 11 月 1 日要涨价，我把续费直接拉满到了 2036 年",
@@ -162,11 +176,25 @@
       "avatar": "https://www.skyue.com/favicon.ico"
     },
     {
+      "title": "新功能上线，快来看看吧，有惊喜呀~",
+      "created": "2026-09-18 19:59",
+      "link": "https://www.qiuyl.com/xueyw/645",
+      "author": "秋意零",
+      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
+    },
+    {
       "title": "近期开发的四个开源项目",
       "created": "2026-09-09 02:12",
       "link": "https://blog.liushen.fun/posts/6a6de263/",
       "author": "清羽飞扬",
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
+    },
+    {
+      "title": "招聘啦，加入真成运维，一起探索 AI~",
+      "created": "2026-09-07 16:20",
+      "link": "https://www.qiuyl.com/life/zhanzhang-dongtai/643",
+      "author": "秋意零",
+      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
     },
     {
       "title": "AI Naive: 用 AI 做“无用之用”的独立软件作品集",
@@ -188,6 +216,13 @@
       "link": "https://4311346.com/post/2026/0823-weight-loss.html",
       "author": "Andy烧麦",
       "avatar": "https://4311346.com/favicon.ico"
+    },
+    {
+      "title": "AI 开发，使用 Codex+DeepSeek‑V4 完整实操（附带成果展示）",
+      "created": "2026-08-20 21:29",
+      "link": "https://www.qiuyl.com/ai/639",
+      "author": "秋意零",
+      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
     },
     {
       "title": "与牛牛的碎碎念之趁机荐书《平面国》",
