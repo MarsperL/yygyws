@@ -4,9 +4,16 @@
     "active_num": 28,
     "error_num": 9,
     "article_num": 140,
-    "last_updated_time": "2026-10-24 23:41:50"
+    "last_updated_time": "2026-10-25 12:05:39"
   },
   "article_data": [
+    {
+      "title": "教师节免票，厦门海上游",
+      "created": "2026-10-25 11:41",
+      "link": "https://bluehe.cn/archives/xiamen-business-trip-6",
+      "author": "云心怀鹤",
+      "avatar": "https://bluehe.cn/usr/uploads/2022/09/3376344061.jpg"
+    },
     {
       "title": "给 AI 编程限个上下文：把窗口砍到 300k 反而更省",
       "created": "2026-10-23 16:36",
@@ -146,13 +153,6 @@
       "link": "https://lawtee.com/article/tax-policy/",
       "author": "海若博客",
       "avatar": "https://hyruo.com/links/avatar.jpg"
-    },
-    {
-      "title": "厦门出差记（二）：从南普陀走到白城沙滩",
-      "created": "2026-10-07 01:15",
-      "link": "https://bluehe.cn/archives/xiamen-business-trip-2-5-8",
-      "author": "云心怀鹤",
-      "avatar": "https://bluehe.cn/usr/uploads/2022/09/3376344061.jpg"
     },
     {
       "title": "Mac版Feedglot正式上架Mac App Store",
