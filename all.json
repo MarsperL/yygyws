@@ -4,7 +4,7 @@
     "active_num": 27,
     "error_num": 10,
     "article_num": 135,
-    "last_updated_time": "2026-10-31 12:57:50"
+    "last_updated_time": "2026-11-01 01:05:20"
   },
   "article_data": [
     {
@@ -113,18 +113,25 @@
       "avatar": "https://www.skyue.com/favicon.ico"
     },
     {
-      "title": "闯红灯，罚款200元，记6分",
-      "created": "2026-10-18 22:23",
-      "link": "https://4311346.com/post/2026/1018-runred.html",
-      "author": "Andy烧麦",
-      "avatar": "https://4311346.com/favicon.ico"
-    },
-    {
       "title": "厦门出差记（四）：博物馆与CCD海景",
       "created": "2026-10-18 09:30",
       "link": "https://bluehe.cn/archives/xiamen-business-trip-4",
       "author": "云心怀鹤",
       "avatar": "https://bluehe.cn/usr/uploads/2022/09/3376344061.jpg"
+    },
+    {
+      "title": "DeepSeek 崩上热搜：当 AI 暂时不可用，你的工作还能继续吗？",
+      "created": "2026-10-15 13:23",
+      "link": "https://www.qiuyl.com/itzixun/648",
+      "author": "秋意零",
+      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
+    },
+    {
+      "title": "新增一员猛将！！",
+      "created": "2026-10-14 22:57",
+      "link": "https://www.qiuyl.com/xueyw/647",
+      "author": "秋意零",
+      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
     },
     {
       "title": "不交社保，食品安全很难真正落实",
@@ -148,13 +155,6 @@
       "avatar": "https://www.skyue.com/favicon.ico"
     },
     {
-      "title": "记忆里最严重的一次发烧…",
-      "created": "2026-10-10 23:23",
-      "link": "https://4311346.com/post/2026/1010-fever.html",
-      "author": "Andy烧麦",
-      "avatar": "https://4311346.com/favicon.ico"
-    },
-    {
       "title": "税收政策为何不向二孩家庭倾斜？",
       "created": "2026-10-10 00:40",
       "link": "https://lawtee.com/article/tax-policy/",
@@ -176,11 +176,25 @@
       "avatar": "https://www.skyue.com/favicon.ico"
     },
     {
+      "title": "新功能上线，快来看看吧，有惊喜呀~",
+      "created": "2026-09-18 19:59",
+      "link": "https://www.qiuyl.com/xueyw/645",
+      "author": "秋意零",
+      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
+    },
+    {
       "title": "近期开发的四个开源项目",
       "created": "2026-09-09 02:12",
       "link": "https://blog.liushen.fun/posts/6a6de263/",
       "author": "清羽飞扬",
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
+    },
+    {
+      "title": "招聘啦，加入真成运维，一起探索 AI~",
+      "created": "2026-09-07 16:20",
+      "link": "https://www.qiuyl.com/life/zhanzhang-dongtai/643",
+      "author": "秋意零",
+      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
     },
     {
       "title": "AI Naive: 用 AI 做“无用之用”的独立软件作品集",
@@ -190,11 +204,11 @@
       "avatar": "https://hutusi.com/assets/favicon-32x32.png"
     },
     {
-      "title": "减肥的第一个月，掉秤10斤",
-      "created": "2026-08-23 23:55",
-      "link": "https://4311346.com/post/2026/0823-weight-loss.html",
-      "author": "Andy烧麦",
-      "avatar": "https://4311346.com/favicon.ico"
+      "title": "AI 开发，使用 Codex+DeepSeek‑V4 完整实操（附带成果展示）",
+      "created": "2026-08-20 21:29",
+      "link": "https://www.qiuyl.com/ai/639",
+      "author": "秋意零",
+      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
     },
     {
       "title": "与牛牛的碎碎念之趁机荐书《平面国》",
@@ -216,13 +230,6 @@
       "link": "https://blog.liushen.fun/posts/b404081c/",
       "author": "清羽飞扬",
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
-    },
-    {
-      "title": "《功夫女足》不好看但有启发",
-      "created": "2026-08-06 23:40",
-      "link": "https://4311346.com/post/2026/0806-kungfusoccer.html",
-      "author": "Andy烧麦",
-      "avatar": "https://4311346.com/favicon.ico"
     },
     {
       "title": "Master of Puppets",
@@ -272,13 +279,6 @@
       "link": "https://hutusi.com/flows/2026/07/11",
       "author": "胡涂说",
       "avatar": "https://hutusi.com/assets/favicon-32x32.png"
-    },
-    {
-      "title": "只要快递还在路上，这日子就有盼头",
-      "created": "2026-07-05 22:11",
-      "link": "https://4311346.com/post/2026/0705-niu.html",
-      "author": "Andy烧麦",
-      "avatar": "https://4311346.com/favicon.ico"
     },
     {
       "title": "香港銀行開戶推薦 （附邀請碼）",
