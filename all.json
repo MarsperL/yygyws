@@ -1,12 +1,19 @@
 {
   "statistical_data": {
     "friends_num": 37,
-    "active_num": 27,
-    "error_num": 10,
-    "article_num": 135,
-    "last_updated_time": "2026-11-01 13:26:01"
+    "active_num": 29,
+    "error_num": 8,
+    "article_num": 145,
+    "last_updated_time": "2026-11-02 01:48:52"
   },
   "article_data": [
+    {
+      "title": "2026年第44周",
+      "created": "2026-11-01 18:33",
+      "link": "https://www.skyue.com/26110118.html",
+      "author": "拾月",
+      "avatar": "https://www.skyue.com/favicon.ico"
+    },
     {
       "title": "图片格式怎么选：JPEG XL、AVIF、WebP、HEIF 的科普与取舍",
       "created": "2026-10-29 15:25",
@@ -113,6 +120,13 @@
       "avatar": "https://www.skyue.com/favicon.ico"
     },
     {
+      "title": "闯红灯，罚款200元，记6分",
+      "created": "2026-10-18 22:23",
+      "link": "https://4311346.com/post/2026/1018-runred.html",
+      "author": "Andy烧麦",
+      "avatar": "https://4311346.com/favicon.ico"
+    },
+    {
       "title": "厦门出差记（四）：博物馆与CCD海景",
       "created": "2026-10-18 09:30",
       "link": "https://bluehe.cn/archives/xiamen-business-trip-4",
@@ -155,6 +169,13 @@
       "avatar": "https://www.skyue.com/favicon.ico"
     },
     {
+      "title": "记忆里最严重的一次发烧…",
+      "created": "2026-10-10 23:23",
+      "link": "https://4311346.com/post/2026/1010-fever.html",
+      "author": "Andy烧麦",
+      "avatar": "https://4311346.com/favicon.ico"
+    },
+    {
       "title": "税收政策为何不向二孩家庭倾斜？",
       "created": "2026-10-10 00:40",
       "link": "https://lawtee.com/article/tax-policy/",
@@ -165,13 +186,6 @@
       "title": "Mac版Feedglot正式上架Mac App Store",
       "created": "2026-10-04 14:34",
       "link": "https://www.skyue.com/26100414.html",
-      "author": "拾月",
-      "avatar": "https://www.skyue.com/favicon.ico"
-    },
-    {
-      "title": "iOS版Feedglot正式上架App Store",
-      "created": "2026-09-24 22:35",
-      "link": "https://www.skyue.com/26092422.html",
       "author": "拾月",
       "avatar": "https://www.skyue.com/favicon.ico"
     },
@@ -204,6 +218,13 @@
       "avatar": "https://hutusi.com/assets/favicon-32x32.png"
     },
     {
+      "title": "减肥的第一个月，掉秤10斤",
+      "created": "2026-08-23 23:55",
+      "link": "https://4311346.com/post/2026/0823-weight-loss.html",
+      "author": "Andy烧麦",
+      "avatar": "https://4311346.com/favicon.ico"
+    },
+    {
       "title": "AI 开发，使用 Codex+DeepSeek‑V4 完整实操（附带成果展示）",
       "created": "2026-08-20 21:29",
       "link": "https://www.qiuyl.com/ai/639",
@@ -232,6 +253,20 @@
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
     },
     {
+      "title": "《功夫女足》不好看但有启发",
+      "created": "2026-08-06 23:40",
+      "link": "https://4311346.com/post/2026/0806-kungfusoccer.html",
+      "author": "Andy烧麦",
+      "avatar": "https://4311346.com/favicon.ico"
+    },
+    {
+      "title": "Hello，未来世界的代理人们",
+      "created": "2026-08-06 23:10",
+      "link": "https://dongjunke.cn/posts/2026/08/06/38672.html",
+      "author": "东评西就",
+      "avatar": "https://dongjunke.cn/img/logo.jpeg"
+    },
+    {
       "title": "Master of Puppets",
       "created": "2026-08-02 08:00",
       "link": "https://hutusi.com/flows/2026/08/02",
@@ -244,6 +279,13 @@
       "link": "https://butterfly.js.org/posts/butterfly-remove-built-in-aplayer-meting-alternative-methods/",
       "author": "Jerry",
       "avatar": "https://butterfly.js.org/img/avatar.png"
+    },
+    {
+      "title": "chatgpt太夯了！终于手搓出属于自己的博客主题",
+      "created": "2026-07-23 13:15",
+      "link": "https://dongjunke.cn/posts/2026/07/23/14600.html",
+      "author": "东评西就",
+      "avatar": "https://dongjunke.cn/img/logo.jpeg"
     },
     {
       "title": "从知识管理到个人数字基建",
@@ -274,11 +316,32 @@
       "avatar": "https://blognas.hwb0307.com/logo.jpg"
     },
     {
+      "title": "最近的一些碎片",
+      "created": "2026-07-11 21:39",
+      "link": "https://dongjunke.cn/posts/2026/07/11/57824.html",
+      "author": "东评西就",
+      "avatar": "https://dongjunke.cn/img/logo.jpeg"
+    },
+    {
       "title": "《认知觉醒》",
       "created": "2026-07-11 08:00",
       "link": "https://hutusi.com/flows/2026/07/11",
       "author": "胡涂说",
       "avatar": "https://hutusi.com/assets/favicon-32x32.png"
+    },
+    {
+      "title": "只要快递还在路上，这日子就有盼头",
+      "created": "2026-07-05 22:11",
+      "link": "https://4311346.com/post/2026/0705-niu.html",
+      "author": "Andy烧麦",
+      "avatar": "https://4311346.com/favicon.ico"
+    },
+    {
+      "title": "长安公园荷花",
+      "created": "2026-07-03 21:08",
+      "link": "https://dongjunke.cn/posts/2026/07/03/6858.html",
+      "author": "东评西就",
+      "avatar": "https://dongjunke.cn/img/logo.jpeg"
     },
     {
       "title": "香港銀行開戶推薦 （附邀請碼）",
@@ -293,6 +356,13 @@
       "link": "https://moreality.net/posts/34210/",
       "author": "Moreality's Blog",
       "avatar": "https://youpai.roccoshi.top/avatar.jpg"
+    },
+    {
+      "title": "当AI开始互相写信",
+      "created": "2026-06-28 10:17",
+      "link": "https://dongjunke.cn/posts/2026/06/28/11833.html",
+      "author": "东评西就",
+      "avatar": "https://dongjunke.cn/img/logo.jpeg"
     },
     {
       "title": "基于 Arthas 的多集群在线诊断系统设计与实现",
