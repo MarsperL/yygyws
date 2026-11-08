@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 37,
-    "active_num": 29,
-    "error_num": 8,
-    "article_num": 145,
-    "last_updated_time": "2026-11-08 01:39:21"
+    "active_num": 27,
+    "error_num": 10,
+    "article_num": 135,
+    "last_updated_time": "2026-11-08 13:29:25"
   },
   "article_data": [
     {
@@ -17,7 +17,7 @@
     {
       "title": "Tela: 为独立网络而做的阅读器",
       "created": "2026-11-06 08:00",
-      "link": "https://hutusi.com/flows/2026/11/06",
+      "link": "https://hutusi.com/flows/2026/11/06/",
       "author": "胡涂说",
       "avatar": "https://hutusi.com/assets/favicon-32x32.png"
     },
@@ -122,7 +122,7 @@
     {
       "title": "个人主页 hutu.si 上线",
       "created": "2026-10-25 08:00",
-      "link": "https://hutusi.com/flows/2026/10/25",
+      "link": "https://hutusi.com/flows/2026/10/25/",
       "author": "胡涂说",
       "avatar": "https://hutusi.com/assets/favicon-32x32.png"
     },
@@ -176,20 +176,6 @@
       "avatar": "https://bluehe.cn/usr/uploads/2022/09/3376344061.jpg"
     },
     {
-      "title": "DeepSeek 崩上热搜：当 AI 暂时不可用，你的工作还能继续吗？",
-      "created": "2026-10-15 13:23",
-      "link": "https://www.qiuyl.com/itzixun/648",
-      "author": "秋意零",
-      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
-    },
-    {
-      "title": "新增一员猛将！！",
-      "created": "2026-10-14 22:57",
-      "link": "https://www.qiuyl.com/xueyw/647",
-      "author": "秋意零",
-      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
-    },
-    {
       "title": "不交社保，食品安全很难真正落实",
       "created": "2026-10-13 10:30",
       "link": "https://lawtee.com/article/no-social-insurance-no-food-safety/",
@@ -211,13 +197,6 @@
       "avatar": "https://4311346.com/favicon.ico"
     },
     {
-      "title": "新功能上线，快来看看吧，有惊喜呀~",
-      "created": "2026-09-18 19:59",
-      "link": "https://www.qiuyl.com/xueyw/645",
-      "author": "秋意零",
-      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
-    },
-    {
       "title": "近期开发的四个开源项目",
       "created": "2026-09-09 02:12",
       "link": "https://blog.liushen.fun/posts/6a6de263/",
@@ -225,16 +204,9 @@
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
     },
     {
-      "title": "招聘啦，加入真成运维，一起探索 AI~",
-      "created": "2026-09-07 16:20",
-      "link": "https://www.qiuyl.com/life/zhanzhang-dongtai/643",
-      "author": "秋意零",
-      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
-    },
-    {
       "title": "AI Naive: 用 AI 做“无用之用”的独立软件作品集",
       "created": "2026-08-30 08:00",
-      "link": "https://hutusi.com/flows/2026/08/30",
+      "link": "https://hutusi.com/flows/2026/08/30/",
       "author": "胡涂说",
       "avatar": "https://hutusi.com/assets/favicon-32x32.png"
     },
@@ -246,13 +218,6 @@
       "avatar": "https://4311346.com/favicon.ico"
     },
     {
-      "title": "AI 开发，使用 Codex+DeepSeek‑V4 完整实操（附带成果展示）",
-      "created": "2026-08-20 21:29",
-      "link": "https://www.qiuyl.com/ai/639",
-      "author": "秋意零",
-      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
-    },
-    {
       "title": "与牛牛的碎碎念之趁机荐书《平面国》",
       "created": "2026-08-20 09:38",
       "link": "https://xingbianren.cn/post/326.html",
@@ -262,7 +227,7 @@
     {
       "title": "Jeff Dean 离开 Google，以及关于他的传说",
       "created": "2026-08-08 08:00",
-      "link": "https://hutusi.com/flows/2026/08/08",
+      "link": "https://hutusi.com/flows/2026/08/08/",
       "author": "胡涂说",
       "avatar": "https://hutusi.com/assets/favicon-32x32.png"
     },
@@ -290,7 +255,7 @@
     {
       "title": "Master of Puppets",
       "created": "2026-08-02 08:00",
-      "link": "https://hutusi.com/flows/2026/08/02",
+      "link": "https://hutusi.com/flows/2026/08/02/",
       "author": "胡涂说",
       "avatar": "https://hutusi.com/assets/favicon-32x32.png"
     },
@@ -617,13 +582,6 @@
       "avatar": "https://img.dreamlyn.cn:8443/i/2024/02/22/115030.webp"
     },
     {
-      "title": "影像科医生可以在肺结节诊疗流程中扮演更重要的角色",
-      "created": "2025-11-08 08:00",
-      "link": "https://blog.drpika.com/posts/2025-11-08",
-      "author": "DrPika's Blog",
-      "avatar": "https://blog.drpika.com/img/header.jpg"
-    },
-    {
       "title": "大梦一场",
       "created": "2025-11-04 22:38",
       "link": "https://thiscute.world/posts/job-and-life/?utm_source=atom_feed",
@@ -638,25 +596,11 @@
       "avatar": "https://yeshu.cloud/images/apple-touch-icon.png"
     },
     {
-      "title": "技术大爆炸的今天，医疗与 AI 的发展将走向何处？",
-      "created": "2025-09-30 08:00",
-      "link": "https://blog.drpika.com/posts/2025-09-30",
-      "author": "DrPika's Blog",
-      "avatar": "https://blog.drpika.com/img/header.jpg"
-    },
-    {
       "title": "基于 LLM 整理 Web 全栈工程师的能力模型与学习 Roadmap",
       "created": "2025-09-14 14:05",
       "link": "https://zgq.me/posts/llm-roadmap/",
       "author": "gq's blog",
       "avatar": "https://cdn.zgq.me/assets/gq-avatar.png"
-    },
-    {
-      "title": "静态博客的更优解法：CNB 云原生开发 + EdgeOne Pages",
-      "created": "2025-09-10 08:00",
-      "link": "https://blog.drpika.com/posts/2025-09-10",
-      "author": "DrPika's Blog",
-      "avatar": "https://blog.drpika.com/img/header.jpg"
     },
     {
       "title": "Butterfly 5.5 更新日誌",
@@ -848,13 +792,6 @@
       "avatar": "https://bu.dusays.com/2023/08/25/64e8ca25e89c5.jpg"
     },
     {
-      "title": "昼事夜思劳形骸，常有拨云散雾",
-      "created": "2024-06-04 08:00",
-      "link": "https://blog.drpika.com/posts/2024-06-04",
-      "author": "DrPika's Blog",
-      "avatar": "https://blog.drpika.com/img/header.jpg"
-    },
-    {
       "title": "Word of the day 5",
       "created": "2024-05-21 15:11",
       "link": "https://shoka.lostyu.me/foreign-language/english/ci/youglish/day-5/",
@@ -923,13 +860,6 @@
       "link": "https://akilar.top/posts/eee5afe4/",
       "author": "Akilarの糖果屋",
       "avatar": "https://npm.elemecdn.com/akilar-friends@latest/avatar/akilar.top.jpg"
-    },
-    {
-      "title": "杂谈医疗反腐风暴，医改将改向何方？",
-      "created": "2023-09-03 08:00",
-      "link": "https://blog.drpika.com/posts/2023-09-03",
-      "author": "DrPika's Blog",
-      "avatar": "https://blog.drpika.com/img/header.jpg"
     },
     {
       "title": "ECharts 帕累托图",
