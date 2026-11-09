@@ -1,12 +1,26 @@
 {
   "statistical_data": {
     "friends_num": 37,
-    "active_num": 29,
-    "error_num": 8,
-    "article_num": 145,
-    "last_updated_time": "2026-11-09 01:49:00"
+    "active_num": 30,
+    "error_num": 7,
+    "article_num": 150,
+    "last_updated_time": "2026-11-09 13:39:27"
   },
   "article_data": [
+    {
+      "title": "博客七周年记",
+      "created": "2026-11-09 12:16",
+      "link": "https://blog.zhheo.com/p/74qioc4q.html",
+      "author": "张洪Heo",
+      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
+    },
+    {
+      "title": "为了 WorkBuddy，我从飞牛 NAS 转向 Win NAS",
+      "created": "2026-11-09 09:30",
+      "link": "https://lawtee.com/article/workbuddy-windows-nas/",
+      "author": "海若博客",
+      "avatar": "https://hyruo.com/links/avatar.jpg"
+    },
     {
       "title": "以少年之名，赴人间之约",
       "created": "2026-11-09 00:54",
@@ -106,13 +120,6 @@
       "avatar": "https://hyruo.com/links/avatar.jpg"
     },
     {
-      "title": "iOS27.2支持禁止应用使用摇一摇广告了，不影响导航软件和视频软件",
-      "created": "2026-10-27 10:50",
-      "link": "https://blog.zhheo.com/p/wwo2eeec.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
       "title": "2026W43：杂记",
       "created": "2026-10-25 22:34",
       "link": "https://www.skyue.com/26102522.html",
@@ -202,13 +209,6 @@
       "link": "https://www.qiuyl.com/xueyw/647",
       "author": "秋意零",
       "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
-    },
-    {
-      "title": "不交社保，食品安全很难真正落实",
-      "created": "2026-10-13 10:30",
-      "link": "https://lawtee.com/article/no-social-insurance-no-food-safety/",
-      "author": "海若博客",
-      "avatar": "https://hyruo.com/links/avatar.jpg"
     },
     {
       "title": "记忆里最严重的一次发烧…",
@@ -909,6 +909,41 @@
       "link": "https://akilar.top/posts/5ad2af31/",
       "author": "Akilarの糖果屋",
       "avatar": "https://npm.elemecdn.com/akilar-friends@latest/avatar/akilar.top.jpg"
+    },
+    {
+      "title": "线下购物的乐趣是什么时候失去的？-2Cweekly#036",
+      "created": "2023-11-25 00:02",
+      "link": "https://blog.2cweekly.com/fashion/thanksgiving-day-parade-2cweekly036/",
+      "author": "2Cweekly",
+      "avatar": "https://2cweekly.com/siteface.png"
+    },
+    {
+      "title": "社交媒体如何将运动员变成时尚营销机器-2Cweekly#035",
+      "created": "2023-11-18 00:04",
+      "link": "https://blog.2cweekly.com/fashion/chanel-haute-couture-2cweekly035/",
+      "author": "2Cweekly",
+      "avatar": "https://2cweekly.com/siteface.png"
+    },
+    {
+      "title": "2024 年社交媒体时尚营销趋势-2Cweekly#034",
+      "created": "2023-11-11 00:02",
+      "link": "https://blog.2cweekly.com/fashion/anne-hathaways-first-look-2cweekly034/",
+      "author": "2Cweekly",
+      "avatar": "https://2cweekly.com/siteface.png"
+    },
+    {
+      "title": "为什么大型时装公司的女性创意总监如此之少？-2Cweekly#033",
+      "created": "2023-11-04 00:02",
+      "link": "https://blog.2cweekly.com/fashion/female-creative-chiefs-2cweekly033/",
+      "author": "2Cweekly",
+      "avatar": "https://2cweekly.com/siteface.png"
+    },
+    {
+      "title": "说说 Celine 的线上时装秀-2Cweekly#032",
+      "created": "2023-10-28 00:09",
+      "link": "https://blog.2cweekly.com/fashion/celine-2cweekly032/",
+      "author": "2Cweekly",
+      "avatar": "https://2cweekly.com/siteface.png"
     },
     {
       "title": "闪电入职vs光速离职",

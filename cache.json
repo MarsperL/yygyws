@@ -110,5 +110,9 @@
   {
     "name": "爱吃肉的猫",
     "url": "https://meuicat.com/rss.xml"
+  },
+  {
+    "name": "2Cweekly",
+    "url": "https://blog.2cweekly.com/feed"
   }
 ]
