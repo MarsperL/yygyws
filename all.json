@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 37,
-    "active_num": 27,
-    "error_num": 10,
-    "article_num": 135,
-    "last_updated_time": "2026-11-14 03:27:41"
+    "active_num": 29,
+    "error_num": 8,
+    "article_num": 145,
+    "last_updated_time": "2026-11-14 13:47:27"
   },
   "article_data": [
     {
@@ -27,6 +27,13 @@
       "link": "https://lawtee.com/article/zeng-guofan-or-zengshi/",
       "author": "海若博客",
       "avatar": "https://hyruo.com/links/avatar.jpg"
+    },
+    {
+      "title": "差2个月满10年，谈协商解除，算错了3处帐",
+      "created": "2026-11-10 22:02",
+      "link": "https://4311346.com/post/2026/1110-layoffs.html",
+      "author": "Andy烧麦",
+      "avatar": "https://4311346.com/favicon.ico"
     },
     {
       "title": "博客七周年记",
@@ -76,6 +83,13 @@
       "link": "https://www.skyue.com/26110522.html",
       "author": "拾月",
       "avatar": "https://www.skyue.com/favicon.ico"
+    },
+    {
+      "title": "明厨亮灶里挂满烧鸭，可出餐靠的是微波炉",
+      "created": "2026-11-05 21:51",
+      "link": "https://4311346.com/post/2026/1105-microwave.html",
+      "author": "Andy烧麦",
+      "avatar": "https://4311346.com/favicon.ico"
     },
     {
       "title": "有些词不能随便说，有些标签不能随便认",
@@ -176,11 +190,46 @@
       "avatar": "https://www.skyue.com/favicon.ico"
     },
     {
+      "title": "闯红灯，罚款200元，记6分",
+      "created": "2026-10-18 22:23",
+      "link": "https://4311346.com/post/2026/1018-runred.html",
+      "author": "Andy烧麦",
+      "avatar": "https://4311346.com/favicon.ico"
+    },
+    {
       "title": "厦门出差记（四）：博物馆与CCD海景",
       "created": "2026-10-18 09:30",
       "link": "https://bluehe.cn/archives/xiamen-business-trip-4",
       "author": "云心怀鹤",
       "avatar": "https://bluehe.cn/usr/uploads/2022/09/3376344061.jpg"
+    },
+    {
+      "title": "DeepSeek 崩上热搜：当 AI 暂时不可用，你的工作还能继续吗？",
+      "created": "2026-10-15 13:23",
+      "link": "https://www.qiuyl.com/itzixun/648",
+      "author": "秋意零",
+      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
+    },
+    {
+      "title": "新增一员猛将！！",
+      "created": "2026-10-14 22:57",
+      "link": "https://www.qiuyl.com/xueyw/647",
+      "author": "秋意零",
+      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
+    },
+    {
+      "title": "记忆里最严重的一次发烧…",
+      "created": "2026-10-10 23:23",
+      "link": "https://4311346.com/post/2026/1010-fever.html",
+      "author": "Andy烧麦",
+      "avatar": "https://4311346.com/favicon.ico"
+    },
+    {
+      "title": "新功能上线，快来看看吧，有惊喜呀~",
+      "created": "2026-09-18 19:59",
+      "link": "https://www.qiuyl.com/xueyw/645",
+      "author": "秋意零",
+      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
     },
     {
       "title": "近期开发的四个开源项目",
@@ -190,11 +239,32 @@
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
     },
     {
+      "title": "招聘啦，加入真成运维，一起探索 AI~",
+      "created": "2026-09-07 16:20",
+      "link": "https://www.qiuyl.com/life/zhanzhang-dongtai/643",
+      "author": "秋意零",
+      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
+    },
+    {
       "title": "AI Naive: 用 AI 做“无用之用”的独立软件作品集",
       "created": "2026-08-30 08:00",
       "link": "https://hutusi.com/flows/2026/08/30/",
       "author": "胡涂说",
       "avatar": "https://hutusi.com/assets/favicon-32x32.png"
+    },
+    {
+      "title": "减肥的第一个月，掉秤10斤",
+      "created": "2026-08-23 23:55",
+      "link": "https://4311346.com/post/2026/0823-weight-loss.html",
+      "author": "Andy烧麦",
+      "avatar": "https://4311346.com/favicon.ico"
+    },
+    {
+      "title": "AI 开发，使用 Codex+DeepSeek‑V4 完整实操（附带成果展示）",
+      "created": "2026-08-20 21:29",
+      "link": "https://www.qiuyl.com/ai/639",
+      "author": "秋意零",
+      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
     },
     {
       "title": "与牛牛的碎碎念之趁机荐书《平面国》",
