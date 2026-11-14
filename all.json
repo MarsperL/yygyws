@@ -1,12 +1,33 @@
 {
   "statistical_data": {
     "friends_num": 37,
-    "active_num": 29,
-    "error_num": 8,
-    "article_num": 145,
-    "last_updated_time": "2026-11-14 13:47:27"
+    "active_num": 27,
+    "error_num": 10,
+    "article_num": 135,
+    "last_updated_time": "2026-11-15 01:51:29"
   },
   "article_data": [
+    {
+      "title": "回邮美学（二）：“会说话的界面”",
+      "created": "2026-11-14 21:52",
+      "link": "https://bluehe.cn/archives/email-reply-2026",
+      "author": "云心怀鹤",
+      "avatar": "https://bluehe.cn/usr/uploads/2022/09/3376344061.jpg"
+    },
+    {
+      "title": "X100Ultra CPU虚焊，得算清这笔账",
+      "created": "2026-11-14 19:54",
+      "link": "https://4311346.com/post/2026/1115-x500promax.html",
+      "author": "Andy烧麦",
+      "avatar": "https://4311346.com/favicon.ico"
+    },
+    {
+      "title": "EditorImageSync  for Typecho",
+      "created": "2026-11-14 19:38",
+      "link": "https://bluehe.cn/archives/editorimagesync-typecho",
+      "author": "云心怀鹤",
+      "avatar": "https://bluehe.cn/usr/uploads/2022/09/3376344061.jpg"
+    },
     {
       "title": "苹果M芯片我该怎么选？M1和M6到底在做某件事的时候差多少？",
       "created": "2026-11-13 11:55",
@@ -176,13 +197,6 @@
       "avatar": "https://bluehe.cn/usr/uploads/2022/09/3376344061.jpg"
     },
     {
-      "title": "厦门出差记（五）：攻略厦门植物园",
-      "created": "2026-10-19 06:16",
-      "link": "https://bluehe.cn/archives/xiamen-business-trip-5",
-      "author": "云心怀鹤",
-      "avatar": "https://bluehe.cn/usr/uploads/2022/09/3376344061.jpg"
-    },
-    {
       "title": "2026W42：桂博园和良渚遗址公园",
       "created": "2026-10-18 22:43",
       "link": "https://www.skyue.com/26101822.html",
@@ -197,39 +211,11 @@
       "avatar": "https://4311346.com/favicon.ico"
     },
     {
-      "title": "厦门出差记（四）：博物馆与CCD海景",
-      "created": "2026-10-18 09:30",
-      "link": "https://bluehe.cn/archives/xiamen-business-trip-4",
-      "author": "云心怀鹤",
-      "avatar": "https://bluehe.cn/usr/uploads/2022/09/3376344061.jpg"
-    },
-    {
-      "title": "DeepSeek 崩上热搜：当 AI 暂时不可用，你的工作还能继续吗？",
-      "created": "2026-10-15 13:23",
-      "link": "https://www.qiuyl.com/itzixun/648",
-      "author": "秋意零",
-      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
-    },
-    {
-      "title": "新增一员猛将！！",
-      "created": "2026-10-14 22:57",
-      "link": "https://www.qiuyl.com/xueyw/647",
-      "author": "秋意零",
-      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
-    },
-    {
       "title": "记忆里最严重的一次发烧…",
       "created": "2026-10-10 23:23",
       "link": "https://4311346.com/post/2026/1010-fever.html",
       "author": "Andy烧麦",
       "avatar": "https://4311346.com/favicon.ico"
-    },
-    {
-      "title": "新功能上线，快来看看吧，有惊喜呀~",
-      "created": "2026-09-18 19:59",
-      "link": "https://www.qiuyl.com/xueyw/645",
-      "author": "秋意零",
-      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
     },
     {
       "title": "近期开发的四个开源项目",
@@ -239,32 +225,11 @@
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
     },
     {
-      "title": "招聘啦，加入真成运维，一起探索 AI~",
-      "created": "2026-09-07 16:20",
-      "link": "https://www.qiuyl.com/life/zhanzhang-dongtai/643",
-      "author": "秋意零",
-      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
-    },
-    {
       "title": "AI Naive: 用 AI 做“无用之用”的独立软件作品集",
       "created": "2026-08-30 08:00",
       "link": "https://hutusi.com/flows/2026/08/30/",
       "author": "胡涂说",
       "avatar": "https://hutusi.com/assets/favicon-32x32.png"
-    },
-    {
-      "title": "减肥的第一个月，掉秤10斤",
-      "created": "2026-08-23 23:55",
-      "link": "https://4311346.com/post/2026/0823-weight-loss.html",
-      "author": "Andy烧麦",
-      "avatar": "https://4311346.com/favicon.ico"
-    },
-    {
-      "title": "AI 开发，使用 Codex+DeepSeek‑V4 完整实操（附带成果展示）",
-      "created": "2026-08-20 21:29",
-      "link": "https://www.qiuyl.com/ai/639",
-      "author": "秋意零",
-      "avatar": "https://blog.images.qiuyl.com/blog_images/202405011445120.png"
     },
     {
       "title": "与牛牛的碎碎念之趁机荐书《平面国》",
@@ -428,20 +393,6 @@
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
     },
     {
-      "title": "鱼鱼API 激活与使用指导",
-      "created": "2026-06-07 10:50",
-      "link": "https://blog.anheyu.com/posts/gJHa",
-      "author": "安知鱼",
-      "avatar": "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"
-    },
-    {
-      "title": "Codex使用指南",
-      "created": "2026-06-07 10:49",
-      "link": "https://blog.anheyu.com/posts/Xtbx",
-      "author": "安知鱼",
-      "avatar": "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"
-    },
-    {
       "title": "科研造假风盛行背后的冷知识",
       "created": "2026-05-31 20:09",
       "link": "https://blognas.hwb0307.com/other/7075",
@@ -538,27 +489,6 @@
       "link": "https://www.boysec.cn/boy/411bb493.html",
       "author": "王先森",
       "avatar": "https://images.boysec.cn/medias/avatar.jpg"
-    },
-    {
-      "title": "鱼高高 - 一个无广告的微信小程序二维码生成器",
-      "created": "2026-01-21 15:27",
-      "link": "https://blog.anheyu.com/posts/MrnO",
-      "author": "安知鱼",
-      "avatar": "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"
-    },
-    {
-      "title": "2026年度AI工具大分享 | 五大方向深度对比解析",
-      "created": "2026-01-19 11:57",
-      "link": "https://blog.anheyu.com/posts/ifDZ",
-      "author": "安知鱼",
-      "avatar": "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"
-    },
-    {
-      "title": "Vue 3.6 Alien Signals 深度解析：信号驱动的响应式革命",
-      "created": "2026-01-17 16:14",
-      "link": "https://blog.anheyu.com/posts/P9N3",
-      "author": "安知鱼",
-      "avatar": "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"
     },
     {
       "title": "小律师某音商城购物遭遇刷单商家假发货，职业病犯投诉追查后感叹套路太深",
