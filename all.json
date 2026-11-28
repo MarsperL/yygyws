@@ -4,7 +4,7 @@
     "active_num": 29,
     "error_num": 8,
     "article_num": 145,
-    "last_updated_time": "2026-11-28 04:56:42"
+    "last_updated_time": "2026-11-28 15:11:36"
   },
   "article_data": [
     {
@@ -34,13 +34,6 @@
       "link": "https://bluehe.cn/archives/rss-show",
       "author": "云心怀鹤",
       "avatar": "https://bluehe.cn/usr/uploads/2022/09/3376344061.jpg"
-    },
-    {
-      "title": "Kubernetes 集群：单机 GPU Kubernetes 环境搭建实战",
-      "created": "2026-11-24 21:04",
-      "link": "https://www.boysec.cn/boy/280155a2.html",
-      "author": "王先森",
-      "avatar": "https://images.boysec.cn/medias/avatar.jpg"
     },
     {
       "title": "两次售后，几番折腾",
@@ -606,6 +599,13 @@
       "title": "Kubernetes运维-Skywalking微服务链路追踪",
       "created": "2025-11-25 14:33",
       "link": "https://www.boysec.cn/boy/54f8a717.html",
+      "author": "王先森",
+      "avatar": "https://images.boysec.cn/medias/avatar.jpg"
+    },
+    {
+      "title": "Kubernetes运维-使用Skywalking进行链路追踪",
+      "created": "2025-11-24 10:31",
+      "link": "https://www.boysec.cn/boy/e2e3d5d3.html",
       "author": "王先森",
       "avatar": "https://images.boysec.cn/medias/avatar.jpg"
     },
